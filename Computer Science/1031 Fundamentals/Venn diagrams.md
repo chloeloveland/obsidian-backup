@@ -1,2 +1,3 @@
 - Set operations can be represented and thus simplified using Venn diagrams.
-- The operation $A$
+- The operation $A\cup B$ can be seen below as a diagram:,
+- 
