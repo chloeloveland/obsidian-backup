@@ -10,7 +10,7 @@
 - there are three levels of data abstractions
 - the three level architecture is as seen:
 
-![image.png|400](image.png)
+![image.png|400](LevelsOfDatabase.png)
 
 - the **external** level is the end user's view of the database
 - different users can have different permissions
@@ -87,7 +87,7 @@
 
 - Sometimes it is natural to classify entities into subclasses:
 
-![{857B6BB1-F2EA-4287-9373-853FD2A00D96}.png|470](857B6BB1-F2EA-4287-9373-853FD2A00D96.png)
+![{857B6BB1-F2EA-4287-9373-853FD2A00D96}.png|470](ISAheirarchy.png)
 
 - Constraints:
     - Overlap constraints
