@@ -15,7 +15,7 @@
 ## Set Notation
 
 - Can be notated as {1,2,3,4} or {1,2,...,100}
-    - See [[Set expression]]
+    - See [[Expressing Sets]]
 - ∈ denotes membership e.g $2 ∈ ℕ$
     - This means the element 2 is in the set ℕ
 - ∉ denotes lack of membership e.g -1 ∉ ℕ
@@ -69,17 +69,4 @@
 - Since order is considered in Tuples, AxB is **not** the same as BxA.
 - To find the cardinality of the product of two sets, we just multiply the cardinalities of the individual sets together. e.g $|A| = 2$ and $|B| = 3$, then $|A\times B| = 6$> 
 - To find the cardinality of the power set, we do 2^(cardinality of set). For example, $|A| = 10$, then $|P(A)| = 2^{10}$. 
-
-## Recursion
-
-- Defining a set via recursion involves 2 (3) steps
-    1. base case
-    2. recursive case - define how new values are generated from the base case
-    3. (nothing else in set) - this is usually left implied
-
-> [!Example]
->  Here is a recursive definition for the set N of natural numbers:
->  1. Know that 0 ∈ **N**
-> 2. If we already know x ∈ $\mathbb{N}$ then we know (x+1) ∈ $\mathbb{N}$.
-> 3. Nothing else is in set $\mathbb{N}$
 
