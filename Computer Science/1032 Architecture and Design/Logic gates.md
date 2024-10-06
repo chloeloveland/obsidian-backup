@@ -1,0 +1,3 @@
+- A logic gate is an electrical circuit which takes inputs and gives an output. Examples include AND, NOT, OR, XOR, etc.
+- Logic gate I/O can be represented using [[Truth tables]]
+- Logic gates are made up of [[Transistors]], which is what allows them to physically work
