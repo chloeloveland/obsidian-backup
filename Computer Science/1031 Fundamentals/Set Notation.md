@@ -8,12 +8,12 @@
 
 - ∉ denotes lack of membership e.g -1 ∉ ℕ
 
-- ⊂ denotes [[Subset]] e.g ℕ⊂ℤ, {1,2} ⊂ {1,2,3} ^pa0ckp
+- ⊂ denotes [[subset]] e.g ℕ⊂ℤ, {1,2} ⊂ {1,2,3} ^pa0ckp
     - This means the whole set ℕ is in ℤ
 
-- ⊆ denotes subset or equal (so the sets can actually be identical) whereas ⊂ is a 'proper' subset
+- ⊆ denotes [[subset]] or equal (so the sets can actually be identical) whereas ⊂ is a 'proper' subset
 
-- ⊄ means not a (proper) subset
+- ⊄ means not a (proper) [[subset]]
 
 - $\mathcal P$ is a [[Power Set]]. A power set is a set which contains all possible subsets of its defining set.
 
