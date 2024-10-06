@@ -15,7 +15,7 @@
 ## Set Notation
 
 - Can be notated as {1,2,3,4} or {1,2,...,100}
-    - See [[#Set Comprehension]] and [[#Recursion]]
+    - See [[Set expression]]
 - ∈ denotes membership e.g $2 ∈ ℕ$
     - This means the element 2 is in the set ℕ
 - ∉ denotes lack of membership e.g -1 ∉ ℕ
@@ -37,16 +37,7 @@
     - note that set difference is **non-commutative**
     - So ${A\backslash B \neq B \backslash A}$
 
-## Set Comprehension
 
-- One way to show the members of a set is to list them
-- this does not work for large sets
-- for this we may use set comprehension:
-- e.g {x I x∈{1, ..., 100}, x<10 and x is odd}
-- this is defining a set using another set
-- so the result is a set which contains the odd numbers 1-10
-- the format for this notation is as seen:
-- so the result set is 42 , 22 = 16, 4
 
 ## Cardinality
 
