@@ -22,7 +22,7 @@
     - union is the combination of sets; ${A \cup B}$ is all the elements of both A and B
 - $\cap$  denotes intersection 
     - intersection returns the elements two sets have in common
-- $\backslash$ denotes difference
+- $\backslash$ denotes [[Set Difference]]
     - difference finds the set of elements that are not common
     - ${A\backslash B}$ essentially returns A take away B
     - so if A = {1,2,3} and B= {1,2}, then ${A\backslash B}$ = {3}
