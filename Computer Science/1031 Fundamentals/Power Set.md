@@ -1,0 +1,1 @@
+- A power set is the set of all possible [[Tuples]] that can be generated from two [[Set theory]]
