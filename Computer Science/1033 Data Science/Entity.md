@@ -3,6 +3,6 @@
 - a person's attributes may be their name/DOB/height etc.
 - an entity must have at least one attribute
 - otherwise it is not distinguishable and has no data that needs storing
-- in a database entities are linked together using [[relationships]]
+- in a database entities are linked together using [[Relationship]]
 	- see [[Entity-Relationship diagram]]
 - an entity must have a [[Keys|primary key]]

@@ -1,1 +1,1 @@
-- A schema is a description of data in terms of a data model - the tables, fields and [[Relationships]]
+- A schema is a description of data in terms of a data model - the tables, fields and [[Relationship]]
