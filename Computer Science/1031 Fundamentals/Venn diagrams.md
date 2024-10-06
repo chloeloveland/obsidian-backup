@@ -1,0 +1,2 @@
+- Set operations can be represented and thus simplified using Venn diagrams.
+- The operation $A$

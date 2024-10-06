@@ -17,6 +17,7 @@
 - Sets can be operated on in various ways
 - For example, we can combine them using *intersection* or *union*
 - For the various operators and their symbols, see [[Set Notation]]
+- Set operations can be represented and simplified using [[Venn diagrams]]
 
 > [!Why is this useful?]
 > - Sets and [[tuples]] can be used to abstractly model systems
