@@ -4,11 +4,10 @@
 - there are three levels of data abstractions for a database
 - the three level architecture is as seen:
 
-> [!] Title
-> Contents
+> [!Diagram] Three level architecture
+> ![image.png|400](LevelsOfDatabase.png)
 
 
-![image.png|400](LevelsOfDatabase.png)
 
 - the **external** level is the what a user might see - their basket on their shopping site, for example
 - different users can have different permissions
