@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
 ## Intro
 
 - A set is a collection of objects
