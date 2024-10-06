@@ -37,34 +37,11 @@
     - note that set difference is **non-commutative**
     - So ${A\backslash B \neq B \backslash A}$
 
-## Cardinality
 
-- Cardinality is the size of a set
-- it ignores duplicates (because they do not exist in sets)
-- so the set {1,2,3,4,4} has a size of 4
-- the cardinality of ℕ is infinite
-
-## Tuples
-
-- A tuple is a pair of values, where each is from its own set
-- if set A = {tea, coffee} and set B = ℝ, then a tuple from these sets could be (tea, 1.2) or (coffee, 2) etc.
-- **in a tuple order is considered, unlike a set**
 
 > [!Why is this useful?]
 > - Sets and tuples can be used to abstractly model systems
 > - Tuples for objects and sets for collections of objects
 > - So we could have tuples which represent drinks and their prices
 > - and a set which contains all of these different drinks options
-
-## Cartesian Product
-
-- Notation is AxB where A and B are sets
-- This product is a set which contains all possible [[tuples]] of (element from A, element from B)
-
-> [!Example]
-> - Let $A = {1, 2, 3}$ and $B = {a, b}$.
-> - $A\times B = {(1, a), (1, b), (2, a), (2, b), (3, a), (3, b)}$**
-- Since order is considered in Tuples, AxB is **not** the same as BxA.
-- To find the cardinality of the product of two sets, we just multiply the cardinalities of the individual sets together. e.g $|A| = 2$ and $|B| = 3$, then $|A\times B| = 6$> 
-- To find the cardinality of the power set, we do 2^(cardinality of set). For example, $|A| = 10$, then $|P(A)| = 2^{10}$. 
 
