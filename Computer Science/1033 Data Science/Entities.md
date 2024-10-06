@@ -1,0 +1,2 @@
+- An entity is a “thing" or "object" in the real world. An entity contains attributes, which describe that entity.
+- 
