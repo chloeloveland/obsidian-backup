@@ -19,9 +19,7 @@
 
 ## Relationships
 
-- A relationship is an association among several entities
-- in an E-R diagram, a relationship can optionally have attributes to describe them
-- Relationships can take different forms: 1-1, 1-many, many-1, many-many
+
 
 ## Participation Constraint
 
