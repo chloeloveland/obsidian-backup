@@ -12,6 +12,9 @@
 - ℚ is the rational numbers (nums that can be expressed as a fraction)
 - ℝ is the real numbers (a number on the number line, any 1 dimensional value)
 
+## Operating on sets
+- Sets can be operated on in various ways
+- For example, we can combine them using *intersection*, $\intersec$
 ## Set Notation
 
 - Can be notated as {1,2,3,4} or {1,2,...,100}
@@ -38,7 +41,7 @@
     - So ${A\backslash B \neq B \backslash A}$
 
 > [!Why is this useful?]
-> - Sets and [[tuples can be used to abstractly model systems
+> - Sets and [[tuples]] can be used to abstractly model systems
 > - Tuples for objects and sets for collections of objects
 > - So we could have tuples which represent drinks and their prices
 > - and a set which contains all of these different drinks options
