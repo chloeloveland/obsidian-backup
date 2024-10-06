@@ -37,8 +37,6 @@
     - note that set difference is **non-commutative**
     - So ${A\backslash B \neq B \backslash A}$
 
-
-
 > [!Why is this useful?]
 > - Sets and tuples can be used to abstractly model systems
 > - Tuples for objects and sets for collections of objects
