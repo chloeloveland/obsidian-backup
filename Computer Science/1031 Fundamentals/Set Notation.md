@@ -1,10 +1,11 @@
 - Can be notated as {1,2,3,4} or {1,2,...,100}
     - See [[Expressing Sets]] for more ways    
-- ∈ denotes [[element|membership]]
-- ∉ denotes lack of [[element|membership]] e.g -1 ∉ ℕ
-- ⊂ denotes [[subset]] e.g ℕ⊂ℤ, {1,2} ⊂ {1,2,3} ^pa0ckp
+- $A \in B$ denotes [[element|membership]]
+- $A\notin B$ denotes lack of [[element|membership]] e.g -1 ∉ ℕ
+- $A\subset B$ denotes [[subset]] e.g ℕ⊂ℤ, {1,2} ⊂ {1,2,3} ^pa0ckp
     - This means the whole set ℕ is in ℤ
-- $A\$ means not a subset
+- $A\subseteq B$ denotes [[subset]] or equal (so the sets can actually be identical) whereas ⊂ is a 'proper' subset
+- $A\nsubseteq B$ means not a [[subset]]
 - $\mathcal P$(A) denotes a [[Power Set]] (of A).
 - $A\times B$ denotes the [[cartesian product]] of sets A and B
 - A line (pipe) before and after a set - e.g $|A|$ or $|A\times B|$ - is the [[cardinality]] of the set ^o5fo19
