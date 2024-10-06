@@ -9,4 +9,3 @@
 >- different users can have different permissions
 >- the **conceptual** level describes what data is stored in the database as well as the relationships between this data
 >- the **internal** level is the physical representation of the database on the computer; it describes how the data is stored on the database
-
