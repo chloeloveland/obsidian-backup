@@ -1,9 +1,8 @@
 ## Truth tables
 
-- The I/O of [[Logic Gates]] and circuits can be represented by truth tables
+- The I/O of Logic Gates and circuits can be represented by truth tables
 ## Internals of gates
-
-- Logic gates in computer systems are comprised of p-MOS and n-MOS transistors
+- Logic gates in computer systems are comprised of p-MOS and n-MOS [[transistors]]
 - p-MOS transistors isolate source and drain when gate is positive
 - n-MOS isolates source and drain when gate is negative
 - these are combined in different ways to make logic gates physically work
