@@ -20,17 +20,6 @@
 
 ## Weak Entities
 
-- A weak entity is an entity with insufficient attributes to form a primary key
-- they can be identifies uniquely by considering the primary key of another (owner) entity
-    - Example:
-        - Employees can purchase insurance policies to cover dependents
-        - these dependents attributes are only *pname* and *dateofbirth*
-        - this is a weak entity
-        - so it is identified using the primary key of **employee**
-- **Restrictions**
-    - Owner and weak must have a one to many relationship (where owner is one)
-    - Weak entity must have total participation in the identifying relationship
-
 ## Class Hierarchies
 
 - Sometimes it is natural to classify entities into subclasses:

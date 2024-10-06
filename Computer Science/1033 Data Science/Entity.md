@@ -5,4 +5,4 @@
 - otherwise it is not distinguishable and has no data that needs storing
 - in a database entities are linked together using [[Relationship]]
 	- see [[Entity-Relationship diagram]]
-- an entity must have a [[Keys|primary key]]
+- an entity must have a [[Keys|primary key]]; if a primary key cannot be made, the entity is a [[Weak entity]]
