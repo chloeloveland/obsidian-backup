@@ -1,8 +1,4 @@
-## Intro to databases
-
-- Each database has a data model (relational, object oriented etc) and a **schema**
-- **Schema**: a description of data in terms of a data model - the tables, fields and relationships
-- Declarative query language is used to specify what should be returned, but does not tell the computer how to retrieve that data.
+[[Databases]]
 
 ## Data abstractions
 
