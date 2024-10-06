@@ -1,3 +1,7 @@
-- An entity is a “thing" or "object" in the real world. An entity contains attributes, which describe that entity.
-- Examples of entities include: a student, a lecturer, a security guard etc.
-- Their attributes might include ID, DOB, Name etc.
+- An **[[entity]]** is a real world object which is unique/distinguishable
+- an entity is represented by a set of attributes, whose unique values are stored to distinguish
+- a person's attributes may be their name/DOB/height etc.
+- an [[entity]] must have at least one attribute
+- otherwise it is not distinguishable and has no data that needs storing
+- in a database entities are linked together using [[relationships]]
+	- see [[Entity-Relationship diagram]]
