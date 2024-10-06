@@ -1,5 +1,4 @@
-- A database has a data model (relational, object oriented etc) and a **schema**
-- **Schema**: a description of data in terms of a data model - the tables, fields and relationships
+- A database has a data model (relational, object oriented etc) and a **[[Schema]]** 
 - The data that the end user sees is [[Data abstractions|abstracted]]: The users do not need to know the physical storage details
 - Databases are [[Database design|designed]] through a process to ensure they have [[Data Independence]] 
 - Declarative query language is used to specify what should be returned, but does not tell the computer how to retrieve that data.
