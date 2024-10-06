@@ -5,3 +5,6 @@
 
 > [!Tip] Symbols
 > ![[nmos-pmos-symbols-l-2210194294.jpg|350]]
+> [!]
+> This is the internals of a not gate:
+> ![[notgatetrans.png]]
