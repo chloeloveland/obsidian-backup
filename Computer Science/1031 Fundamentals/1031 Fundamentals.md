@@ -37,8 +37,6 @@
     - note that set difference is **non-commutative**
     - So ${A\backslash B \neq B \backslash A}$
 
-
-
 ## Cardinality
 
 - Cardinality is the size of a set
@@ -61,7 +59,7 @@
 ## Cartesian Product
 
 - Notation is AxB where A and B are sets
-- This product is a set which contains all possible tuples of (element from A, element from B)
+- This product is a set which contains all possible [[tuples]] of (element from A, element from B)
 
 > [!Example]
 > - Let $A = {1, 2, 3}$ and $B = {a, b}$.
