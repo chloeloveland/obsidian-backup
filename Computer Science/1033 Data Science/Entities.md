@@ -1,2 +1,3 @@
 - An entity is a “thing" or "object" in the real world. An entity contains attributes, which describe that entity.
-- 
+- Examples of entities include: a student, a lecturer, a security guard etc.
+- Their attributes might include ID, DOB, Name etc.
