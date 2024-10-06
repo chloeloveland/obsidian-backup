@@ -7,4 +7,4 @@
         - so it is identified using the primary key of **employee**
 - **Restrictions**
     - Owner and weak must have a one to many [[relationship]] (where owner is one)
-    - Weak entity must have total participation in the identifying relationship
+    - Weak entity must have [[Participation Constraint|total participation]] in the identifying relationship
