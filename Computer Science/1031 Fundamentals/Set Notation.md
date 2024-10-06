@@ -17,8 +17,8 @@
 
 - $\mathcal P$ is a [[Power Set]]. A power set is a set which contains all possible subsets of its defining set.
 
-- AxB denotes the cartesian product of sets A and B
-- A line before and after a set - e.g |AxB| - is the cardinality (size) of the set
+- $A\times B$ denotes the [[cartesian product]] of sets A and B
+- A line (pipe) before and after a set - e.g $|A\times B|$ - is the cardinality (size) of the set
 - $\cup$ denotes union
     - union is the combination of sets; ${A \cup B}$ is all the elements of both A and B
 - $\cap$  denotes intersection 
