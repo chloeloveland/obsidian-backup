@@ -14,10 +14,10 @@
 
 - ⊄ means not a (proper) [[subset]]
 
-- $\mathcal P$ is a [[Power Set]]. A power set is a set which contains all possible subsets of its defining set.
+- $\mathcal P$(A) denotes a [[Power Set]] (of A).
 
 - $A\times B$ denotes the [[cartesian product]] of sets A and B
-- A line (pipe) before and after a set - e.g $|A\times B|$ - is the cardinality (size) of the set
+- A line (pipe) before and after a set - e.g $|A\times B|$ - is the [[cardinality]] of the set ^o5fo19
 - $\cup$ denotes union
     - union is the combination of sets; ${A \cup B}$ is all the elements of both A and B
 - $\cap$  denotes intersection 
