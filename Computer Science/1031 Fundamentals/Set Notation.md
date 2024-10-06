@@ -8,11 +8,15 @@
 
 - ∉ denotes lack of membership e.g -1 ∉ ℕ
 
-- ⊂ denotes subset e.g ℕ⊂ℤ, {1,2} ⊂ {1,2,3}
+- ⊂ denotes [[Subset]] e.g ℕ⊂ℤ, {1,2} ⊂ {1,2,3}
     - This means the whole set ℕ is in ℤ
+
 - ⊆ denotes subset or equal (so the sets can actually be identical) whereas ⊂ is a 'proper' subset
+
 - ⊄ means not a (proper) subset
-- **P**(A) is a power set. A power set is a set which contains all possible subsets of its defining set.
+
+- $\mathcal P$ is a [[Power Set]]. A power set is a set which contains all possible subsets of its defining set.
+
 - AxB denotes the cartesian product of sets A and B
 - A line before and after a set - e.g |AxB| - is the cardinality (size) of the set
 - $\cup$ denotes union
