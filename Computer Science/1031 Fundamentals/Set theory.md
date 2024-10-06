@@ -1,4 +1,4 @@
-## Intro
+## What is a set?
 
 - A set is a collection of objects
 - Can contain infinite elements
@@ -38,7 +38,7 @@
     - So ${A\backslash B \neq B \backslash A}$
 
 > [!Why is this useful?]
-> - Sets and tuples can be used to abstractly model systems
+> - Sets and [[tuples can be used to abstractly model systems
 > - Tuples for objects and sets for collections of objects
 > - So we could have tuples which represent drinks and their prices
 > - and a set which contains all of these different drinks options
