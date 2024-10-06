@@ -4,6 +4,7 @@
 - Can contain infinite elements
 - Elements are unordered - more like a bag than a list
 - There are no duplicates in a set
+- Sets are typically [[Set Notation|denoted]] by a capital letter (A, B, X, Y etc.)
 
 ## Common Sets
 
