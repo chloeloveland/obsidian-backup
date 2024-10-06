@@ -19,7 +19,7 @@
 - For the various operators and their symbols, see [[Set Notation]]
 - Set operations can be represented and simplified using [[Venn diagrams]]
 
-> [!Why is this useful?]
+> [!Help] Why is this useful?
 > - Sets and [[tuples]] can be used to abstractly model systems
 > - Tuples for objects and sets for collections of objects
 > - So we could have tuples which represent drinks and their prices
