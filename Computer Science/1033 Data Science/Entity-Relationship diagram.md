@@ -7,4 +7,4 @@
 
 
 > [!diagram] Example of a E-R dia. of a bike shop
-> 
+> ![[entityRelationshipBikeShop.png|400]]
