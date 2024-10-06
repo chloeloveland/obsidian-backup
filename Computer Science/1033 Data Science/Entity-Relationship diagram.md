@@ -4,3 +4,7 @@
 - a person's attributes may be their name/DOB/height etc.
 - an entity must have at least one attribute
 - otherwise it is not distinguishable and has no data that needs storing
+
+
+> [!diagram] Example of a E-R dia. of a bike shop
+> 
