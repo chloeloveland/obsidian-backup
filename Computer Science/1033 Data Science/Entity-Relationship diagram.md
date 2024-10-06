@@ -6,5 +6,5 @@
 - otherwise it is not distinguishable and has no data that needs storing
 
 
-> [!diagram] Example of a E-R dia. of a bike shop
+> [!diagram] Example of an E-R diagram of a bike shop
 > ![[entityRelationshipBikeShop.png|400]]
