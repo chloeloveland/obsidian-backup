@@ -1,6 +1,6 @@
 ## What is a set?
 
-- A set is a collection of objects
+- A set is a collection of [[Element|elements]]
 - Can contain infinite elements
 - Elements are unordered - more like a bag than a list
 - There are no duplicates in a set
