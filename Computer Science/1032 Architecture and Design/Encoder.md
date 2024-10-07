@@ -1,0 +1,2 @@
+- An encoder is a [[logical circuit]] which takes multiple inputs and produces a **coded output**.
+- This is in contrast to a [[multiplexer]]
