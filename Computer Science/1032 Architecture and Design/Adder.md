@@ -13,3 +13,10 @@ tags:
 
 > [!diagram] A full adder comprised of halves.
 > ![[fullAdder2-1024x520-2935280620.png|350]]
+
+
+> [!tip] Title
+> Contents
+
+- The [[Truth tables|truth table]] for the full adder is as follows:
+![[full-adder-truth-table-2237473227.png|300]]
