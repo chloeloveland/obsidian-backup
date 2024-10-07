@@ -1,7 +1,9 @@
 
 
-> [!t] Title
-> Contents
+> [!todo] Title
+> - [ ] improve notes on multiplexer / demultiplexer
+>- [ ] improve notes on decoder / encoder
 
-- [ ] improve notes on multiplexer / demultiplexer
-- [ ] improve notes on decoder / encoder
+
+
+

@@ -6,6 +6,6 @@
 
 >[!tip]
 >- A multiplexer is often used to create the **majority** function.
->- This is often used after data transmission for [[data validation]].
+>- This is used after data transmission for [[data validation]].
 
 
