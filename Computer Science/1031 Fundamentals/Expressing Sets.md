@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 ## Basic set expression
 - The simplest form of expressing a set is writing down all its components
 - If a set has a pattern and is very long or infinite, we can express it with an ellipsis instead 

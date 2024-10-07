@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - An entity is a real world object which is unique/distinguishable
 - an entity is represented by a set of attributes, whose unique values are stored to distinguish
 - a person's attributes may be their name/DOB/height etc.

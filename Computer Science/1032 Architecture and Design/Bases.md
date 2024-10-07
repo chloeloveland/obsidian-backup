@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 ### Decimal
 - Most of humanity uses the number system base 10.
 - This system contains the numerals 0-9.

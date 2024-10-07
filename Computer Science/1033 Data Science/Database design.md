@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - Database design can be divided into six steps
     1. **Requirements analysis** - what data; for what application; what operations are most frequent
     2. **Conceptual design** - A high level description of the data to be saved and the constraints put on the design - this step usually involves the creation of an [[Entity-Relationship diagram]]

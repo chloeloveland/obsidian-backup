@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 ## Data abstractions
 
 - Abstraction is the concept of removing unnecessary data; the user does not need to know everything about the [[Databases|database]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - A form of conceptual data model which models data and constraints as [[Entity]] and [[Relationship]]
 - [[Entity]] are represented by rectangles
 - attributes by ovals

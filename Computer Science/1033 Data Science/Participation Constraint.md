@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - A **participation constraint** imposes some requirements on the number of times an [[entity]] participates in a [[relationship]]
     - Total participation: Each [[entity]] must participate in at least one [[relationship]]
 	    - e.g every order to an online store **must have a customer**

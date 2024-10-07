@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 ## Cartesian Product
 - Notation is $A\times B$ where $A$ and $B$ are sets
 - This product is a set which contains all possible [[Tuples]] of (element from A, element from B)

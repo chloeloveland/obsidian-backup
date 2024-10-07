@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 - Can be notated as {1,2,3,4} or {1,2,...,100}
     - See [[Expressing Sets]] for more ways    
 - $A \in B$ denotes [[element|membership]]

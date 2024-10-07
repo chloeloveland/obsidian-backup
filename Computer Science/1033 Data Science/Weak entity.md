@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - A weak entity is an [[entity]] with insufficient attributes to form a [[keys|primary key]]
 - they can be identified uniquely by considering the primary key of another (owner) entity
     - Example:

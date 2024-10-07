@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 ## Boolean algebra
 
 - Boolean logic can be represented using boolean algebra

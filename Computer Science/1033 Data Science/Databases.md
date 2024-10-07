@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - A database is a way of linking together data about different things - i.e. [[Entity]]
 - They are used primarily to reduce data redundancy and to introduce better ways to search through and apply data
 - A database has a data model (relational, object oriented etc) and a **[[Schema]]**

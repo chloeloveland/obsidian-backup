@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 - We can convert between [[bases]] using specific procedures.
 ### Conversion to [[Bases#Decimal|decimal]]
 - Conversion to decimal from other bases involves adding up the numeric values ($2^n$ where n is the position from right to left)

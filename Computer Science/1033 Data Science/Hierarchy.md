@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - Sometimes it is natural to classify [[entity|entities]] into subclasses:
 
 ![{857B6BB1-F2EA-4287-9373-853FD2A00D96}.png|470](ISAheirarchy.png)

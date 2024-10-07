@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 
 -  difference finds the set of elements that are not common
 - ${A\backslash B}$ essentially returns A take away B
