@@ -13,6 +13,6 @@ tags:
 >- A multiplexer is often used to create the **majority** function.
 >- This is used after data transmission for [[data validation]].
 >- It is also often used to have multiple data streams over a single line:
->![[Telephony_multiplexer_system.gif]]
+>![[Telephony_multiplexer_system.gif]] ^ef4llu
 
 
