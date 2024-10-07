@@ -1,5 +1,5 @@
-- A multiplexer is a combination of [[Logic gates]] which takes a number of inputs and forwards a selected input to the singular output line based on the combination of inputs.
-- The device which performs the inverse function is the [[Demultiplexer]]
+- A multiplexer is a [[logical circuit]] which takes a number of inputs and forwards a selected input to the singular output line based on the combination of inputs.
+- The circuit which performs the inverse function is the [[Demultiplexer]].
 
 >[!Example] A basic multiplexer
 >![[smallmultiplex.png|300]]
