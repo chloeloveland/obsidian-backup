@@ -1,8 +1,9 @@
 
 
 > [!todo] Title
-> - [ ] improve notes on multiplexer / demultiplexer
+> - [x] improve notes on multiplexer / demultiplexer
 >- [ ] improve notes on decoder / encoder
+>- [ ] add notes on adder
 
 
 
