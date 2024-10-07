@@ -1,4 +1,4 @@
-- Every entry in a [[database]] needs a key field.
+- Every entry in a [[databases|database]] needs a key field.
 - The key is a field which has a unique value for every [[entity]].
 - For example, a bank account has an account number, and a student has a student ID number
 - A key can actually consist of multiple combined attributes
