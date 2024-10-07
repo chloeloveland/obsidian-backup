@@ -1,7 +1,7 @@
 - We can convert between [[bases]] using specific procedures.
-### Conversion to decimal
+### Conversion to [[Bases#Decimal|decimal]]
 - Conversion to decimal from other bases involves adding up the numeric values ($2^n$ where n is the position from right to left)
-### Decimal to binary
+### Decimal to [[Bases#Binary|binary]
 - Decimal to binary has a specific procedure:
 	- If the number is even then record 0 else record 1  
 	- Divide the number by 2 (discarding the remainder)  
