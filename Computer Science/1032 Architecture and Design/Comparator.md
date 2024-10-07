@@ -1,0 +1,2 @@
+- A comparator is any [[Logical circuit]] which takes multiple inputs, compares them, and gives an output based on the comparison.
+- For example, a comparator might do the operation $$
