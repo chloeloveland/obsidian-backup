@@ -8,7 +8,7 @@ tags:
 - these are combined in different ways to make logic gates physically work 
 
 > [!Tip] Symbols
-> ![[nmos-pmos-symbols-l-2210194294.jpg|350]]
+> ![[nmos-pmos-symbols.jpg|350]]
 
 > [!Example]
 > This is the internals of a not gate:
