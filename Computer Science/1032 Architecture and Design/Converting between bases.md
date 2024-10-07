@@ -1,2 +1,2 @@
 - We can convert between [[bases]] using specific procedures.
-- 
+- Binary to decimal involves adding up the numeric values ($2^n$ where n is the position from right to left)
