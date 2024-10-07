@@ -1,2 +1,3 @@
-- The demultiplexer is a combination of [[logic gates]] which performs the inverse function of the [[multiplexer]] 
-- 
+- The demultiplexer is a combination of [[logic gates]] which performs the inverse function of the [[multiplexer]].
+- It distributes multiple outputs from a single input
+- It operates by using a control signal which selects which output line receives that data
