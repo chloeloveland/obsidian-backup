@@ -3,6 +3,7 @@ tags:
   - 1032-Archi
 ---
 - A multiplexer is a [[logical circuit]] which takes a number of inputs and forwards a selected input to the output line based on the combination of inputs.
+- is also known as a **data selector**
 - The circuit which performs the inverse function is the [[Demultiplexer]].
 
 >[!Example] A basic multiplexer
