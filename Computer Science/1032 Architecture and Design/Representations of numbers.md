@@ -1,1 +1,5 @@
-- 
+- Most of humanity uses the number system base 10.
+- This system contains the numerals 0-9.
+- A number system always has the numerals $0$ to $base-1$
+- In [[Boolean logic]], we use base 2; this has the numerals 0-1.
+- Other common systems include 
