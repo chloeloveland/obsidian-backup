@@ -2,6 +2,7 @@
 - It is used within the [[arithmetic logic unit]] and is essential for the functioning of the computer.
 - It is made up of two *half adders*.
 
+
 > [!Diagram] A half adder.
 > ![[half-adder-circuit-210564707.png|300]]
 
