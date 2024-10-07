@@ -1,1 +1,5 @@
-The decoder is a [[Logic gates|logical circuit]] which 
+- The decoder is a [[Logic gates|logical circuit]] which ???
+
+|     |     |
+| --- | --- |
+|     |     |
