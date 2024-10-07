@@ -2,7 +2,7 @@
 tags:
   - 1032-Archi
 ---
-## Boolean algebra
+# # Boolean algebra
 
 - Boolean logic can be represented using boolean algebra
 - AND is represented by a dot or proximity e.g $A\bullet B$ or $AB$
