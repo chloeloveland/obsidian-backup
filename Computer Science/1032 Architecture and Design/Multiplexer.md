@@ -7,7 +7,7 @@ tags:
 - The circuit which performs the inverse function is the [[Demultiplexer]].
 
 >[!Example] A basic multiplexer
->![[smallmultiplex.png|300]]
+>![[multiplexer4-1.jpg]]
 
 >[!tip] Application
 >- A multiplexer is often used to create the **majority** function.
