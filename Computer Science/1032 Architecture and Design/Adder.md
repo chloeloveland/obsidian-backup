@@ -1,0 +1,3 @@
+- An adder is a [[logical circuit]] which performs addition to binary numbers.
+- It is used within the [[arithmetic logic unit]] and is essential for the functioning of the computer.
+- 
