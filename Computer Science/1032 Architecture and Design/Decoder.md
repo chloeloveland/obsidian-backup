@@ -1,4 +1,5 @@
-- A decoder is a [[logical circuit]] which performs the inverse function of an [[encoder]]. 
+- A decoder is a [[logical circuit]] which performs the inverse function of an [[encoder]].
+- it is used to reveal the information which was hidden - encoded - by the [encoder].
 - It is a combinational circuit that converts $n$ lines of input into $2^n$ lines of output. Let’s take an example of 3-to-8 line decoder.
 
 > [!example]
