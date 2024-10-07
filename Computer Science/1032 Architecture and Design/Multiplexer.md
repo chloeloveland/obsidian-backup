@@ -5,3 +5,5 @@
 
 >[!tip] An advanced multiplexer
 >![[{AA134437-7DBF-442F-AAEA-48E9F6999DB1}.png|400]]
+- A multiplexer is often used to create the **majority** function often used in computing.
+- This is used in data transmission for [[data validation]].
