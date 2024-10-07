@@ -5,9 +5,11 @@ tags:
 - A multiplexer is a [[logical circuit]] which takes a number of inputs and forwards a selected input to the output line based on the combination of inputs.
 - is also known as a **data selector**, or **mux** in shorthand
 - The circuit which performs the inverse function is the [[Demultiplexer]].
+- It operates by using a control signal which selects which output line receives the data.
+	- If we have 4 data channels, we need 2 selector lines (00,01,10,11) :)
 
->[!Example] A basic multiplexer
->![[multiplexer4-1.jpg]]
+>[!Example] A 4 to 1 multiplexer
+>![[multiplexer4-1.jpg|450]]
 
 >[!tip] Application
 >- A multiplexer is often used to create the **majority** function.
