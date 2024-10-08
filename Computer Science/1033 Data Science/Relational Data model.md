@@ -3,4 +3,4 @@
 - Allows for the ***querying* of data**
 - Queries are written in Relational query languages
 	- Not imperative code; the DBMS handles efficient fetching of data
-	- We will be using SQL (structured query language)
+	- We will be using [[SQL]] (structured query language)
