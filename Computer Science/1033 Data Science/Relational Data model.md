@@ -1,0 +1,2 @@
+- The relational model represents a database as a collection of relations
+- A relation is made up of 
