@@ -27,4 +27,5 @@
 	- Symmetric: whenever $R(x,y)$ holds then $R(y,x)$ must hold.
 		- If we have $(1,2)$ we must have $(2,1)$
 	- Transitive: whenever $R(x,y)$ and $R(y,z)$ hold then $R(x,z)$ must hold (for any $x,y,x\in A$)
-		- Let $A=\{1,2,3\}$; if 
+		- Let $A=\{1,2,3\}$; if $(2,3)\in A$ and $(3,1)\in A$, then $(2,1)\in A$
+	- 
