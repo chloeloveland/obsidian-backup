@@ -1,4 +1,3 @@
-#### Properties
 - A binary relation can have *properties*
 - Let $R\subseteq A\times A$ where $A=\{1,2,3\}$:
 ##### Reflexive
@@ -12,3 +11,5 @@
 	- If $(2,3)\in A$ and $(3,1)\in A$, then $(2,1)\in A$
 	- i.e. All linked steps can be done in one
 
+## Reasoning
+- We can use the **properties** of [[r]]
