@@ -2,7 +2,9 @@
 - Unary relations are a way to identify elements in a set which have an important property.
 	- They return true or false
 	- For example, performing primary(red) on a set of **colours** would return true.
+	
 #### Defining
+
 - We can use English i.e. primary(colours)
 - Or we can say primary is a [[subset]] of colours
 - but to be less ambiguous, we would list the primary colours as a set
@@ -11,6 +13,7 @@
 	- i.e. $red \in colours$?
 
 ## Binary relations
+
 - Binary relations define relations between values in two sets
 - for example, if set P is people and set A is pets, we can define the relation as **has**
 - then we can ask if person **has** pet
@@ -22,4 +25,4 @@
 	- Reflexive: for every $x\in A$ must have $R(x,x)$
 		- This means 
 	- Symmetric: Whenever $R(x,y)$ holds then $R(y,x)$ must hold.
-	- Transitive: Whenever $R(x,y)$ holds then $R(y,x)$ must hold.
+	- Transitive: Whenever $R(x,y)$ and $R(y,z)$ hold then $R(x,z)$ must hold. (for any $x,y,x\in A$)
