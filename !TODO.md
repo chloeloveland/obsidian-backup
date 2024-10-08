@@ -1,2 +1,1 @@
-
-
+- [ ] Find out wtf an ISA hierarchy is
