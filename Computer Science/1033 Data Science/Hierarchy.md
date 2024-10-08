@@ -12,6 +12,6 @@ tags:
     - Covering constraints
         - Determine whether the entities in the subclasses collectively include all entities in the superclass e.g does every employee entity also have to be an hourly_emps or contract_emps
 
->[!tip] reasons for using ISA
+>[!info] reasons for using ISA
 > - To add descriptive attributes specific to a subclass
 > - To identify entities that participate in a relationship
