@@ -7,4 +7,3 @@ tags:
 - A database has a data model (relational, object oriented etc) and a **[[Schema]]**
 - The data that the end user sees is [[Data abstractions|abstracted]]: The users do not need to know the physical storage details
 - Databases are [[Database design|designed]] through a process to ensure they meet certain requirements such as [[Data Independence]] 
-- Declarative query language is used to specify what should be returned, but does not tell the computer how to retrieve that data.

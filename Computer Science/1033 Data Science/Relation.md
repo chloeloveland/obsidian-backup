@@ -1,0 +1,6 @@
+- Not to
+- A relation is made up of:
+	- **Instance**: simply a table with rows and columns
+		- Rows are records
+		- Columns are fields / attributes
+	- **[[Schema]]**: specifies name of relation, plus name and type of each column

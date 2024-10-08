@@ -1,6 +1,2 @@
-- The relational model represents a database as a collection of relations
-- A relation is made up of:
-	- **Instance**: simply a table with rows and columns
-		- Rows are records
-		- Columns are fields / attributes
-	- **[[Schema]]**: specifies name of relation, plus name and type of each column
+- The relational model represents a database as a collection of [[relation|relations]]
+- A database is a collection of relations
