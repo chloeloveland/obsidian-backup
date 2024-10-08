@@ -23,6 +23,7 @@
 - A binary relation can have *properties*
 - Let $R\subseteq A\times A$
 	- Reflexive: for every $x\in A$ must have $R(x,x)$
-		- This means 
-	- Symmetric: Whenever $R(x,y)$ holds then $R(y,x)$ must hold.
-	- Transitive: Whenever $R(x,y)$ and $R(y,z)$ hold then $R(x,z)$ must hold. (for any $x,y,x\in A$)
+		- This means $(1,1), (2,2)$ etc. must be in $R$
+	- Symmetric: whenever $R(x,y)$ holds then $R(y,x)$ must hold.
+		- 
+	- Transitive: whenever $R(x,y)$ and $R(y,z)$ hold then $R(x,z)$ must hold (for any $x,y,x\in A$)
