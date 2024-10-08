@@ -1,5 +1,5 @@
 - Not to be confused with [[Relationship]]
-- A relation is a concept in the relational data model
+- A relation is a concept in the [[relational data model]]
 - it is made up of:
 	- **Instance**: simply a table with rows and columns
 		- Rows are records

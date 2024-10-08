@@ -14,4 +14,4 @@ CREATE TABLE Students
 	age INTEGER
 	mark DECIMAL(5,2))
 ```
-- Tables are deleted via the DROP TABLE command // this is scary
+- Tables are deleted via the DROP TABLE command // this is scary, and is a big part of SQL injection
