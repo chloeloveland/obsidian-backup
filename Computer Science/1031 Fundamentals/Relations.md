@@ -15,3 +15,4 @@
 - for example, if set P is people and set A is pets, we can define the relation as **has**
 - then we can ask if person **has** pet
 - **has** is thus a [[subset]] of the [[cartesian product]] $A\times P$
+- Binary relations can be visualised as **directed graphs** where the arrow points from the first in the [[Tuples|tuple]] to the second.
