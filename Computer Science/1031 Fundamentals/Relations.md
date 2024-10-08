@@ -18,5 +18,8 @@
 - Binary relations can be visualised as **directed graphs** where the arrow points from the first in the [[Tuples|tuple]] to the second.
 #### Properties
 - A binary relation can have *properties*
+- Let $R\subseteq A\times A$
 	- Reflexive: for every $x\in A$ must have $R(x,x)$
 		- This means 
+	- Symmetric: Whenever $R(x,y)$ holds then $R(y,x)$ must hold.
+	- Transitive: Whenever $R(x,y)$ holds then $R(y,x)$ must hold.
