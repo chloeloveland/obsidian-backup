@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 - A binary relation can have *properties*
 - Let $R\subseteq A\times A$ where $A=\{1,2,3\}$:
 ##### Reflexive
@@ -11,4 +15,4 @@
 	- If $(2,3)\in A$ and $(3,1)\in A$, then $(2,1)\in A$
 	- i.e. All linked steps can be done in one
 ## Reasoning
-- We can use the **properties** of [[relations]] to deduce things about them.
+- We can use the **properties** of [[Relations]] to deduce things about them.

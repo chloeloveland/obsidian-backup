@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 ## Unary Relations
 - Unary relations are a way to identify elements in a set which have an important property.
 	- They return true or false
