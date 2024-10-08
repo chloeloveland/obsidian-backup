@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - The relational model represents a database as a collection of [[relation|relations]]
 - A database is a collection of relations
 - Allows for the ***querying* of data**

@@ -8,7 +8,7 @@ tags:
 - [[Relationship]] by diamonds - their many or one is written at the bases of the line (see diagram)
 
 > [!warning] Ternary relationships
-> - Relationships where one relation links more than two tables can become very complicated and confusing
+> - [[relationship|Relationships]] where one relation links more than two tables can become very complicated and confusing
 > - these should ideally be avoided
 
 > [!diagram] Example of an E-R diagram of a bike shop
@@ -21,5 +21,5 @@ tags:
 >- if we have several addresses per employee, address **must** be modelled as an entity
 >- if the **structure** is important, address **must** be modelled as an entity.
 
-
-
+### Relationship sets as entities
+- [[Relationship]] sets can be treated as [[entity|entities]]. This is called [[Aggregation]].

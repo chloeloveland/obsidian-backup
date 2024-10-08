@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - Not to be confused with [[Relationship]]
 - A relation is a concept in the [[relational data model]]
 - it is made up of:

@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - SQL (Structured query language) is a [[Relational Data model|relational query language]]
 - it is not case sensitive
 - A query looks like this
