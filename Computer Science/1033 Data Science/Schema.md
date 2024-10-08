@@ -2,4 +2,4 @@
 tags:
   - 1033-Data-Sci
 ---
-- A schema is a description of data in terms of a data model - the tables, fields and [[Relationship]]
+- The schema specifies name of relation, plus name and type of each column in a [[relation]]
