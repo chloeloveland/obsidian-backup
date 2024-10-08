@@ -9,3 +9,7 @@ tags:
 
 > [!diagram] Example of an E-R diagram of a bike shop
 > ![[entityRelationshipBikeShop.png|400]]
+## [[Entity]] vs attribute
+- Should address be an attribute of employees or an entity connected to employees?
+	- if we have several addresses per employee, address **must** be modelled as an entity
+	- if the **structure** is important, address **must** be modelled as an entity.

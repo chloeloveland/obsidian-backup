@@ -11,3 +11,7 @@ tags:
         - Determine whether two subclasses are allowed to contain the same entity e.g can an employee be an Hourly_Emps as well as a Contract_Emps entity
     - Covering constraints
         - Determine whether the entities in the subclasses collectively include all entities in the superclass e.g does every employee entity also have to be an hourly_emps or contract_emps
+
+>[!tip] reasons for using ISA
+> - To add descriptive attributes specific to a subclass
+> - To identify entities that participate in a relationship
