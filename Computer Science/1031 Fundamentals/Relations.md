@@ -42,6 +42,7 @@ tags:
 	- These are generated through a simple process
 		1. Every element of set A is a node
 		2. For each pair $(x,y)\in \Bbb R$ add an edge (arrow) x->y
-- With a graph lik
+- With a graph like this, we can ask if a statement holds by checking if there is an edge between the two elements
+- we can also check if [[properties of relations]] hold
 ## Properties
 - Relations can have [[Properties of relations|properties]].
