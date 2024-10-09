@@ -35,7 +35,7 @@ tags:
 
 > [!example]
 > Base case: $(0, 1)\in less$
-> Recursive case: $if (x,y)\in le$$ss$ then $(x,y+1)$ 
+> Recursive case: $if (x,y)\in le$$ss$ then $(x,y+1)\in less$ and $(x+1,y+1)\in less$ 
 
 - Binary relations can be visualised as **directed graphs** where the arrow points from the first in the [[Tuples|tuple]] to the second.
 ## Properties
