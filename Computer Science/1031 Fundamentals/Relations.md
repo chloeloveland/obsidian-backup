@@ -34,7 +34,8 @@ tags:
 - Binary relations can be defined [[Expressing Sets#Recursion|recursively]]
 
 > [!example]
-> Base 
+> Base case: $(0, 1)\in less$
+> Recursive case: $if (x,y)\in le$$ss$ then $(x,y+1)$ 
 
 - Binary relations can be visualised as **directed graphs** where the arrow points from the first in the [[Tuples|tuple]] to the second.
 ## Properties
