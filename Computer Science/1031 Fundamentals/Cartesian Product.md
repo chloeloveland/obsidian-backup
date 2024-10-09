@@ -4,7 +4,7 @@ tags:
 ---
 ## Cartesian Product
 - Notation is $A\times B$ where $A$ and $B$ are sets
-- This product is a set which contains all possible [[Tuples]] of (element from A, element from B)
+- The product is a set which contains all possible [[Tuples]] of (element from A, element from B)
 > [!Example]
 > - Let $A = {1, 2, 3}$ and $B = {a, b}$.
 > - $A\times B = {(1, a), (1, b), (2, a), (2, b), (3, a), (3, b)}$

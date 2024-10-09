@@ -2,7 +2,7 @@
 tags:
   - 1031-Fundamental
 ---
-****## Unary Relations
+## Unary Relations
 - Unary relations are a way to identify elements in a set which have an important property.
 	- They return true or false
 - fundamentally, a relation is an application of [[subset|subsets]]
@@ -11,7 +11,7 @@ tags:
 >- performing primary(red) on aan [[Element]] set of **colours** would return true.
 >- performing even(1) on an element of set **numbers** would return false.
 	
-### Defining
+### Defining Unary Relations
 ###### English
 - We can use English i.e. primary(colours), primary(x) = true when x is in {red, green, yellow}
 	- Pros: this is simple, easy to read and write
@@ -26,10 +26,10 @@ tags:
 ## Binary relations
 
 - Binary relations define relations between values in *two* sets
+- a binary relation is a [[subset]] of the [[cartesian product]] $A\times P$
 - for example, if set P is people and set A is pets, we can define the relation as **has**
 - then we can ask if person **has** pet
-- **has** is thus a [[subset]] of the [[cartesian product]] $A\times P$
 - Binary relations can be visualised as **directed graphs** where the arrow points from the first in the [[Tuples|tuple]] to the second.
-
+- Binary relations can be defined recursively
 ## Relations
 - Relations can have [[Properties of relations|properties]].
