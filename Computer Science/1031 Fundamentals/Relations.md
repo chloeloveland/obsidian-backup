@@ -2,7 +2,7 @@
 tags:
   - 1031-Fundamental
 ---
-## Unary Relations
+****## Unary Relations
 - Unary relations are a way to identify elements in a set which have an important property.
 	- They return true or false
 - fundamentally, a relation is an application of [[subset|subsets]]
@@ -25,7 +25,7 @@ tags:
 		- **overall better**
 ## Binary relations
 
-- Binary relations define relations between values in two sets
+- Binary relations define relations between values in *two* sets
 - for example, if set P is people and set A is pets, we can define the relation as **has**
 - then we can ask if person **has** pet
 - **has** is thus a [[subset]] of the [[cartesian product]] $A\times P$
