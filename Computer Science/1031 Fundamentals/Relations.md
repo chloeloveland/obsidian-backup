@@ -5,7 +5,8 @@ tags:
 ## Unary Relations
 - Unary relations are a way to identify elements in a set which have an important property.
 	- They return true or false
-	- For example, performing primary(red) on a set of **colours** would return true.
+>[!example]
+>or example, performing primary(red) on a set of **colours** would return true.
 	
 #### Defining
 
