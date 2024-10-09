@@ -12,15 +12,17 @@ tags:
 >- performing even(1) on an element of set **numbers** would return false.
 	
 ### Defining
+###### English
 - We can use English i.e. primary(colours), primary(x) = true when x is in {red, green, yellow}
 	- Pros: this is simple, easy to read and write
 	- Cons: This is *not* concise at all, and can be ambiguous / up to interpretation
+###### Listing
 - To be less ambiguous (more mathematical), we would list the primary colours as a set
 	- $primary= \{red, blue, yellow\}$
-	- This could use listing (above) or [[Expressing Sets#Set Comprehension|set comprehension]] or 
-- a more mathematical way of writing primary(red) is to ask if red is an [[Element|member]] of colours
-	- i.e. $red \in colours$?
-
+	- This could use listing (above), [[Expressing Sets#Set Comprehension|set comprehension]], or [[Expressing Sets#Recursion|recursion]]
+	- Pros: very precise, no ambiguity
+	- Cons: difficult to write, you need to know the notation to interpret
+		- **overall better**
 ## Binary relations
 
 - Binary relations define relations between values in two sets
