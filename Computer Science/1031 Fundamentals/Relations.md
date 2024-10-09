@@ -27,9 +27,15 @@ tags:
 
 - Binary relations define relations between values in *two* sets
 - a binary relation is a [[subset]] of the [[cartesian product]] $A\times P$
+###### English Definition
 - for example, if set P is people and set A is pets, we can define the relation as **has**
 - then we can ask if person **has** pet
+###### Recursive definition
+- Binary relations can be defined [[Expressing Sets#Recursion|recursively]]
+
+> [!example]
+> Base 
+
 - Binary relations can be visualised as **directed graphs** where the arrow points from the first in the [[Tuples|tuple]] to the second.
-- Binary relations can be defined recursively
-## Relations
+## Properties
 - Relations can have [[Properties of relations|properties]].
