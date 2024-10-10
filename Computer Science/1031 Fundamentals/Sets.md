@@ -23,5 +23,3 @@ tags:
 > - Tuples for objects and sets for collections of objects
 > - So we could have tuples which represent drinks and their prices
 > - and a set which contains all of these different drinks options
-
-hello 
