@@ -18,4 +18,3 @@ tags:
 - $A\cap B$  denotes intersection 
     - intersection returns the elements two sets have in common
 - $A\backslash B$ denotes [[Set Difference]]
-    
