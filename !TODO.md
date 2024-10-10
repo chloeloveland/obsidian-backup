@@ -1,2 +1,2 @@
 - [ ] Find out wtf an ISA hierarchy is
-- [ ] Atomise the [[key]] note
+- [x] Atomise the [[key]] note

@@ -28,3 +28,4 @@ tags:
 - To convert an ER-D to a relational database we translate all strong [[entity]] sets to a [[relation (table)]]
 	- So all the rectangles pretty much
 	- the ovals (attributes) will be fields in the relation
+- Many to 
