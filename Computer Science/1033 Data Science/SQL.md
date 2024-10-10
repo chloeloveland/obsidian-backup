@@ -26,4 +26,11 @@ CREATE TABLE Students
 - Data can be modified using the `UPDATE tableName SET fieldName = value`
 	- We can use WHERE statements with these too
 ## Foreign keys
-- Foreign keys are created using the `FOREIGN KEY (field) REFERENCES tableName` command
+- [[Foreign key|Foreign keys]] are created using the `FOREIGN KEY (field) REFERENCES tableName` command
+- Deletes and updates option should also be included as a part of the foreign key declaration
+	- Default: `NO ACTION` 
+		- reject delete/update
+	- `CASCADE` 
+		- delete all tuples that refer to deleted tuple
+	- `SET NULL` / `SET DEFAULT` 
+		- sets foreign key to value of referencing tuple
