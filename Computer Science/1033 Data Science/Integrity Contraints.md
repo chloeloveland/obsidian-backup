@@ -11,6 +11,5 @@
 	- A [[keys|key]] by the `UNIQUE` command
 	- A primary key by the `PRIMARY KEY` constraint
 
-## Foreign Key
-- A foreign key is a primary key in one relation that is used to refer to a tuple in another relations
-	- can be one or more fields
+## [[Keys#Foreign Key|Foreign Key]] constraint
+- If all foreign key constraints are enforced, referential integrity is achieved
