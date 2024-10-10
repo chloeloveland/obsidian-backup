@@ -9,7 +9,7 @@ tags:
 - this is a superkey; any set of attributes which can identify an [[entity]]
 - For example, all houses must have a unique address. While the house number and postcode are not individually unique, the combination of postcode and house number is
 #### Primary Key
-- A primary key is the key chosen to serve as the key for the entity set
+- A primary key is the [[key]] chosen to serve as the key for the entity set
 #### Foreign Key
-- A foreign key is a primary key in one relation that is used to refer to a tuple in another relations
+- A foreign key is a [[primary key]] in one relation that is used to refer to a tuple in another relations
 	- can be one or more fields

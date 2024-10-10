@@ -6,10 +6,12 @@
 - Constraints can be *named* which allows the database to return the violated constraint to help fix the problem
 	- If not named, the DB will just say "the primary key has been violated"
 
-### [[Keys#Primary Key|Primary key]] constraint
+### [[Key#Primary Key|Primary key]] constraint
 - In [[SQL]] we can declare
-	- A [[keys|key]] by the `UNIQUE` command
+	- A [[Key|key]] by the `UNIQUE` command
 	- A primary key by the `PRIMARY KEY` constraint
 
-## [[Keys#Foreign Key|Foreign Key]] constraint
+## [[Key#Foreign Key|Foreign Key]] constraint
 - If all foreign key constraints are enforced, referential integrity is achieved
+- This constraint should be enforced by rejecting invalid entries (tuples with missing keys)
+- 

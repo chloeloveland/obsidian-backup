@@ -26,3 +26,4 @@ CREATE TABLE Students
 - Data can be modified using the `UPDATE tableName SET fieldName = value`
 	- We can use WHERE statements with these too
 ## Foreign keys
+- Foreign keys created using the `FOREIGN KEY` 
