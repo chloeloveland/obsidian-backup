@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - An integrity constraint is a condition that must be true for any instance of the [[Databases|database]]
 	- IC is specified when [[schema]] defined
 	- IC is checked when [[relations]] modified
