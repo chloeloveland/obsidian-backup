@@ -23,3 +23,8 @@ tags:
 
 ### Relationship sets as entities
 - [[Relationship]] sets can be treated as [[entity|entities]]. This is called [[Aggregation]].
+
+#### Diagram to [[Relational Data model|Relational Database]]
+- To convert an ER-D to a relational database we translate all strong [[entity]] sets to a [[relation (table)]]
+	- So all the rectangles pretty much
+	- the ovals (attributes) will be fields in the relation
