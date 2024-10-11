@@ -8,7 +8,7 @@ tags:
 - fundamentally, a relation is an application of [[subset|subsets]]
 	
 >[!example]
->- performing primary(red) on aan [[Element]] set of **colours** would return true.
+>- performing primary(red) on an [[Element]] set of **colours** would return true.
 >- performing even(1) on an element of set **numbers** would return false.
 	
 ### Defining Unary Relations
