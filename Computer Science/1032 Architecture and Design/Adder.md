@@ -19,6 +19,9 @@ tags:
 - An adder for multiple bits must add together multiple full adders
 - for example, an 8 bit adder must use 8 full adders
 - in ripple carry, these adders feed their carry bits directly into the next full adder
-- this is simple, but creates problems when considering [[propagation delay]].
+- this is simple, but creates problems when considering [[propagation delay]]
+	- this is because each adder must wait for the previous adder's carry bit
+	- the adders operate sequentially which is slow
 - to fix this, we can use look ahead carry.
-- look ahead carry connects the adders together 
+- In a carry-lookahead, all the full adders operate simultaneously
+- 
