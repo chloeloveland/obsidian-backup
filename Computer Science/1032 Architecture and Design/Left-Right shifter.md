@@ -1,0 +1,1 @@
+- Left and right shifting are operations that can be performed on [[binary]] number

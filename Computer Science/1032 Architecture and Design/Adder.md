@@ -24,4 +24,4 @@ tags:
 	- the adders operate sequentially which is slow
 - to fix this, we can use look ahead carry.
 - In a carry-lookahead, all the full adders operate simultaneously
-- 
+- their outputs are combined using another [[logical circuit]] called the lookahead-carry unit
