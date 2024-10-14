@@ -15,3 +15,5 @@ tags:
 > [!info] Truth table of full adder
 > ![[full-adder-truth-table.png|300]]
 
+### Ripple carry vs Look ahead carry
+- An adder for mut
