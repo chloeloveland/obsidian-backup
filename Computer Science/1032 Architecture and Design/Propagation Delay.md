@@ -11,8 +11,7 @@
 > - So the **total propagation delay is +3**
 
 
-> [!Example] Propagation delay of full adder
+> [!Example] Propagation delay of full [[adder]]
 > ![[Pasted image 20241014154510.png|350]]
-> - at AB, t+0
-> - at P, t+3
-> - 
+
+
