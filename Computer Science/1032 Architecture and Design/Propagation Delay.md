@@ -5,11 +5,11 @@
 - But some gates are made up of smaller gates:
 
 > [!Example] Prop delay of XOR gate
-> ![[Pasted image 20241014153753.png|350]]
+> ![[propdelayXOR.png|350]]
 > - The XOR gate is 4 NAND gates
 > - But 2 NANDs run **simultaneously**
 > - So the **total propagation delay is +3**
 
 
 > [!Example] Propagation delay of full adder
-> Contents
+> ![[Pasted image 20241014154510.png|350]]
