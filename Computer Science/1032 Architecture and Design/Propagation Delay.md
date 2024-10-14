@@ -1,1 +1,4 @@
-- Propagation delay
+- Propagation delay is a the time taken for a [[logical circuit]] to operate
+- It is affected by the complexity 
+- Different [[logic gates]] have various affects on propagation delay
+- most simple ones have a delay of t+1 (AND, OR, NOT, )
