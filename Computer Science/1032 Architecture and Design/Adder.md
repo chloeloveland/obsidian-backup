@@ -16,4 +16,9 @@ tags:
 > ![[full-adder-truth-table.png|300]]
 
 ### Ripple carry vs Look ahead carry
-- An adder for mut
+- An adder for multiple bits must add together multiple full adders
+- for example, an 8 bit adder must use 8 full adders
+- in ripple carry, these adders feed their carry bits directly into the next full adder
+- this is simple, but creates problems when considering [[propagation delay]].
+- to fix this, we can use look ahead carry.
+- look ahead carry connects the adders together 
