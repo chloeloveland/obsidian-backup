@@ -12,5 +12,5 @@
 
 
 > [!Example] Propagation delay of full [[adder]]
-> ![[Pasted image 20241014154510.png|350]]
+> ![[propdelayfulladder.png|350]]
 
