@@ -22,4 +22,8 @@
 	- **Listing**: For small functions we can map every input to every output
 
 ### Function composition
-- Multiple functions can be composited together to make a new function 
+- Multiple functions can be composited together to make a new function
+- $f\circ g = f(g(x)))$
+
+> [!Attention] Important
+> - Two functions f and g can only be composed if the codomain of f = domain of g
