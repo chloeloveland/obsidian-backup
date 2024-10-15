@@ -8,8 +8,12 @@ Translating [[Entity-Relationship diagram]] to the [[Relational Data model]] inv
 - When translating a [[relationship]] set with no key, attributes must include
 	- Keys for each participating [[entity]] set (as [[Foreign Key|foreign keys]])
 	- All descriptive attributes of the relationship set
-
 ## Translating relationship sets with [[Participation Constraint|key constraints]]
 - If some entities can only participate once in a relationship, we can make the entity an attribute of the entity it is related to
 	- Example: if each department has one manager, we do not need a [[Relation (table)|table]] for manager
 	- We can just make Dept_manager an attribute of department
+## Translating [[weak entity]] sets
+- the weak entity set and identifying relationship set are translated into a single table
+## Translating class hierarchies
+[[isa]]
+- Map each of the entity sets 
