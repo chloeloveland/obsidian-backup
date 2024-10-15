@@ -18,7 +18,7 @@ Translating [[Entity-Relationship diagram]] to the [[Relational Data model]] inv
 	- We can just make Dept_manager an attribute of department
 ## Translating [[weak entity]] sets
 - the weak entity set and identifying relationship set are translated into a single table
-## Translating class [[Hierarchy]]
+## Translating [[IsA Hierarchy]]
 ![[ISAheirarchy.png|500]]
 - Map each of the entity sets Employees, Hourly-Emps, Contract-Emps to a distinct relation
 - **OR**
