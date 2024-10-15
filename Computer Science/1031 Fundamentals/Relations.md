@@ -24,7 +24,6 @@ tags:
 	- Cons: difficult to write, you need to know the notation to interpret
 		- **overall better**
 ## Binary relations
-
 - Binary relations define relations between values in *two* sets
 - a binary relation is a [[subset]] of the [[cartesian product]] $A\times P$
 ###### English Definition
@@ -48,4 +47,4 @@ tags:
 - Relations can have [[Properties of relations|properties]].
 ### Functions
 - One application of relations is [[Function|functions]].
-- 
+	- Note: every function is a relation but not every relation is a function.
