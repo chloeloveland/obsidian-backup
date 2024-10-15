@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 - A function maps input values to output values
 - Every function is a [[relations|relation]]
 - it is a mapping between two [[sets]]

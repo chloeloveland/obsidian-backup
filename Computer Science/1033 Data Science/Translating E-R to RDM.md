@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 Translating [[Entity-Relationship diagram]] to the [[Relational Data model]] involves many rules
 
 - To convert an [[Entity-Relationship diagram]] to a [[Relational Data model|relational database]] we translate all strong [[entity]] sets to a [[relation (table)]]

@@ -6,7 +6,7 @@ tags:
 - it allows us to query relational [[databases]]
 - it is not case sensitive
 # Data definition language (DDL)
-## Making/deleting tables
+## Making/deleting [[Relation (table)|tables]]
 - Tables are created via the CREATE TABLE command:
 ```
 CREATE TABLE Students
@@ -38,9 +38,3 @@ WHERE S.age=18
 		- delete all tuples that refer to deleted tuple
 	- `SET NULL` / `SET DEFAULT` 
 		- sets foreign key to value of referencing tuple
-<br>
-# Triggers and advanced [[integrity constraints]]
-#### Embedded and dynamic SQL
-- Embed Q+SQL in a host language like C or Java
-- Dynamic SQL allow a query to be constructed and executed at runtime
-#### Client-Server execution
