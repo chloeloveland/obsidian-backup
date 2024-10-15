@@ -23,5 +23,5 @@ tags:
 
 ### Relationship sets as entities
 - [[Relationship]] sets can be treated as [[entity|entities]]. This is called [[Aggregation]].
-
-
+### Converting to [[Relational Data model]]
+- For converting see [[Translating E-R to RDM]]

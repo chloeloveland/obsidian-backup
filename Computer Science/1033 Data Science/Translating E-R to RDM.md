@@ -10,4 +10,6 @@ Translating [[Entity-Relationship diagram]] to the [[Relational Data model]] inv
 	- All descriptive attributes of the relationship set
 
 ## Translating relationship sets with [[Participation Constraint|key constraints]]
-- If some entities can only particiat
+- If some entities can only participate once in a relationship, we can make the entity an attribute of the entity it is related to
+	- Example: if each department has one manager, we do not need a [[Relation (table)|table]] for manager
+	- We can just make Dept_manager an attribute of department
