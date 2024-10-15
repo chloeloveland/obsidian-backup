@@ -1,7 +1,7 @@
 - A D type flip-flop uses the [[SR latch]], a [[clock]] and a **D** input:
 
 > [!diagram] D Flip-Flop
-> ![[Pasted image 20241014164045.png|600]]
+> ![[Clocked Dlatch.png|600]]
 > - The D Flip-Flop latches into the SR latch the value of D when the clock rising or falling
 > 	- It may latch when the clock is rising or falling depending on the type of D flip flop
 

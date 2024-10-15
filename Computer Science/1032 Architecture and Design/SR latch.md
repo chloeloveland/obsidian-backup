@@ -14,6 +14,6 @@
 
 
 > [!Diagram] A clocked SR latch
-> ![[Pasted image 20241014163056.png|450]]
+> ![[clockedSRlatch.png|450]]
 > - this latch includes a clock which means it can hold a bit in memory until the next clock cycle
 
