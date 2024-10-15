@@ -46,3 +46,6 @@ tags:
 - we can also check if [[properties of relations]] hold
 ## Properties
 - Relations can have [[Properties of relations|properties]].
+### Functions
+- One application of relations is [[Function|functions]].
+- 
