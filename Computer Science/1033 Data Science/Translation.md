@@ -1,3 +1,13 @@
 Translating [[Entity-Relationship diagram]] to the [[Relational Data model]] involves many rules
 
-## 
+- To convert an [[Entity-Relationship diagram]] to a [[Relational Data model|relational database]] we translate all strong [[entity]] sets to a [[relation (table)]]
+	- So all the rectangles pretty much
+	- the ovals (attributes) will be fields in the relation
+- Many-to-many relationships need to be represented by their own table
+	- They should not just be a relationship
+- When translating a [[relationship]] set with no key, attributes must include
+	- Keys for each participating [[entity]] set (as [[Foreign Key|foreign keys]])
+	- All descriptive attributes of the relationship set
+
+## Translating relationship sets with [[Participation Constraint|key constraints]]
+- If some entities can only particiat
