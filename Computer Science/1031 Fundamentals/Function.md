@@ -3,14 +3,13 @@
 	- The *Domain Set* (input)
 	- and the *Codomain Set* (output)
 
-> [!info] 
+> [!info] **Key properties of a function**
 > - A function must map every input to an output
 > 	- This is **totality**
 > - it must always produce the same output for a given input
 > 	- This is **unambiguity**
 > 	- (Note: the same output **is** allowed to be mapped to multiple inputs)
 > 
-> These are the **key properties of a function**
 > They **must** be true for a *true* function
 ### Defining a function
 > [!example]
@@ -21,4 +20,6 @@
 ### Mapping a function
 - A function's domain and codomain can be mapped to one another using one of a few methods
 	- **Listing**: For small functions we can map every input to every output
-	- 
+
+### Function composition
+- Multiple functions can be composited together to make a new function 
