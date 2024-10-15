@@ -4,7 +4,7 @@
 	- and the *Codomain Set* (output)
 
 > [!info] **Key properties of a function**
-> - A function must map every input to an output
+> - A function must map every input [[element]] to an output element
 > 	- This is **totality**
 > - it must always produce the same output for a given input
 > 	- This is **unambiguity**
@@ -29,4 +29,4 @@
 > - Two functions $f$ and $g$ can only be composed if the codomain of $f =$ domain of $g$
 > - if this is not true you simply cannot do it
 
-- Function composition is very useful for data analytics because it 
+- Function composition is very useful for data analytics because it allows you to split a complex function into simpler functions that can then be composed together
