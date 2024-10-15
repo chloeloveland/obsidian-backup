@@ -1,0 +1,5 @@
+- A function maps input values to output values
+- it is a mapping between two sets
+	- The *Domain Set* (input)
+	- and the *Codomain Set* (output)
+	- 
