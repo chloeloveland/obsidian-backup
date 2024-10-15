@@ -27,4 +27,6 @@
 
 > [!Attention] Important
 > - Two functions $f$ and $g$ can only be composed if the codomain of $f =$ domain of $g$
-> - if this is not true 
+> - if this is not true you simply cannot do it
+
+- Function composition is very useful for data analytics because it 
