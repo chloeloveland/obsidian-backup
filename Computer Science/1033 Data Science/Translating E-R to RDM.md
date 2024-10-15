@@ -20,4 +20,4 @@ Translating [[Entity-Relationship diagram]] to the [[Relational Data model]] inv
 - **OR**
 - Create only 2 relations ![[Pasted image 20241015110116.png|left|400]]
 ## Translating E-R diagrams with [[aggregation]]
-- [[!TODO]]
+- The translation is essentially the standard mapping for a relationship set.
