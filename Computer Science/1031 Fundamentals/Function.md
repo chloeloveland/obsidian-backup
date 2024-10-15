@@ -10,9 +10,9 @@ tags:
 
 > [!info] **Key properties of a function**
 > - A function must map every input [[element]] to an output element
-> 	- This is **totality**
+> 	- This is called **totality**
 > - it must always produce the same output for a given input
-> 	- This is **unambiguity**
+> 	- This is called **unambiguity**
 > 	- (Note: the same output **is** allowed to be mapped to multiple inputs)
 > 
 > They **must** be true for a *true* function
