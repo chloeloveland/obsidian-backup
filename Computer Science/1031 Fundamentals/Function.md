@@ -26,4 +26,5 @@
 - $f\circ g = f(g(x)))$
 
 > [!Attention] Important
-> - Two functions f and g can only be composed if the codomain of f = domain of g
+> - Two functions $f$ and $g$ can only be composed if the codomain of $f =$ domain of $g$
+> - if this is not true 
