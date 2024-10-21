@@ -3,4 +3,5 @@
 > ![[sequentialcircuit.png|450]]
 - This is the model of a sequential circuit
 - the combinational logic circuit is any series of [[Logical circuit|logical circuits]] where the output depends only on the input
-- This model introduces [[Memory]] and [[Clock|clocks]]
+- This model introduces [[memory]] and the [[clock]]
+- 
