@@ -13,7 +13,7 @@ tags:
 
 >[!tip] Application
 >- A multiplexer is often used to create the **majority** function.
->- This is used after data transmission for [[data validation]].
+>- This is used after data transmission for [[error detection]].
 >- It is also often used to have multiple data streams over a single line:
 >![[Telephony_multiplexer_system.gif]] ^ef4llu
 
