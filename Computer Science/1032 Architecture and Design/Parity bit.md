@@ -13,4 +13,5 @@
 
 Usually even parity is used.
 
-### Error correc
+### Error correction using parity
+![[Pasted image 20241021095604.png|left|400]]
