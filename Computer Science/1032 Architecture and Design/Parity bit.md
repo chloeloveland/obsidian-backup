@@ -22,9 +22,7 @@ Usually even parity is used.
 - Parity can be implemented as a [[logical circuit]]
 
 > [!Diagram] Parity circuit - 3 bit
-> ![[Pasted image 20241021100639.png|300]]
+> ![[Pasted image 20241021100639.png|350]]
 
-
-> [!Diagram] Parity circuit - 3 bit
-> ![[Pasted image 20241021100639.png|300]]
-
+> [!Diagram] Parity circuit - 4 bit
+> ![[Pasted image 20241021100740.png|350]]
