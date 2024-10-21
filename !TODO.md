@@ -1,1 +1,1 @@
-- [ ] hello
+- [ ] understand the logic of SRAM memory - on canvas 1032w5
