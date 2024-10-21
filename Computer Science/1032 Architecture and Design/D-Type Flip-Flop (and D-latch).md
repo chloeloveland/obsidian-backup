@@ -11,5 +11,3 @@
 
 > [!Example] Flip flops as an 8-bit [[Memory|register]]
 > ![[Pasted image 20241021091644.png| 450]]
-
-
