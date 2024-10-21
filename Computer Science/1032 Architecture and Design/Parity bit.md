@@ -26,3 +26,4 @@ Usually even parity is used.
 
 > [!Diagram] Parity circuit - 4 bit
 > ![[Pasted image 20241021100740.png|350]]
+
