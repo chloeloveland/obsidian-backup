@@ -8,3 +8,8 @@
 - The D flip flop can have its own [[Symbols for latches and flip flops|symbol]]
 - The **D latch** is slightly different to the **flip-flop**
 	- Instead of latching on an edge, a *d-latch* latches on a certain clock *level* (high or low)
+
+> [!Example] Flip flops as an 8-bit [[Memory|register]]
+> ![[Pasted image 20241021091644.png| 450]]
+
+
