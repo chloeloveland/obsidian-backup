@@ -71,3 +71,7 @@ WHERE S.age=18
 	- `MIN(A)`
 		- The min value in A
 - All can use the `DISTINCT` keyword, in `COUNT` as example
+
+> [!Warning] 
+> If `SELECT` uses an aggregate operation, then it must use *only* aggregate operations, unless the query contains a `GROUP BY` clause, MySQL would return an arbitrary answer.
+
