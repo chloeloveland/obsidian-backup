@@ -39,6 +39,18 @@ WHERE S.age=18
 	- `SET NULL` / `SET DEFAULT` 
 		- sets foreign key to value of referencing tuple
 
+## Ordering
+- Results can be ordered using the `ORDER BY` statement
+- e.g. `ORDER BY S.rating`
+
+## Set-manipulation constructs
+- `UNION` $\cup$
+- `INTERSECT` $\cap$
+- `EXCEPT` -
+- By default, duplicates are not shown
+- to show, use `X ALL` (e.g. `UNION ALL`)
+- **Not supported by MySQL**
+
 ## Nested SQL
 - SQL statements can be nested in one another
 
