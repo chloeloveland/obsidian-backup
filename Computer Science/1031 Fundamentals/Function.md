@@ -28,5 +28,7 @@ tags:
 	- **Composition**: see [[Function Composition]]
 	- **Recursion**: see [[Recursive Function Definition]]
 
+## Inverse function
+
 ## Function properties
 - Some functions satisfy certain important [[Properties of functions|properties]]
