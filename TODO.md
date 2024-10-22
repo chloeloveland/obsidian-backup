@@ -1,3 +1,3 @@
 - [ ] understand the logic of SRAM memory - on canvas 1032w5
-- [ ] notes on inverse function - 1031 w5
+- [x] notes on inverse function - 1031 w5
 - [ ] do 1034 practical

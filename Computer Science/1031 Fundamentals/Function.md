@@ -32,5 +32,12 @@ tags:
 - Some functions can be undone; some cannot
 - if function is $f$, inverse denoted as $f^{-1}$
 - A function only has an inverse if it is [[Properties of functions#Bijective|bijective]]
+
+> [!Example]
+> - Let $f:\{a,b,c\} \rightarrow \{2,4,6\}$
+> - $f(a) = 2$, $f^{-1}(2) = a$
+> 
+> this is an example of a function ***with*** an inverse
+
 ## Function properties
 - Some functions satisfy certain important [[Properties of functions|properties]]
