@@ -38,3 +38,5 @@ WHERE S.age=18
 		- delete all tuples that refer to deleted tuple
 	- `SET NULL` / `SET DEFAULT` 
 		- sets foreign key to value of referencing tuple
+
+## Nested SQL

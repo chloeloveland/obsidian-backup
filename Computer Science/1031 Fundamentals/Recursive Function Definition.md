@@ -7,3 +7,6 @@ tags:
 - You have a base case and a recursive case
 - the base case is a single relation e.g. $f(0) = 0$
 - the recursive case then defines the rest based on this e.g. for any $x \in \Bbb N$, define $f(x) = f(x-1) + x$
+
+> [!Warning] 
+> We need the base case so the recursion does not run away, and actually exits
