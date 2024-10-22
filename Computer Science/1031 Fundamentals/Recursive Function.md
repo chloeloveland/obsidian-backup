@@ -1,2 +1,5 @@
 - A recursive function is a [[Function]] defined using recursion
-- This is similar to 
+- This is similar to [[]]
+- You have a base case and a recursive case
+- the base case is a single relation e.g. $f(0) = 5$
+- the recursive case then defines the rest based on this e.g. for any $x \in \Bbb N$, define $f(x) = f(x-1)$
