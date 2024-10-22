@@ -26,7 +26,7 @@ tags:
 - A function's domain and codomain can be mapped to one another using one of a few methods
 	- **Listing**: For small functions we can map every input to every output
 	- **Composition**: see [[Function Composition]]
-	- **Recursion**: see [[Recursive Function]]
+	- **Recursion**: see [[Recursive Function Definition]]
 
 ## Function properties
 - Some functions satisfy certain important [[Properties of functions|properties]]

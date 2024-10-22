@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 - Some [[function|functions]] satisfy certain important properties.
 
 ## Surjective

@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 - Multiple [[function|functions]] can be composited together to make a new function
 - $f\circ g = f(g(x)))$
 
