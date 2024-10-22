@@ -39,7 +39,7 @@ WHERE S.age=18
 	- `SET NULL` / `SET DEFAULT` 
 		- sets foreign key to value of referencing tuple
 
-## Ordering
+## *Ordering*
 - Results can be ordered using the `ORDER BY` statement
 - e.g. `ORDER BY S.rating`
 
@@ -75,3 +75,4 @@ WHERE S.age=18
 > [!Warning] 
 > If `SELECT` uses an aggregate operation, then it must use *only* aggregate operations, unless the query contains a `GROUP BY` clause, MySQL would return an arbitrary answer.
 
+## *Group by* and *Having*
