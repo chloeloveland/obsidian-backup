@@ -27,5 +27,3 @@ tags:
 >  1. Know that 0 ∈ **N**
 > 2. If we already know x ∈ $\mathbb{N}$ then we know (x+1) ∈ $\mathbb{N}$.
 > 3. Nothing else is in set $\mathbb{N}$
-
-- computers operate using [[energy]]
