@@ -40,3 +40,9 @@ WHERE S.age=18
 		- sets foreign key to value of referencing tuple
 
 ## Nested SQL
+- SQL statements can be nested in one another
+
+> [!Example]
+> ![[Pasted image 20241022104046.png|500]]
+
+
