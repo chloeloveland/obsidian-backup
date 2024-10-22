@@ -57,4 +57,6 @@ WHERE S.age=18
 > [!Example]
 > ![[Pasted image 20241022104046.png|500]]
 
+## Aggregate operators
 
+- SQL supports five aggregate operations, which can be applied on any column of a relation
