@@ -22,6 +22,8 @@ tags:
 >- $h(x) =$ $x\over 2$
 >
 >This will return half of x for any x
+
+A function can also be defined [[Recursive Function|recursively]]
 ### Mapping a function
 - A function's domain and codomain can be mapped to one another using one of a few methods
 	- **Listing**: For small functions we can map every input to every output

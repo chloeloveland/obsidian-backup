@@ -1,1 +1,2 @@
 - [ ] understand the logic of SRAM memory - on canvas 1032w5
+- [ ] notes on recursive function definition - 1031 w5
