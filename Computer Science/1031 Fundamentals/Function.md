@@ -29,6 +29,8 @@ tags:
 	- **Recursion**: see [[Recursive Function Definition]]
 
 ## Inverse function
-
+- Some functions can be undone; some cannot
+- if function is $f$, inverse denoted as $f^{-1}$
+- A function only has an inverse if it is [[Properties of functions#Bijective|bijective]]
 ## Function properties
 - Some functions satisfy certain important [[Properties of functions|properties]]
