@@ -76,5 +76,5 @@ WHERE S.age=18
 > If `SELECT` uses an aggregate operation, then it must use *only* aggregate operations, unless the query contains a `GROUP BY` clause, MySQL would return an arbitrary answer.
 
 ## *Group by* and *Having*
-
-
+- `GROUP BY` groups rows that have the same values into summary rows.
+- `HAVING` is similar to the `WHERE` clause but is compatible with aggregate statements.
