@@ -1,4 +1,4 @@
-- A recursive function is a [[Function]] defined using recursion
+- A recursive function is a [[function]] defined using recursion
 - This is similar to [[Expressing Sets#Recursion|recursive set definition]]
 - You have a base case and a recursive case
 - the base case is a single relation e.g. $f(0) = 5$

@@ -3,7 +3,7 @@ tags:
   - 1031-Fundamental
 ---
 - A function maps input values to output values
-- Every function is a [[relations|relation]]
+- It is a specific type of [[relations|relation]]
 - it is a mapping between two [[sets]]
 	- The *Domain Set* (input)
 	- and the *Codomain Set* (output)
@@ -23,10 +23,12 @@ tags:
 >
 >This will return half of x for any x
 
-A function can also be defined [[Recursive Function|recursively]]
+- A function can also be defined [[Recursive Function|recursively]]
 ### Mapping a function
 - A function's domain and codomain can be mapped to one another using one of a few methods
 	- **Listing**: For small functions we can map every input to every output
+	- **Composition**: see below
+	- **Recursion**: see [[Recursive Function]]
 
 ### Function composition
 - Multiple functions can be composited together to make a new function
