@@ -60,3 +60,14 @@ WHERE S.age=18
 ## Aggregate operators
 
 - SQL supports five aggregate operations, which can be applied on any column of a relation
+	- `COUNT([DISTINCT]A)` 
+		- The number of (unique) values in A
+	- `SUM(A)`
+		- The sum of values in A
+	- `AVG(A)`
+		- The average of all values in A
+	- `MAX(A)`
+		- The max value in A
+	- `MIN(A)`
+		- The min value in A
+- All can use the `DISTINCT` keyword, in `COUNT` as example
