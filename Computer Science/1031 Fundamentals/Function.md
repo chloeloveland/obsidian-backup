@@ -37,3 +37,6 @@ A function can also be defined [[Recursive Function|recursively]]
 > - if this is not true you simply cannot do it
 
 - Function composition is very useful for data analytics because it allows you to split a complex function into simpler functions that can then be composed together
+
+### Function properties
+- Some functions satisfy certain important [[Properties of functionsproperties]]
