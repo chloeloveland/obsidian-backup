@@ -1,0 +1,15 @@
+- [x] repr
+- [x] eq 
+- [x] overlap
+- [x] init 
+
+- [x] init
+- [x] repr
+- [ ] add booking
+- [ ] edit booking
+- [ ] search by room
+- [ ] search by start
+- [ ]  timetable
+- [ ] get available
+- [ ] load / save
+- [ ] overlap_checkall 
