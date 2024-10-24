@@ -79,4 +79,12 @@ WHERE S.age=18
 - `GROUP BY` groups rows that have the same values into summary rows.
 - `HAVING` is similar to the `WHERE` clause but is compatible with aggregate statements.
 
-## 
+> [!Info] General form of extended SQL
+> ```
+> SELECT target-list
+> FROM relation-list
+> WHERE qualification
+> GROUP BY grouping-list
+> HAVING group-qualification
+>```
+
