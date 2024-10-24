@@ -17,4 +17,4 @@ tags:
 
 ## Reasoning using properties
 - If we know a a function is *surjective* and/or *injective*, we can use this to reason about a function
-	- Example: if a function is bijective then it has an [[inverse function]]
+	- Example: if a function is bijective then it has an [[Function#Inverse function|inverse function]]
