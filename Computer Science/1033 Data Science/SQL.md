@@ -43,7 +43,7 @@ WHERE S.age=18
 - Results can be ordered using the `ORDER BY` statement
 - e.g. `ORDER BY S.rating`
 
-## Set-manipulation constructs
+## [[sets|Set]]-manipulation constructs
 - `UNION` $\cup$
 - `INTERSECT` $\cap$
 - `EXCEPT` -
