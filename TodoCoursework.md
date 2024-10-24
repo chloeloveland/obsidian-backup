@@ -6,7 +6,7 @@
 - [x] init
 - [x] repr
 - [x] add booking
-- [ ] edit booking
+- [x] edit booking
 - [ ] search by room
 - [ ] search by start
 - [ ]  timetable
