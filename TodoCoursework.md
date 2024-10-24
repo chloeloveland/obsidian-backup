@@ -9,6 +9,7 @@
 - [x] edit booking
 - [x] search by room
 - [x] search by start
-- [ ] timetableavailable
+- [x] timetable
+- [x] available
 - [ ] load / save
 - [ ] overlap_checkall 
