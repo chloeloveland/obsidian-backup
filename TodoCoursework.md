@@ -7,7 +7,7 @@
 - [x] repr
 - [x] add booking
 - [x] edit booking
-- [ ] search by room
+- [x] search by room
 - [ ] search by start
 - [ ]  timetable
 - [ ] get available
