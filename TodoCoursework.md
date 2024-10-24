@@ -8,7 +8,7 @@
 - [x] add booking
 - [x] edit booking
 - [x] search by room
-- [ ] search by start
+- [x] search by start
 - [ ]  timetable
 - [ ] get available
 - [ ] load / save
