@@ -75,14 +75,14 @@ WHERE S.age=18
 > [!Warning] 
 > If `SELECT` uses an aggregate operation, then it must use *only* aggregate operations, unless the query contains a `GROUP BY` clause, MySQL would return an arbitrary answer.
 
->[!Tip]
+>[!Info]
 > - Aggregate operations **cannot be nested**
 > 	- instead of `MIN(AVG())`, something like:
 > ```SELECT MIN (avAge)  
 FROM (SELECT S.rating, AVG (S.age) AS avAge  
 FROM Sailors S  
-GROUP BY S.rating) AS minAge```
-```
+GROUP BY S.rating) AS minAge
+
 
 ## *Group by* and *Having*
 - `GROUP BY` groups rows that have the same values into summary rows.
