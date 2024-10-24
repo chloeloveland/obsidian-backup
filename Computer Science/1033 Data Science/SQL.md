@@ -78,3 +78,5 @@ WHERE S.age=18
 ## *Group by* and *Having*
 - `GROUP BY` groups rows that have the same values into summary rows.
 - `HAVING` is similar to the `WHERE` clause but is compatible with aggregate statements.
+
+## 
