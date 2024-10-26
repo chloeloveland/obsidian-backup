@@ -4,10 +4,11 @@
 - [x] init 
 
 - [x] init
+	- [ ] 
 - [x] repr
 - [x] add booking
 - [x] edit booking
-- [ ] remove booking
+- [x] remove booking
 - [x] search by room
 - [x] search by start
 - [x] timetable
