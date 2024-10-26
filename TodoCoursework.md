@@ -11,5 +11,5 @@
 - [x] search by start
 - [x] timetable
 - [x] available
-- [ ] load / save
+- [x] load / save
 - [ ] overlap_checkall 
