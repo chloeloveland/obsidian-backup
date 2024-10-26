@@ -4,14 +4,31 @@
 - [x] init 
 
 - [x] init
-	- [ ] 
+	- [x] good
+	- [x] bad
 - [x] repr
+	- [x] good
 - [x] add booking
+	- [x] good
+	- [x] bad
 - [x] edit booking
+	- [x] good
+	- [x] bad
 - [x] remove booking
+	- [x] good
+	- [x] bad
 - [x] search by room
+	- [x] good
+	- [x] bad
 - [x] search by start
+	- [x] good
+	- [x] bad
 - [x] timetable
+	- [x] good
+	- [x] bad
 - [x] available
+	- [x] good
+	- [x] bad
 - [x] load / save
-- [ ] overlap_checkall 
+	- [x] good
+	- [x] bad
