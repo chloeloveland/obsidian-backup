@@ -5,8 +5,6 @@ The arithmetic logic unit (ALU) is a common [[Logical circuit]]. It serves to pe
 
 These 1 bit ALUs can be combined to created multi-bit adders:
 
-
 > [!Diagram] 8 Bit Arithmetic Logic Unit
 > ![[Pasted image 20241028214158.png]]
 
-Since the ALU uses a [[decoder]],
