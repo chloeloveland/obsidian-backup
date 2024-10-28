@@ -1,3 +1,2 @@
 - The Von Neumann architecture is a computer architecture
 - it's key difference is that the instruction and data storage is held on the same [[memory]], unlike other architectures
-- 
