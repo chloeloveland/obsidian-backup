@@ -19,6 +19,6 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - Sometimes a direct proof is not possible because we do not have enough information.
 - So we can use proof techniques such as **proof by cases**.
 ## Proof by cases
-- Split proof into a number of cases
+- Split proof into a number of **cases**
 - Each case has a new **assumption**
 - Give a proof for each case using extra **assumption**
