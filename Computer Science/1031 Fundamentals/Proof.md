@@ -1,4 +1,4 @@
-In some important systems (car AI, autopilot, nuclear reactor etc.) it is critical that software never fails. In these situations, mere testing is not enough:
+In some important systems (car self drive, plane **autopilot**, nuclear reactor etc.) it is critical that software never fails. In these situations, mere testing is not enough:
 
 > "Testing can show presence of errors but not their absence" - Dijkstra
 
@@ -13,6 +13,6 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - Consists of a series of **deduction steps** that link together to show directly why the conclusion stated in the [[theorem]] follows from the given assumptions.
 - Each deduction step states what it is using and what new fact is derived
 
-
-> [!Example] Example of deduction steps
+> [!Example] Example of what a deduction step looks like
 > By assumption $A\backslash B\neq \{\}$ and definition of set difference we know that $A$ contains some values which are not in $B$ 
+
