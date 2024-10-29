@@ -19,5 +19,5 @@ tags:
 	- i.e. All linked steps can be done in one
 ![[transitivedrawing]]
 ## Reasoning
-- We can use the **properties** of [[Relations]] to deduce things about them.
+- We can use the **properties** of [[Relations]] to [[proof|deduce]] things about them.
 - we can check if these relations hold using [[Relations#Binary relations as Graphs|graphs]]
