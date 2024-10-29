@@ -1,8 +1,3 @@
-- [x] understand the logic of SRAM memory - on canvas 1032w5
-- [x] notes on inverse function - 1031 w5
-- [x] do 1034 practical 5.1, 5.2
-- [x] complete notes on memory organisation
-- [x] Do the 1034 quizzes week 5
 - [ ] project 2 1034 assessed coursework
 	- This just needs final checks and submission
 	- maybe write more thorough tests?
