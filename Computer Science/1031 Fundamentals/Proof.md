@@ -22,3 +22,8 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - Split proof into a number of **cases**
 - Each case has a new **assumption**
 - Give a proof for each case using extra **assumption**
+
+## Counter example
+- It can be shown that a [[theorem]] does not hold by using a **counter example**
+- for a theorem to be true, when its assumptions are true its conclusion must **always** be true
+- if we can give an example where conclusion is **not** true, then the theorem is false
