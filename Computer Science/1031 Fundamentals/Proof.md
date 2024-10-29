@@ -1,0 +1,3 @@
+- A proof is a structure mathematical argument which rigorously explains why a [[Theorem]] is true.
+- A proof shows why the conclusion must hold given the assumptions in the theorem.
+- Normally based on using **deduction steps**: using known facts and definitions to **infer** a new fact.
