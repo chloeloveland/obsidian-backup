@@ -4,7 +4,7 @@ In some important systems (car self drive, plane **autopilot**, nuclear reactor 
 
 So instead we use mathematical reasoning (proof) to rigorously show that a property holds.
 
-- A proof is a structure mathematical argument which rigorously explains why a [[Theorem]] is true.
+- A proof is a structure mathematical argument which rigorously explains why a [[theorem]] is true.
 - A proof shows why the conclusion must hold given the assumptions in the theorem.
 - Normally based on using **deduction steps**: using known facts and definitions to **infer** a new fact.
 
@@ -17,8 +17,8 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > By assumption $A\backslash B\neq \{\}$ and definition of set difference we know that $A$ contains some values which are not in $B$ 
 
 - Sometimes a direct proof is not possible because we do not have enough information.
-- So we can use proof techniques.
-- An important one is **proof by cases**:
-	- Split proof into a number of cases
-	- Each case has a new **assumption**
-	- Give a proof for each case using extra **assumption**
+- So we can use proof techniques such as **proof by cases**.
+## Proof by cases
+- Split proof into a number of cases
+- Each case has a new **assumption**
+- Give a proof for each case using extra **assumption**
