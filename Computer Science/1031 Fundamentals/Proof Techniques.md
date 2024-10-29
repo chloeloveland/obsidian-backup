@@ -2,7 +2,12 @@ In some important systems (car AI, autopilot, nuclear reactor etc.) it is critic
 
 > "Testing can show presence of errors but not their absence" - Dijkstra
 
-So instead we use mathematical reasoning (proof) to rigorously show that a property holds.
+So instead we use mathematical reasoning to rigorously show that a property holds.
 
 ## Theorem
-A theorem assumes some facts (assumptions) hold and then based on these infers a new cast 
+A theorem **assumes some facts** (assumptions) hold and then based on these **infers a new fact** (conclusion) also holds.
+
+> [!Example]
+>1.  $A$ and $B$ are sets
+> 2. $A \in B$
+> 3. so $A\cup B = B$
