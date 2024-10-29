@@ -4,7 +4,7 @@ In some important systems (car self drive, plane **autopilot**, nuclear reactor 
 
 So instead we use mathematical reasoning (proof) to rigorously show that a property holds.
 
-- A proof is a structure mathematical argument which rigorously explains why a [[theorem]] is true.
+- A proof is a structured mathematical argument which rigorously explains why a [[theorem]] is true.
 - A proof shows why the conclusion must hold given the assumptions in the theorem.
 - Normally based on using **deduction steps**: using known facts and definitions to **infer** a new fact.
 
