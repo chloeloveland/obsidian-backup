@@ -2,10 +2,10 @@
 - [x] notes on inverse function - 1031 w5
 - [x] do 1034 practical 5.1, 5.2
 - [x] complete notes on memory organisation
-- [ ] Do the 1034 quizzes week 5
+- [x] Do the 1034 quizzes week 5
 - [ ] project 2 1034 assessed coursework
-	- This just needs final checks and submission tbh
+	- This just needs final checks and submission
 	- maybe write more thorough tests?
 - [ ] 1033 coursework
+	- i think mostly done
 - [ ] 1031 quiz week 5
-- [ ] 1033 Practical week 5
