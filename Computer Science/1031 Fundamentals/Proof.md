@@ -16,3 +16,9 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > [!Example] Example of what a deduction step looks like
 > By assumption $A\backslash B\neq \{\}$ and definition of set difference we know that $A$ contains some values which are not in $B$ 
 
+- Sometimes a direct proof is not possible because we do not have enough information.
+- So we can use proof techniques.
+- An important one is **proof by cases**:
+	- Split proof into a number of cases
+	- Each case has a new **assumption**
+	- Give a proof for each case using extra **assumption**
