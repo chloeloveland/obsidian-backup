@@ -1,6 +1,7 @@
-- [ ] project 2 1034 assessed coursework
+- [x] project 2 1034 assessed coursework
 	- This just needs final checks and submission
 	- maybe write more thorough tests?
+- [ ] ensure submitted 1034 is good enough before 14th nov
 - [ ] 1033 coursework
-	- i think mostly done
-- [ ] 1031 quiz week 5
+	- i think mostly done or its not fully set yet idk
+- [x] 1031 quiz week 5

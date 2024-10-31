@@ -2,6 +2,7 @@
 tags:
   - 1033-Data-Sci
 ---
+- Used in database design, not unlike [[normalisation]]
 - A form of conceptual data model which models data and constraints as [[Entity]] and [[Relationship]]
 - [[Entity]] are represented by rectangles
 - attributes by ovals
