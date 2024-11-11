@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 - Parity bit is a form of [[error detection]]
 - It is an additional bit added to the back (left) of a binary value
 - Parity bit -> 0|0000000

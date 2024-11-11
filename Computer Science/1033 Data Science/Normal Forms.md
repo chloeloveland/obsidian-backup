@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 ## First normal form (1NF)
 - A [[Relation (table)|table]] is in first normal form if all data is ***==atomic==*** i.e. there are no multi-valued fields.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 - A clock is an electronic component which generates an oscillating high and low voltage.
 - The output is a square wave.
 - used in the [[Sequential Circuit]]

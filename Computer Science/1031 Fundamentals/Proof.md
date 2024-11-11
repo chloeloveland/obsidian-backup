@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 In some important systems (car self drive, plane **autopilot**, nuclear reactor etc.) it is critical that software never fails. In these situations, mere testing is not enough:
 
 > "Testing can show presence of errors but not their absence" - Dijkstra

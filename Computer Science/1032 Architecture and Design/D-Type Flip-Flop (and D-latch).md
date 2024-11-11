@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 - A D type flip-flop uses the [[SR latch]], a [[clock]] and a **D** input:
 
 > [!diagram] D Flip-Flop

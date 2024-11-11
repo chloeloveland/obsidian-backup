@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 - SR latch is a form of simple [[memory]]
 - The SR latch is an example of a [[Sequential Circuit]]; it includes *feedback* and *clocks*
 > [!Diagram] An SR latch

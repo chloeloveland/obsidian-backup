@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 - Left and right shifting are operations that can be performed on [[Bases#Binary|binary]] numbers
 - A left shift multiplies the value by 2, and right shift divides by 2
 - A shifter is a [[logical circuit]] which performs these operations

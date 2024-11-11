@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 [[Memory]] is organised in specific patterns to make it more effective to utilise.
 For a specific design we are supposed to understand, see [[SRAM memory]]
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 We are not expected to learn this to heart, just understand why each bit is there.
 - The row and column decoders select the row and column using their input lines
 	- A [[Decoder]] converts $n$ lines input into $2^n$ output

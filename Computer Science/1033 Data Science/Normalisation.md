@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - Normalisation is a mode of database design, not unlike [[Entity-Relationship diagram|Entity-Relationship diagrams]]
 - Starts with one big [[Relation (table)|table]]
 - Then a series of rules are applied to remove **anomalies**

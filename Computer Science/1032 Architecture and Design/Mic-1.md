@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 Mic-1 is a simple example processor architecture.
 
 ## Data path
@@ -48,3 +52,7 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 > - J – Determines how the next microinstruction selected  
 > - Addr – Contains address of potential next microinstruction
 
+## Microarchitecture
+
+> [!diagram] Mic-1 Microarchitec
+> Contents

@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 A theorem is a mathematical statement which **assumes** some **facts** (assumptions) hold and then based on these **infers a new fact** (conclusion) also holds.
 
 > [!Example]

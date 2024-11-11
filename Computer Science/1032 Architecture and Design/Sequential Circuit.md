@@ -1,3 +1,7 @@
+---
+tags:
+  - 1032-Archi
+---
 
 > [!diagram]
 > ![[sequentialcircuit.png|450]]

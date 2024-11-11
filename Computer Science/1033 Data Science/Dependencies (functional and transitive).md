@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 ## Functional dependency
 Definition: Attribute $B$ is functionally dependent upon attribute $A$ if a value of $A$ determines a single value of $B$ at any one time
 
