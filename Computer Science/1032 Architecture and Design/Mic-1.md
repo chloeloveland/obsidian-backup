@@ -54,5 +54,5 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 
 ## Microarchitecture
 
-> [!diagram] Mic-1 Microarchitec
-> Contents
+> [!diagram] Mic-1 Microarchitecture
+> ![[th-2944392813.jpg]]
