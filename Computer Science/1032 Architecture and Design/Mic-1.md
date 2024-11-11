@@ -38,3 +38,12 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 >- The results go along the C bus back to the registers (Δz)
 
 ## Microinstruction Format
+
+> [!info]
+> ![[Pasted image 20241111100113.png]]
+> - B – Selects B bus source; encoded as shown  
+> - Mem – Memory functions  
+> - C – Selects which registers written from C bus  
+> - ALU – ALU and shifter functions  
+> - J – Determines how the next microinstruction selected  
+> - Addr – Contains address of potential next microinstruction
