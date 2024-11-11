@@ -36,3 +36,5 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 >- The registers are loaded onto the A and B buses (Δx)  
 >- The ALU and shifter operate (Δy)  
 >- The results go along the C bus back to the registers (Δz)
+
+## Microinstruction Format
