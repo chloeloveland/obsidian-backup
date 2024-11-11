@@ -5,5 +5,6 @@
 - [ ] 1033 coursework
 	- i think mostly done or its not fully set yet idk
 - [ ] week 7 practical 1032
+- [ ] wtf is mic-1
 
 - [x] 1031 quiz week 5
