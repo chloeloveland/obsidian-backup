@@ -14,7 +14,8 @@ There are 2 main buses of 32 lines (or 32 bits) each:
 ### Registers
 [[memory|Registers]] are selected by 2 control lines: one to enable the B bus and the other to enable the C bus. The B bus can be enabled by just one register at a time.  
 
-The reading and writing operations are carried out in 1 [[clock]] cycle.  
+The reading and writing operations are carried out in 1 [[clock]] cycle.
+- See [[Mic-1#Timing|timing]]
 
 The MBR register is a read only register, and it contains 2 control lines. Since it is an 8-bit register, its output is connected to the least significant 8 bits of the B bus.
 
@@ -31,4 +32,8 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 ## Timing
 
 > [!Info] Mic-1 Data Path timing
-> Contents
+> ![[Pasted image 20241111095154.png]]
+> - The control signals are set up (Δw)  
+>- The registers are loaded onto the A and B buses (Δx)  
+>- The ALU and shifter operate (Δy)  
+>- The results go along the C bus back to the registers (Δz)
