@@ -15,7 +15,7 @@ tags:
 > 	- This is called **unambiguity**
 > 	- (Note: the same output **is** allowed to be mapped to multiple inputs)
 > 
-> They **must** be true for a *true* function
+> They **must** be true for a *true* function	
 ## Defining a function
 > [!example]
 > - $h =\Bbb N\rightarrow\Bbb R$
