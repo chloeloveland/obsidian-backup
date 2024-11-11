@@ -1,7 +1,7 @@
 Mic-1 is a simple example processor architecture.
 
 ## Data path
-The data path of the mic-1 contains 32-bit registers, buses, an ALU and a shifter.
+The data path of the mic-1 contains 32-bit [[memory|registers]], buses, an [[Arithmetic Logic Unit|ALU]] and a [[Left-Right shifter|shifter]].
 
 > [!Diagram] Mic-1 Diagram
 > ![[th-3208711058.jpg]]
@@ -20,3 +20,15 @@ The MBR register is a read only register, and it contains 2 control lines. Since
 
 ### ALU
 The [[Arithmetic Logic Unit]] has:
+- 2 32-bit input lines: one for the B bus and one for the bus that is connected directly to the H register.
+- 1 32-bit output line, which is connected directly to the shifter.
+- 6 control lines aimed to select which operation to perform.
+- 2 other output lines for the status flags N (negative) and Z (zero).
+
+### Shifter
+The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shifter contains a 32-bit input and output. The output is connected directly to the C bus.
+
+## Timing
+
+> [!Info] Mic-1 Data Path timing
+> Contents
