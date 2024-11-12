@@ -34,12 +34,15 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - if we can give an example where conclusion is **not** true, then the theorem is false.
 
 ## Proof by induction
-- A proof technique used to proved theorems over recursively defined sets of values.
+- A proof technique used to prove theorems over recursively defined sets of values.
 
 > [!info] Consider using **proof by induction** for theorems of this form:
-> >- [[Theorem]]: For all natural numbers $n\in \Bbb N$ we have property $P(n)$
-> - Property $P(n)$ can be any [[Boolean logic|boolean]] property involving [[Common Sets|natural number]] n that you want to show holds.
-> > [!Example]
-> >- $P(n)$ is $n\times (5+3) = (n\times 5) + (n\times 3)$
-> >- $P(n)$ is $(2^n + 2) > n^2$
->>- <mark style="background: #FF5582A6;">$P(n)$ is $(n^2 + 5)\times 2$</mark> **This is not one**
+> - [[Theorem]]: For all natural numbers $n\in \Bbb N$ we have property $P(n)$
+
+ - Property $P(n)$ can be any [[Boolean logic|boolean]] property involving [[Common Sets|natural number]] n that you want to show holds.
+
+> [!Example] Examples of this:
+> - $P(n)$ is $n\times (5+3) = (n\times 5) + (n\times 3)$
+> - $P(n)$ is $(2^n + 2) > n^2$
+>- <mark style="background: #FF5582A6;">$P(n)$ is $(n^2 + 5)\times 2$</mark> **This is not one**
+
