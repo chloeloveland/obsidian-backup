@@ -13,7 +13,11 @@ CREATE TABLE District(
 );
 ```
 - Phone is intended to be stored as a number with a country code i.e. +447000000000
+- Name is the primary key as this is stated to be unique
 
 ```
-CREATE TABLE 
+CREATE TABLE BusStop(
+	ID int NOT NULL,
+	District VARCHAR(30) 
+)
 ```
