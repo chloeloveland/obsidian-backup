@@ -55,6 +55,7 @@ CREATE TABLE Operator(
 CREATE TABLE OperatorRoute(
 	Name VARCHAR(30),
 	RouteNumber VARCHAR(4),
-	FOREIGN KEY(Name) REFERENCES 
+	FOREIGN KEY(Name) REFERENCES Operator(Name),
+	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber)
 );
 ```
