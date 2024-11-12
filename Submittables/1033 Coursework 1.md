@@ -27,7 +27,7 @@ CREATE TABLE BusStop(
 
 ```
 CREATE TABLE Route(
-	RouteNumber INT NOT NULL,
+	RouteNumber VARCHAR(4) NOT NULL,
 	Frequency INT,
 	Start INT,
 	Destination INT,
@@ -37,12 +37,13 @@ CREATE TABLE Route(
 );
 ```
 - Frequency must be a float as it is the number of buses per hour (this could be less than one)
+- RouteNumber is a varchar instead of int because the IDs can have letters
 - Route has a 2-Many relationship via the two foreign key references to BusStop(ID)
 
 ```
 CREATE TABLE Operator(
 	Name VARCHAR(30),
-	RouteNumber INT,
+	RouteNumber VARCHAR(4),
 	Telephone CHAR(13),
 	Email VARCHAR(40),
 	Address VARCHAR(50),
