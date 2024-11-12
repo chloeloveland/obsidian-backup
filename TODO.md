@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] 1033 normalisation practice
 - [ ] 1034 practicals week 7
-	- Dont have to do all ig @{13-11-2024}
+	@{13-11-2024}
 - [ ] 1031 week 7 study materials do on Wednesday @{13-11-2024}
 - [ ] do some 1031 quizzes maybe
 
@@ -17,7 +17,7 @@ kanban-plugin: board
 
 - [ ] 1033 coursework
 	- [x] Part 1
-	- [ ] Part 2 @{6-12-2024}
+	- [ ] Part 2 @{6-12-2024} @@{14:00}
 
 
 ## Study
@@ -25,16 +25,17 @@ kanban-plugin: board
 - [ ] wtf is mic-1
 
 
-***
+## Complete
 
-## Archive
-
-- [x] 1034 coursework
+- [x] 1034 coursework 2
 	- [x] quality check the tests
 	- [x] ensure class signatures are correct @{15-11-2024}
 
+
+
+
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true}
 ```
 %%
