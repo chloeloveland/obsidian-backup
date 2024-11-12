@@ -47,8 +47,10 @@ CREATE TABLE Operator(
 ```
 
 > [!Warning] Changes made
-> During data entry I realised that the relationship between operator and route is *not* many-one, and is instead many-many. I will add a join table for the relationship called `OperatorRoute` (this table will have a composite primary key). The diagram is updated to reflect this, and the database will be updated.
+> During data entry I realised that the relationship between operator and route is *not* many-one, and is instead many-many. I will add a join table for the relationship called `OperatorRoute` (this table will have a composite primary key). The diagram is updated to reflect this (see below), and the database will be updated.
 > This involves deleting the existing foreign key constraints between operator and route and creating new ones.
+
+![[coursework1ERdiagramupdated.png|left|400]]
 
 ```
 ALTER TABLE operator DROP INDEX operator_route_FK;
