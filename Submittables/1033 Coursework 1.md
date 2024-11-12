@@ -44,7 +44,8 @@ CREATE TABLE Route(
 CREATE TABLE Operator(
 	Name VARCHAR(30),
 	Telephone CHAR(13),
-	email VARCHAR(50),
-	address
+	Email VARCHAR(40),
+	Address VARCHAR(50),
+	Proportion TINYINT(100)
 );
 ```
