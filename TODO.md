@@ -22,8 +22,9 @@ kanban-plugin: board
 
 - [ ] 1033 coursework 1
 	[link](https://ncl.instructure.com/courses/54984/assignments/251185)
-	- [ ] Part 1
-	- [ ] Part 2 @{6-12-2024} @@{14:00}
+	- [ ] Task 1
+	- [ ] Task 2
+	@{6-12-2024} @@{14:00}
 - [ ] 1034 coursework 3
 	@{13-12-2024} @@{14:00}
 
