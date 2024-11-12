@@ -48,4 +48,4 @@ CREATE TABLE Operator(
 ```
 
 ### Changes made:
-During data entry I realised that the relationship between op
+During data entry I realised that the relationship between operator and route is *not* many-one, and is instead many-many. I will add a join table for the relationship called `OperatorRoute`. The diagram is updated to reflect this, and the database will be updated.
