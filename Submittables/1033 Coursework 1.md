@@ -29,7 +29,9 @@ CREATE TABLE BusStop(
 ```
 CREATE TABLE Route(
 	RouteNumber int NOT NULL,
-	Frequency 
+	Frequency int,
+	
 	PRIMARY KEY(RouteNumber),
 );
 ```
+- Frequency must be a float as it is the number of buses per hour
