@@ -70,7 +70,7 @@ CREATE TABLE OperatorRoute(
 
 ## Task 3
 ```
-SELECT email
+SELECT MIN(email)
 FROM operator
-
+ORDER BY email
 ```
