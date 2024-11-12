@@ -42,7 +42,7 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
  - Property $P(n)$ can be any [[Boolean logic|boolean]] property involving [[Common Sets|natural number]] n that you want to show holds.
 
 > [!Example] Examples of this:
-> - $P(n)$ is $n\times (5+3) = (n\times 5) + (n\times 3)$
-> - $P(n)$ is $(2^n + 2) > n^2$
+> - <mark style="background: #BBFABBA6;">$P(n)$ is $n\times (5+3) = (n\times 5) + (n\times 3)$</mark>
+> - <mark style="background: #BBFABBA6;">$P(n)$ is $(2^n + 2) > n^2$</mark>
 >- <mark style="background: #FF5582A6;">$P(n)$ is $(n^2 + 5)\times 2$</mark> **This is not one**
 
