@@ -81,7 +81,7 @@ Returns last email alphabetically.
 SELECT officephone
 FROM district 
 JOIN route
-JOIN busstop
+INNER JOIN busstop
 ON district.name = busstop.district
 WHERE route.routenumber = 22;
 ```
