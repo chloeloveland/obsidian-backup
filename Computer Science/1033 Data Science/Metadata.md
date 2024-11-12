@@ -4,6 +4,7 @@
 	- To provide <mark class="hltr-pink">information on the structure of data</mark>
 	- To help <mark class="hltr-pink">manage data</mark>
 		- Access levels etc.
+- data in a [[database]]
 
 ## Creating Metadata
 - Metadata can be created manually by a user or automatically by a system
@@ -16,4 +17,9 @@
 	- who has made changes
 	- what maths has been applied 
 	- etc.
-%%
+
+## Adding metadata
+- there is no standard way to add metadata
+- metadata formats include:
+	- Exif for images
+		- Contains image size, camera model, location etc.
