@@ -1,2 +1,2 @@
 # Task 1
-![coursework1ERdiagram.png]
+![[coursework1ERdiagram.png|350|left]]
