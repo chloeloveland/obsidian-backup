@@ -24,9 +24,12 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - So we can use proof techniques such as **proof by cases**.
 
 
-> [!Tip] Chaining
-> Direct proof equations can be chained together:
-> 1. 
+> [!Tip] Direct proof equations can be chained together:
+> 1. Know $a=b$
+> 2. Know $b=c$
+> 3. Know $c=d$
+> 4. Know $d=e$
+> 5. Thus, know $a=e$
 
 
 ## Proof by cases
@@ -40,7 +43,7 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - if we can give an example where conclusion is **not** true, then the theorem is false.
 
 ## Proof by induction
-- A proof technique used to prove theorems over [[Recursive Function Definition|recursively]] defined sets of values.
+- A proof technique used to prove theorems over [[Recursive Function|recursively]] defined sets of values.
 
 > [!info] Consider using **proof by induction** for theorems of this form:
 > - [[Theorem]]: For all natural numbers $n\in \Bbb N$ we have property $P(n)$
