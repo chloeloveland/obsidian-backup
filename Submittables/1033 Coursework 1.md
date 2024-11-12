@@ -80,6 +80,7 @@ Returns last email alphabetically.
 ```
 SELECT officephone
 FROM district 
-JOIN route
+FULL JOIN route
+ON 
 WHERE route.routenumber = 22;
 ```
