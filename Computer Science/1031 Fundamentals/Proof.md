@@ -48,6 +48,5 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 
 
 > [!Example] Example of a proof by induction
-> 
-
-
+> [[Theorem]]: For ann natural numbers $n\in N$ we have
+> > $2^n\times 2^n = 2^{n+n}$
