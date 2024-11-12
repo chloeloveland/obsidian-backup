@@ -1,12 +1,10 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## Practicals
 
-- [ ] 1033 normalisation practice
+- [ ] 1033 normalisation practice @{12-11-2024}
 - [ ] 1034 practicals week 7
 	@{13-11-2024}
 - [ ] 1031 week 7 study materials @{13-11-2024}
@@ -29,6 +27,7 @@ kanban-plugin: board
 
 ## Complete
 
+**Complete**
 - [x] 1034 coursework 2
 	- [x] quality check the tests
 	- [x] ensure class signatures are correct @{15-11-2024} @@{14:00}
