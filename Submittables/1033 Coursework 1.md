@@ -57,8 +57,8 @@ ALTER TABLE operator DROP COLUMN RouteNumber;
 
 ```
 CREATE TABLE OperatorRoute(
-	Name VARCHAR(30),
-	RouteNumber VARCHAR(4),
+	Name VARCHAR(30) NOT NULL,
+	RouteNumber VARCHAR(4) NOT NULL,
 	Proportion TINYINT DEFAULT 100,
 	FOREIGN KEY(Name) REFERENCES Operator(Name),
 	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber),
