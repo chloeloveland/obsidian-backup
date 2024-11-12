@@ -31,7 +31,7 @@ kanban-plugin: board
 
 - [x] 1034 coursework
 	- [x] quality check the tests
-	- [x] ensure class signatures are correct
+	- [x] ensure class signatures are correct @{15-11-2024}
 
 %% kanban:settings
 ```
