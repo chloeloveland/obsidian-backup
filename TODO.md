@@ -1,11 +1,6 @@
-- [x] project 2 1034 assessed coursework
-	- This just needs final checks and submission
-	- maybe write more thorough tests?
-- [x] ensure submitted 1034 is good enough before 14th nov
 - [ ] 1033 coursework
-	- i think mostly done or its not fully set yet idk
-- [ ] week 7 practical 1032
+	- i think its not fully set yet idk
 - [ ] wtf is mic-1
-- [ ] 1034 week 7 study materials weds
-
-- [x] 1031 quiz week 5
+- [ ] 1031 week 7 study materials do on wednesday
+- [ ] do some 1031 quizzes maybe
+- [ ] 1033 normalisation practice
