@@ -28,6 +28,8 @@ CREATE TABLE BusStop(
 
 ```
 CREATE TABLE Route(
-	
-)
+	RouteNumber int NOT NULL,
+	Frequency 
+	PRIMARY KEY(RouteNumber),
+);
 ```
