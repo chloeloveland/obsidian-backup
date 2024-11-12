@@ -37,4 +37,5 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - A proof technique used to proved theorems over recursively defined sets of values.
 
 > [!Example] 
-> [[Theorem]]: For all natural numbers $n\in \Bbb N$ we have property $\bbb$
+> - [[Theorem]]: For all natural numbers $n\in \Bbb N$ we have property $P(n)$
+> - Property $P(n)$ can be any [[Boolean logic]]
