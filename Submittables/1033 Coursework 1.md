@@ -69,8 +69,14 @@ CREATE TABLE OperatorRoute(
 ```
 
 ## Task 3
+### Part a
 ```
-SELECT MIN(email)
+SELECT MAX(email)
 FROM operator
-ORDER BY email
+ORDER BY email;
+```
+Returns last email alphabetically.
+### Part b
+```
+SELECT 
 ```
