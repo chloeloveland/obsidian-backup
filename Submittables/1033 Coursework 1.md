@@ -41,7 +41,6 @@ CREATE TABLE Operator(
 	Telephone CHAR(13),
 	Email VARCHAR(40),
 	Address VARCHAR(50),
-	Proportion TINYINT,
 	PRIMARY KEY(Name),
 	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber)
 	);
@@ -60,7 +59,7 @@ ALTER TABLE operator DROP COLUMN RouteNumber;
 CREATE TABLE OperatorRoute(
 	Name VARCHAR(30),
 	RouteNumber VARCHAR(4),
-	
+	Proportion TINYINT DEFAULT 100,
 	FOREIGN KEY(Name) REFERENCES Operator(Name),
 	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber)
 );
