@@ -7,7 +7,7 @@
 Commands entered:
 ```
 CREATE TABLE District(
-	Name VARCHAR(30) NOT NULL UNIQUE,
+	Name VARCHAR(30) NOT NULL,
 	OfficePhone VARCHAR(13),
 	PRIMARY KEY(Name)
 );
@@ -20,6 +20,7 @@ CREATE TABLE BusStop(
 	ID int NOT NULL,
 	District VARCHAR(30),
 	Description VARCHAR(30),
-	
-)
+	PRIMARY KEY(ID),
+	FOREIGN KEY (District) REFERENCES District(Name)
+);
 ```
