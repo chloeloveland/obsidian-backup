@@ -23,6 +23,12 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - Sometimes a direct proof is not possible because we do not have enough information.
 - So we can use proof techniques such as **proof by cases**.
 
+
+> [!Tip] Chaining
+> Direct proof equations can be chained together:
+> 1. 
+
+
 ## Proof by cases
 - Split proof into a number of **cases**
 - Each case has a new **assumption**
@@ -45,7 +51,6 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > - <mark class="hltr-green">$P(n)$ is $n\times (5+3) = (n\times 5) + (n\times 3)$</mark>
 > - <mark class="hltr-green">$P(n)$ is $(2^n + 2) > n^2$</mark>
 >- <mark class="hltr-red">$P(n)$ is $(n^2 + 5)\times 2$</mark> **This is not one, must be an equation**
-
 
 > [!Diagram] Proof by induction template
 > 1. **Induction Base:** Let $n=0$. Show $P(0)$ holds.
