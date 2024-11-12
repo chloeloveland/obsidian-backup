@@ -48,5 +48,10 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 
 
 > [!Example] Example of a proof by induction
-> [[Theorem]]: For ann natural numbers $n\in N$ we have
-> > $2^n\times 2^n = 2^{n+n}$
+> [[Theorem]]: 
+> >For $n\in N$ we have:
+> >$2^n\times 2^n = 2^{n+n}$
+> We can prove this using **proof by induction.**
+> 1. $P(n)$ is equation $2^n\times 2^n = 2^{n+n}$
+> 2. $P(3)$ is equation $2^3\times 2^3 = 2^{3+3}$
+> 3. $P(k+1)$ is equation $2^3\times 2^3 = 2^{3+3}$
