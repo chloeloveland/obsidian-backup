@@ -28,10 +28,10 @@ CREATE TABLE BusStop(
 
 ```
 CREATE TABLE Route(
-	RouteNumber int NOT NULL,
-	Frequency int,
-	Start int,
-	Destination int,
+	RouteNumber INT NOT NULL,
+	Frequency INT,
+	Start INT,
+	Destination INT,
 	PRIMARY KEY(RouteNumber),
 	FOREIGN KEY(Start) REFERENCES BusStop(ID),
 	FOREIGN KEY(Destination) REFERENCES BusStop(ID)
@@ -43,9 +43,13 @@ CREATE TABLE Route(
 ```
 CREATE TABLE Operator(
 	Name VARCHAR(30),
+	RouteNumber INT,
 	Telephone CHAR(13),
 	Email VARCHAR(40),
 	Address VARCHAR(50),
-	Proportion TINYINT(100)
-);
+	Proportion TINYINT,
+	PRIMARY KEY(Name),
+	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber)
+	);
 ```
+- Proportion can be a TINYINT because it only needs to store between 0 and 100 *ever*.
