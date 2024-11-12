@@ -17,7 +17,7 @@ kanban-plugin: board
 
 - [ ] 1033 coursework
 	- [x] Part 1
-	- [ ] Part 2
+	- [ ] Part 2 @{6-12-2024}
 
 
 ## Study
