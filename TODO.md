@@ -20,7 +20,7 @@ kanban-plugin: board
 
 ## Coursework
 
-- [ ] 1033 coursework 1
+- [ ] [[1033 coursework]] 1
 	[link](https://ncl.instructure.com/courses/54984/assignments/251185)
 	- [x] Task 1
 	- [x] Task 2
