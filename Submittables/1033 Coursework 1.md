@@ -49,4 +49,12 @@ CREATE TABLE Operator(
 
 > [!Warning] Changes made
 > During data entry I realised that the relationship between operator and route is *not* many-one, and is instead many-many. I will add a join table for the relationship called `OperatorRoute`. The diagram is updated to reflect this, and the database will be updated.
+> This involves deleting the existing foreign key constraints between operator and route and creating new ones.
 
+```
+CREATE TABLE OperatorRoute(
+	Name VARCHAR(30),
+	RouteNumber VARCHAR(4),
+	FOREIGN KEY(Name) REFERENCES 
+);
+```
