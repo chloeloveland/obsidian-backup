@@ -6,8 +6,11 @@ kanban-plugin: board
 
 ## Practicals
 
-- [ ] 1033 normalisation practice @{12-11-2024}
+- [ ] 1033 normalisation practice 
+	[link](https://ncl.instructure.com/courses/54984/pages/week-6-practical?module_item_id=3525477)
+	@{12-11-2024}
 - [ ] 1034 practicals week 7
+	[link](https://ncl.instructure.com/courses/54985/pages/csc1034-practical-7-dot-1?module_item_id=3356230)
 	@{13-11-2024}
 - [ ] 1031 week 7 study materials @{13-11-2024}
 - [ ] do some 1031 quizzes maybe
@@ -16,7 +19,7 @@ kanban-plugin: board
 ## Coursework
 
 - [ ] 1033 coursework 1
-	[https://ncl.instructure.com/courses/54984/assignments/251185](link)
+	[link](https://ncl.instructure.com/courses/54984/assignments/251185)
 	- [ ] Part 1
 	- [ ] Part 2 @{6-12-2024} @@{14:00}
 - [ ] 1034 coursework 3
