@@ -43,6 +43,8 @@ CREATE TABLE Route(
 ```
 CREATE TABLE Operator(
 	Name VARCHAR(30),
-	Telephone CHAR()
+	Telephone CHAR(13),
+	email VARCHAR(50),
+	address
 );
 ```
