@@ -32,3 +32,9 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - It can be shown that a [[theorem]] does not hold by using a **counter example**
 - for a theorem to be true, when its assumptions are true its conclusion must **always** be true
 - if we can give an example where conclusion is **not** true, then the theorem is false.
+
+## Proof by induction
+- A proof technique used to proved theorems over recursively defined sets of values.
+
+> [!Example] 
+> [[Theorem]]: For all natural numbers $n\in \Bbb N$ we have property $\bbb$
