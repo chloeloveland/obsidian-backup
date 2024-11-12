@@ -61,7 +61,7 @@ CREATE TABLE OperatorRoute(
 	RouteNumber VARCHAR(4),
 	Proportion TINYINT DEFAULT 100,
 	FOREIGN KEY(Name) REFERENCES Operator(Name),
-	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber)
+	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber),
 	PRIMARY KEY(Name, RouteNumber)
 );
 ```
