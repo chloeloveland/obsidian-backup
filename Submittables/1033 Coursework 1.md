@@ -9,7 +9,7 @@ Commands entered:
 CREATE TABLE District(
 	Name VARCHAR(30) NOT NULL,
 	OfficePhone VARCHAR(13),
-	PRIMARY KEY(name)
+	PRIMARY KEY(Name)
 );
 ```
 - Phone is intended to be stored as a number with a country code i.e. +447000000000
