@@ -33,8 +33,9 @@ CREATE TABLE Route(
 	Start int,
 	Destination int,
 	PRIMARY KEY(RouteNumber),
-	FOREIGN KEY(Start) REFERENCES BusStop(ID)
+	FOREIGN KEY(Start) REFERENCES BusStop(ID),
 	FOREIGN KEY(Destination) REFERENCES BusStop(ID)
 );
 ```
-- Frequency must be a float as it is the number of buses per hour
+- Frequency must be a float as it is the number of buses per hour (this could be less than one)
+- Route has a 2-Many relationship via the two foreign key references to BusStop(ID)
