@@ -1,7 +1,7 @@
 # Chloe Loveland 1033 Coursework 1
 
 ## Task 1
-![[coursework1ERdiagram.png|left|300]]
+![[coursework1ERdiagram.png|left|400]]
 
 ## Task 2
 Commands entered:
@@ -18,6 +18,8 @@ CREATE TABLE District(
 ```
 CREATE TABLE BusStop(
 	ID int NOT NULL,
-	District VARCHAR(30) 
+	District VARCHAR(30),
+	Description VARCHAR(30),
+	
 )
 ```
