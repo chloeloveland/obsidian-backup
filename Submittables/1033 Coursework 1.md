@@ -7,8 +7,10 @@
 Commands entered:
 ```
 CREATE TABLE District(
-	name VARCHAR(30) NOT NULL,
-	office phone
+	Name VARCHAR(30) NOT NULL,
+	OfficePhone VARCHAR(13)
 	PRIMARY KEY(name)
 )
 ```
+- Phone is intended to be entered as a number with a country code i.e. +447000000000
+- 
