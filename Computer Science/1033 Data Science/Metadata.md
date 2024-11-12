@@ -7,4 +7,14 @@
 
 ## Creating Metadata
 - Metadata can be created manually by a user or automatically by a system
-- Context and provenence 
+- <mark class="hltr-orange">Context</mark> and <mark class="hltr-yellow">provenance</mark> are key
+- <mark class="hltr-orange">Context</mark> is the information that adds usefulness to the data
+	- includes date of last edit
+	- number of edits 
+	- etc.
+- <mark class="hltr-yellow">Provenance</mark> is information about the processes that have been applied to the data
+	- who has made changes
+	- what maths has been applied 
+	- etc.
+	- 
+- When creating metadata
