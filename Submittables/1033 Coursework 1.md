@@ -78,5 +78,7 @@ ORDER BY email;
 Returns last email alphabetically.
 ### Part b
 ```
-SELECT 
+SELECT officephone
+FROM district
+WHERE busstop.id = 22;
 ```
