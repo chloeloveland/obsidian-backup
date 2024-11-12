@@ -48,5 +48,8 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 
 
 > [!Diagram] Proof by induction template
-> 1. **Induction Base**: Let $n=0$. Show $P(0)$ holds.
-> 2. **Induction Step:**
+> 1. **Induction Base:** Let $n=0$. Show $P(0)$ holds.
+> 2. **Induction Step:** Let $k\in \Bbb N$.
+> 	Assume $P(k)$ holds (**[[Proof#induction hypothesis|induction hypothesis]]**)
+> 	Then show $P(k+1)$ holds.
+
