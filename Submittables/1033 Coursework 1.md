@@ -39,3 +39,9 @@ CREATE TABLE Route(
 ```
 - Frequency must be a float as it is the number of buses per hour (this could be less than one)
 - Route has a 2-Many relationship via the two foreign key references to BusStop(ID)
+
+```
+CREATE TABLE Operator(
+	
+);
+```
