@@ -52,6 +52,11 @@ CREATE TABLE Operator(
 > This involves deleting the existing foreign key constraints between operator and route and creating new ones.
 
 ```
+ALTER TABLE operator DROP INDEX operator_route_FK;
+ALTER TABLE operator DROP COLUMN RouteNumber;
+```
+
+```
 CREATE TABLE OperatorRoute(
 	Name VARCHAR(30),
 	RouteNumber VARCHAR(4),
