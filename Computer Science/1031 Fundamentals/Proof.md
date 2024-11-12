@@ -34,7 +34,7 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - if we can give an example where conclusion is **not** true, then the theorem is false.
 
 ## Proof by induction
-- A proof technique used to prove theorems over recursively defined sets of values.
+- A proof technique used to prove theorems over [[Recursive Function Definition|recursively]] defined sets of values.
 
 > [!info] Consider using **proof by induction** for theorems of this form:
 > - [[Theorem]]: For all natural numbers $n\in \Bbb N$ we have property $P(n)$
@@ -48,11 +48,5 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 
 
 > [!Diagram] Proof by induction template
-> [[Theorem]]: 
-> >For $n\in N$ we have:
-> >$2^n\times 2^n = 2^{n+n}$
-> 
-> We can prove this using **proof by induction.**
-> 1. $P(n)$ is equation $2^n\times 2^n = 2^{n+n}$
-> 2. $P(3)$ is equation $2^3\times 2^3 = 2^{3+3}$
-> 3. $P(k+1)$ is equation $2^{k+1}\times 2^{k+1} = 2^{(k+1)+(k+1)}$
+> 1. **Induction Base**: Let $n=0$. Show $P(0)$ holds.
+> 2. **Induction Step:**
