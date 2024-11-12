@@ -8,15 +8,16 @@ kanban-plugin: board
 
 - [ ] 1033 normalisation practice
 - [ ] 1034 practicals week 7
-	- Dont have to do all ig
-- [ ] [[1031 week 7 study materials do on Wednesday]]
+	- Dont have to do all ig @{13-11-2024}
+- [ ] 1031 week 7 study materials do on Wednesday @{13-11-2024}
 - [ ] do some 1031 quizzes maybe
 
 
 ## Coursework
 
 - [ ] 1033 coursework
-	- i think its not fully set yet idk
+	- [x] Part 1
+	- [ ] Part 2
 
 
 ## Study
