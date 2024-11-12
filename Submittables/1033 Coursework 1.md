@@ -60,6 +60,7 @@ ALTER TABLE operator DROP COLUMN RouteNumber;
 CREATE TABLE OperatorRoute(
 	Name VARCHAR(30),
 	RouteNumber VARCHAR(4),
+	
 	FOREIGN KEY(Name) REFERENCES Operator(Name),
 	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber)
 );
