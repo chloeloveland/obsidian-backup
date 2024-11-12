@@ -79,6 +79,8 @@ Returns last email alphabetically.
 ### Part b
 ```
 SELECT officephone
-FROM district JOIN busstop JOIN route
+FROM district 
+FULL OUTER JOIN busstop 
+FULL OUTER JOIN route
 WHERE routenumber = 22;
 ```
