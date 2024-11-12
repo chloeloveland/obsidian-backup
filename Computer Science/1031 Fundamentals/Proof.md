@@ -59,4 +59,7 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > 	Then show $P(k+1)$ holds.
 
 > [!applied] Using proof by induction
-> Contents
+> Let $n=0$.
+> Show $triple(0)\over 3$ $=0$ holds.
+> 1. By definition of $triple(0)/3$
+> 
