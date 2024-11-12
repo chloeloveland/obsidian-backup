@@ -39,8 +39,7 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > [!info] Consider using **proof by induction** for theorems of this form:
 > >- [[Theorem]]: For all natural numbers $n\in \Bbb N$ we have property $P(n)$
 > - Property $P(n)$ can be any [[Boolean logic|boolean]] property involving [[Common Sets|natural number]] n that you want to show holds.
-
-> [!Example]
-> - $P(n)$ is $n\times (5+3) = (n\times 5) + (n\times 3)$
-> - $P(n)$ is $(2^n + 2) > n^2$
->- $P(n)$ is $(n^2 + 5)\times 2$
+> > [!Example]
+> >- $P(n)$ is $n\times (5+3) = (n\times 5) + (n\times 3)$
+> >- $P(n)$ is $(2^n + 2) > n^2$
+>>- <mark style="background: #FF5582A6;">$P(n)$ is $(n^2 + 5)\times 2$</mark> **This is not one**
