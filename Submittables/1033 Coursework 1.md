@@ -1,2 +1,5 @@
-# Task 1
-![[coursework1ERdiagram.png|350|left]]
+## Task 1
+
+> [!Diagram]
+>![[coursework1ERdiagram.png|center|300]]
+
