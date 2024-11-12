@@ -29,6 +29,10 @@ WHERE S.age=18
 ```
 - This query would select all (asterisk is wildcard) records from students where the age is 18
 
+## Primary keys
+
+
+
 ## Foreign keys
 - [[Foreign key|Foreign keys]] are created using the `FOREIGN KEY (field) REFERENCES tableName` command
 - Deletes and updates option should also be included as a part of the foreign key declaration

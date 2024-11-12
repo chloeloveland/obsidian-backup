@@ -7,6 +7,7 @@
 Commands entered:
 ```
 CREATE TABLE District(
-	NAME str
+	name VARCHAR(30)
+	
 )
 ```
