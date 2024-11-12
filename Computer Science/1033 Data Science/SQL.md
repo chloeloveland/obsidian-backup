@@ -30,6 +30,15 @@ WHERE S.age=18
 - This query would select all (asterisk is wildcard) records from students where the age is 18
 
 ## Primary keys
+- [[Primary key|Primary keys]] are created using the keyword `PRIMARY KEY()`.
+- Primary keys should never be null, so use the `NOT NULL` keyword.
+- Example:
+```
+CREATE TABLE Persons (  
+    ID int NOT NULL,  
+    PRIMARY KEY (ID)  
+);
+```
 
 
 

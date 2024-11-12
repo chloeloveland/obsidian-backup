@@ -7,7 +7,8 @@
 Commands entered:
 ```
 CREATE TABLE District(
-	name VARCHAR(30)
-	
+	name VARCHAR(30) NOT NULL,
+	office phone
+	PRIMARY KEY(name)
 )
 ```
