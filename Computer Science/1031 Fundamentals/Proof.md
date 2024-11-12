@@ -56,8 +56,11 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 >- <mark class="hltr-red">$P(n)$ is $(n^2 + 5)\times 2$</mark> **This is not one, must be an equation**
 
 > [!Diagram] Proof by induction template
+> 1. Identify the property $P(n)$
+> 	$P(n)$ is equation $triple(n)\over 3$ $=n$
 > 1. **Induction Base:** Let $n=0$. Show $P(0)$ holds.
 > 2. **Induction Step:** Let $k\in \Bbb N$.
 > 	Assume $P(k)$ holds (**[[Proof#induction hypothesis|induction hypothesis]]**)
 > 	Then show $P(k+1)$ holds.
+
 
