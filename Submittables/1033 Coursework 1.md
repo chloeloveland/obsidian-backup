@@ -1,5 +1,8 @@
-## Task 1
+# Chloe Loveland 1033 Coursework 1
 
-> [!Diagram]
->![[coursework1ERdiagram.png|center|300]]
+## Task 1
+![[coursework1ERdiagram.png|left|300]]
+
+## Task 2
+
 
