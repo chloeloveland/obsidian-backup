@@ -30,8 +30,11 @@ CREATE TABLE BusStop(
 CREATE TABLE Route(
 	RouteNumber int NOT NULL,
 	Frequency int,
-	
+	Start int,
+	Destination int,
 	PRIMARY KEY(RouteNumber),
+	FOREIGN KEY(Start) REFERENCES BusStop(ID)
+	FOREIGN KEY(Destination) REFERENCES BusStop(ID)
 );
 ```
 - Frequency must be a float as it is the number of buses per hour
