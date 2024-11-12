@@ -6,5 +6,6 @@
 	- i think mostly done or its not fully set yet idk
 - [ ] week 7 practical 1032
 - [ ] wtf is mic-1
+- [ ] 1034 week 7 study materials weds
 
 - [x] 1031 quiz week 5
