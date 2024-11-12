@@ -4,7 +4,7 @@
 ![[coursework1ERdiagram.png|left|400]]
 
 ## Task 2
-Commands entered:
+**Commands entered:**
 ```
 CREATE TABLE District(
 	Name VARCHAR(30) NOT NULL,
@@ -23,4 +23,11 @@ CREATE TABLE BusStop(
 	PRIMARY KEY(ID),
 	FOREIGN KEY (District) REFERENCES District(Name)
 );
+```
+- The foreign key represents the many to one relationship between BusStop and District
+
+```
+CREATE TABLE Route(
+	
+)
 ```
