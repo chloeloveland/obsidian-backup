@@ -58,8 +58,5 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > 	Assume $P(k)$ holds (**[[Proof#induction hypothesis|induction hypothesis]]**)
 > 	Then show $P(k+1)$ holds.
 
-> [!applied] Using proof by induction
-> Let $n=0$.
-> Show $triple(0)\over 3$ $=0$ holds.
-> 1. By definition of $triple(0)/3$
-> 
+
+
