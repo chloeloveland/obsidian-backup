@@ -1,0 +1,2 @@
+- Metadata is *data about data*
+- 
