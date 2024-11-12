@@ -4,7 +4,6 @@
 ![[coursework1ERdiagram.png|left|400]]
 
 ## Task 2
-**Commands entered:**
 ```
 CREATE TABLE District(
 	Name VARCHAR(30) NOT NULL,
