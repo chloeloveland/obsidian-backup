@@ -12,7 +12,9 @@ kanban-plugin: board
 - [ ] 1034 practicals week 7
 	[link](https://ncl.instructure.com/courses/54985/pages/csc1034-practical-7-dot-1?module_item_id=3356230)
 	@{13-11-2024}
-- [ ] 1031 week 7 study materials @{13-11-2024}
+- [ ] 1031 week 7 study materials 
+	[link](https://ncl.instructure.com/courses/54982/pages/week-7-study-material?module_item_id=3341111)
+	@{13-11-2024}
 - [ ] do some 1031 quizzes maybe
 
 
@@ -28,18 +30,21 @@ kanban-plugin: board
 
 ## Study
 
-- [ ] wtf is mic-1
+- [ ] understand [[mic-1]]
 
 
 ## Complete
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] 1034 coursework 2
 	- [x] quality check the tests
 	- [x] ensure class signatures are correct @{15-11-2024} @@{14:00}
-
-
-
 
 %% kanban:settings
 ```
