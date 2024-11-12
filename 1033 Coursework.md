@@ -6,19 +6,20 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Task 2
+- [ ] Task 3
 
 
-## Task 2
+## Current Task
 
-- [x] Make the relationship between route and operator many to many, using an intermediate table
-- [x] Make a note about this change, but do not update the E-R diagram
 
 
 ## DONE
 
 **Complete**
 - [x] Task 1
+- [x] Task 2
+- [x] Make the relationship between route and operator many to many, using an intermediate table
+- [x] Make a note about this change, but do not update the E-R diagram
 
 
 

@@ -50,7 +50,7 @@ CREATE TABLE Operator(
 > During data entry I realised that the relationship between operator and route is *not* many-one, and is instead many-many. I will add a join table for the relationship called `OperatorRoute` (this table will have a composite primary key). The diagram is updated to reflect this (see below), and the database will be updated.
 > This involves deleting the existing foreign key constraints between operator and route and creating new ones.
 
-![[coursework1ERdiagramupdated.png|400]]
+![[coursework1ERdiagramupdated.png|375]]
 
 ```
 ALTER TABLE operator DROP INDEX operator_route_FK;
@@ -66,4 +66,11 @@ CREATE TABLE OperatorRoute(
 	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber),
 	PRIMARY KEY(Name, RouteNumber)
 );
+```
+
+## Task 3
+```
+SELECT email
+FROM operator
+
 ```
