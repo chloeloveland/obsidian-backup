@@ -48,16 +48,11 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > [!info] Consider using **proof by induction** for theorems of this form:
 > - [[Theorem]]: For all natural numbers $n\in \Bbb N$ we have property $P(n)$
 
- - Property $P(n)$ can be any [[Boolean logic|boolean]] property involving [[Common Sets|natural number]] n that you want to show holds.
-
-> [!Example] Examples of this:
-> - <mark class="hltr-green">$P(n)$ is $n\times (5+3) = (n\times 5) + (n\times 3)$</mark>
-> - <mark class="hltr-green">$P(n)$ is $(2^n + 2) > n^2$</mark>
->- <mark class="hltr-red">$P(n)$ is $(n^2 + 5)\times 2$</mark> **This is not one, must be an equation**
+ - Property $P(n)$ can be any [[Boolean logic|boolean]] property (i.e. equation) involving the [[Common Sets|natural number]] n that you want to show holds.
 
 > [!Diagram] Proof by induction template
 > 1. Identify the property $P(n)$
-> 	$P(n)$ is equation $triple(n)\over 3$ $=n$
+> <mark class="hltr-pink">	$P(n)$ is equation $triple(n)\over 3$ $=n$</mark>
 > 1. **Induction Base:** Let $n=0$. Show $P(0)$ holds.
 > 2. **Induction Step:** Let $k\in \Bbb N$.
 > 	Assume $P(k)$ holds (**[[Proof#induction hypothesis|induction hypothesis]]**)
