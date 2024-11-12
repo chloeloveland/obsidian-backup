@@ -8,7 +8,7 @@
 ```
 CREATE TABLE District(
 	Name VARCHAR(30) NOT NULL,
-	OfficePhone VARCHAR(13),
+	OfficePhone CHAR(13),
 	PRIMARY KEY(Name)
 );
 ```
@@ -42,6 +42,7 @@ CREATE TABLE Route(
 
 ```
 CREATE TABLE Operator(
-	
+	Name VARCHAR(30),
+	Telephone CHAR()
 );
 ```
