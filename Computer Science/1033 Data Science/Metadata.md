@@ -16,5 +16,4 @@
 	- who has made changes
 	- what maths has been applied 
 	- etc.
-	- 
-- When creating metadata
+%%
