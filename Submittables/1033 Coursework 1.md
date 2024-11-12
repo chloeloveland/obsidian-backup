@@ -11,8 +11,6 @@ CREATE TABLE District(
 	PRIMARY KEY(Name)
 );
 ```
-- Phone is intended to be stored as a number with a country code i.e. +447000000000
-- Name is the primary key as this is stated to be unique
 
 ```
 CREATE TABLE BusStop(
@@ -23,7 +21,6 @@ CREATE TABLE BusStop(
 	FOREIGN KEY (District) REFERENCES District(Name)
 );
 ```
-- The foreign key represents the many to one relationship between BusStop and District
 
 ```
 CREATE TABLE Route(
@@ -36,9 +33,6 @@ CREATE TABLE Route(
 	FOREIGN KEY(Destination) REFERENCES BusStop(ID)
 );
 ```
-- Frequency must be a float as it is the number of buses per hour (this could be less than one)
-- RouteNumber is a varchar instead of int because the IDs can have letters
-- Route has a 2-Many relationship via the two foreign key references to BusStop(ID)
 
 ```
 CREATE TABLE Operator(
@@ -52,4 +46,4 @@ CREATE TABLE Operator(
 	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber)
 	);
 ```
-- Proportion can be a TINYINT because it only needs to store between 0 and 100 *ever*.
+
