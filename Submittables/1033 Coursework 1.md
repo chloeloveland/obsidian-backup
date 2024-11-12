@@ -4,5 +4,9 @@
 ![[coursework1ERdiagram.png|left|300]]
 
 ## Task 2
-
-
+Commands entered:
+```
+CREATE TABLE District(
+	NAME str
+)
+```
