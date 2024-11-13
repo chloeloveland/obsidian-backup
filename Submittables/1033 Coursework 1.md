@@ -75,7 +75,9 @@ SELECT MAX(email)
 FROM operator
 ORDER BY email;
 ```
-Returns last email alphabetically.
+Returns:
+![[Pasted image 20241113000512.png|left|250]]
+
 ### Part b
 ```
 SELECT OfficePhone
@@ -86,3 +88,7 @@ JOIN district
 ON busstop.district = district.name
 WHERE routenumber = 22;
 ```
+
+Returns:
+![[Pasted image 20241113000620.png|left|150]]
+The two phone numbers which need calling.
