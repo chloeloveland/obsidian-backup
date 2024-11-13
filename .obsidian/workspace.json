@@ -11,21 +11,15 @@
             "id": "254fbf95fbbeb2f2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Computer Science/Scrap Paper/6.2 Direct Proof.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "6.2 Direct Proof"
             }
           },
           {
@@ -280,7 +274,10 @@
   },
   "active": "254fbf95fbbeb2f2",
   "lastOpenFiles": [
+    "Images/Pasted image 20241113224033.png",
     "Computer Science/Scrap Paper/6.1 Theorems Practice.md",
+    "Computer Science/Scrap Paper/6.2 Direct Proof.md",
+    "TODO.md",
     "Computer Science/1031 Fundamentals/Properties of functions.md",
     "Images/Pasted image 20241113223050.png",
     "Images/Pasted image 20241113221901.png",
@@ -289,7 +286,6 @@
     "Computer Science/Scrap Paper/7.1 Proof by induction practice.md",
     "Computer Science/1031 Fundamentals/Proof.md",
     "Images/transitivedrawing.md",
-    "TODO.md",
     "Excalidraw/Drawing 2024-11-13 15.51.26.excalidraw.md",
     "1033 Coursework.md",
     "Excalidraw",
@@ -316,9 +312,7 @@
     "Computer Science/1032 Architecture and Design/Boolean logic.md",
     "Computer Science/1033 Data Science/Database design.md",
     "Computer Science/1032 Architecture and Design/Mic-1.md",
-    "Computer Science/1034 Programming/Dictionary.md",
     "Images/Pasted image 20241021091644.png",
-    "1031 week 7 study materials do on Wednesday.md",
     "Untitled.canvas",
     "Computer Science/1034 Programming",
     "Computer Science/1033 Data Science",
