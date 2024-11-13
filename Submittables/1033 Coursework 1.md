@@ -107,8 +107,9 @@ Returns:
 
 ### Part d
 ```
-SELECT email
-FROM busstops
-JOIN route ON busstops.
+SELECT *
+FROM busstop
+JOIN route ON route.start = busstop.ID OR route.destination = busstop.ID
 WHERE description LIKE '%ESTATE%'
+JOIN operator ON operator.;
 ```
