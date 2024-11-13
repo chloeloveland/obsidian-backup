@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Blue Topaz",
+  "accentColor": "",
+  "theme": "obsidian",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "imagebackground",
+    "kanbanwrapping"
+  ]
+}

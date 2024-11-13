@@ -1,0 +1,22 @@
+{
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "showIndentGuide": true,
+  "showUnsupportedFiles": true,
+  "foldHeading": true,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "Computer Science",
+  "attachmentFolderPath": "Images",
+  "strictLineBreaks": false,
+  "propertiesInDocument": "hidden",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
+}

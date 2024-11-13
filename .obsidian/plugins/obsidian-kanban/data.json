@@ -1,0 +1,11 @@
+{
+  "show-checkboxes": true,
+  "new-line-trigger": "shift-enter",
+  "show-relative-date": true,
+  "date-picker-week-start": 1,
+  "move-dates": true,
+  "date-display-format": "D/M/Y",
+  "date-format": "D-M-Y",
+  "show-view-as-markdown": false,
+  "show-archive-all": false
+}

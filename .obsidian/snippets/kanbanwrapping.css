@@ -1,0 +1,31 @@
+/* Allow cards to wrap to multiple lines */
+.kanban-plugin__board>div {
+    flex-wrap: wrap;
+}
+
+/* Enable vertical scrolling */
+.kanban-plugin__scroll-container.kanban-plugin__horizontal {
+	overflow-y: auto;
+}
+
+/* Lists with a #kanban_header tag in their cards can be used as line separators */
+.kanban-plugin__board .kanban-plugin__lane-wrapper :not(.kanban-plugin__lane-setting-wrapper) + .kanban-plugin__scroll-container:has(a[href="#kanban_header"].tag){
+    display: none;
+}
+
+.kanban-plugin__board .kanban-plugin__lane-wrapper:has(.kanban-plugin__scroll-container a[href="#kanban_header"].tag) .kanban-plugin__item-button-wrapper{
+    display: none;
+}
+
+/* Spacing */
+.kanban-plugin__board .kanban-plugin__lane-wrapper {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.kanban-plugin__board .kanban-plugin__lane-wrapper:has(.kanban-plugin__scroll-container a[href="#kanban_header"].tag) {
+	width: auto;
+	margin-top: 10px;
+	margin-right: 100%;
+	margin-bottom: 10px;
+}

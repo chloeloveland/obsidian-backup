@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "72f1111b76185fa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43330df81a3abfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254fbf95fbbeb2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Practice - Scrap Paper/7.1 Proof by induction practice.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.1 Proof by induction practice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "793bdde29338ed87",
+    "type": "split",
+    "children": [
+      {
+        "id": "862a3859c2c81b56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1268de5c4756bdd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1e4362baf5a2d0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aggregate",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c90ea41c062df02d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7608573339e4e099",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "ee1026931c8e18ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "baa3bcf5b846a082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b7a5d28c79899fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Submittables/1033 Coursework 1.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1033 Coursework 1"
+            }
+          },
+          {
+            "id": "e1979de5db735677",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/1032 Architecture and Design/Mic-1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mic-1"
+            }
+          },
+          {
+            "id": "5929100bd1016e3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3b20e0e0ec02c581",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/1032 Architecture and Design/Mic-1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mic-1"
+            }
+          },
+          {
+            "id": "a3db0d884d0894d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "d60975202ade03f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "255984ebc56da7d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "114f7e0ad7a89f14",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Submittables/1033 Coursework 1.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 1033 Coursework 1"
+            }
+          },
+          {
+            "id": "dd826cd3170bcb11",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "254fbf95fbbeb2f2",
+  "lastOpenFiles": [
+    "Computer Science/Practice - Scrap Paper/7.1 Proof by induction practice.md",
+    "Images/transitivedrawing.md",
+    "TODO.md",
+    "Excalidraw/Drawing 2024-11-13 15.51.26.excalidraw.md",
+    "1033 Coursework.md",
+    "Computer Science/1031 Fundamentals/Proof.md",
+    "Excalidraw",
+    "Computer Science/Practice - Scrap Paper",
+    "Computer Science/Untitled.md",
+    "Submittables/1033 Coursework 1.md",
+    "Untitled Kanban.md",
+    "Images/Pasted image 20241113003325.png",
+    "Images/Pasted image 20241113002233.png",
+    "Computer Science/1033 Data Science/SQL.md",
+    "Images/Pasted image 20241113000620.png",
+    "Images/Pasted image 20241113000512.png",
+    "Images/coursework1ERdiagramupdated.png",
+    "Computer Science/1033 Data Science/Translating E-R to RDM.md",
+    "Computer Science/1033 Data Science/SQL injection.md",
+    "Images/coursework1ERdiagram.png",
+    "Computer Science/1033 Data Science/Primary key.md",
+    "Computer Science/1033 Data Science/Entity-Relationship diagram.md",
+    "Computer Science/1033 Data Science/Data abstractions.md",
+    "Computer Science/1033 Data Science/Aggregation.md",
+    "Computer Science/1033 Data Science/Databases.md",
+    "Computer Science/1032 Architecture and Design/Adder.md",
+    "Submittables",
+    "Computer Science/1032 Architecture and Design/Boolean logic.md",
+    "Computer Science/1033 Data Science/Database design.md",
+    "Computer Science/1032 Architecture and Design/Mic-1.md",
+    "Computer Science/1034 Programming/Dictionary.md",
+    "Images/Pasted image 20241021091644.png",
+    "Images/Pasted image 20241015110116.png",
+    "1031 week 7 study materials do on Wednesday.md",
+    "TODO Kanban.md",
+    "Computer Science/1032 Architecture and Design/Von Neumann Architecture.md",
+    "Computer Science/1032 Architecture and Design/Multiplexer.md",
+    "Images/th-2944392813.jpg",
+    "Images/Pasted image 20241111100113.png",
+    "Untitled.canvas",
+    "Computer Science/1034 Programming",
+    "Computer Science/1033 Data Science",
+    "Computer Science/1032 Architecture and Design",
+    "Computer Science/1031 Fundamentals",
+    "publish/attachments",
+    "publish",
+    "git-backup/publish/attachments"
+  ]
+}

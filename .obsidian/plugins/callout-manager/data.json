@@ -1,0 +1,38 @@
+{
+  "callouts": {
+    "custom": [
+      "diagram",
+      "applied"
+    ],
+    "settings": {
+      "diagram": [
+        {
+          "changes": {
+            "icon": "lucide-line-chart",
+            "color": "227, 107, 167"
+          }
+        }
+      ],
+      "applied": [
+        {
+          "changes": {
+            "icon": "lucide-apple",
+            "color": "182, 133, 255"
+          }
+        }
+      ],
+      "example": [
+        {
+          "changes": {
+            "color": "182, 133, 255"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
