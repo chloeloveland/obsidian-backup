@@ -15,5 +15,6 @@
   "highlightr-plugin",
   "obsidian-kanban",
   "better-export-pdf",
-  "list-style"
+  "list-style",
+  "text-extractor"
 ]
