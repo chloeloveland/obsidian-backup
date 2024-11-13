@@ -36,7 +36,7 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - Split proof into a number of **cases**
 - Each case has a new **assumption**
 - Give a proof for each case using extra **assumption**
-- Each case covers a possibility; all possibilities must have as 
+- Each case covers a possibility; all possibilities must have a case.
 
 ## Counter example
 - It can be shown that a [[theorem]] does not hold by using a **counter example**
