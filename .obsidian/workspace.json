@@ -21,6 +21,21 @@
               "icon": "lucide-file",
               "title": "7.1 Proof by induction practice"
             }
+          },
+          {
+            "id": "92767f672cfa2897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1031 Fundamentals/Proof.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proof"
+            }
           }
         ]
       }
@@ -244,12 +259,12 @@
   },
   "active": "254fbf95fbbeb2f2",
   "lastOpenFiles": [
+    "Computer Science/1031 Fundamentals/Proof.md",
     "Computer Science/Scrap Paper/7.1 Proof by induction practice.md",
     "Images/transitivedrawing.md",
     "TODO.md",
     "Excalidraw/Drawing 2024-11-13 15.51.26.excalidraw.md",
     "1033 Coursework.md",
-    "Computer Science/1031 Fundamentals/Proof.md",
     "Excalidraw",
     "Computer Science/Scrap Paper",
     "Computer Science/Untitled.md",
