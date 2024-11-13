@@ -57,6 +57,12 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > 2. **Induction Step:** Let $k\in \Bbb N$.
 > 	Assume $P(k)$ holds (**[[Proof#induction hypothesis|induction hypothesis]]**)
 > 	Then show $P(k+1)$ holds.
+> > [!Info]
+> By proving just the **base** and the **step**, we prove every step which leads from $k+1$
+
+
+
+
 
 
 
