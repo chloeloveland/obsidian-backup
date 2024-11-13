@@ -22,21 +22,28 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Computer Science/1031 Fundamentals/Sets.md",
+        "pattern": "Notes/1031 Fundamentals/Sets.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Computer Science/1032 Architecture and Design/Boolean logic.md",
+        "pattern": "Notes/1032 Architecture and Design/Boolean logic.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Computer Science/1033 Data Science/Databases.md",
+        "pattern": "Notes/1033 Data Science/Databases.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Notes",
         "patternType": "STRICT"
       }
     ]

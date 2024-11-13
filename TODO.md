@@ -32,7 +32,7 @@ kanban-plugin: board
 
 ## Study
 
-- [ ] understand [[mic-1]]
+- [ ] understand [[Mic-1]]
 
 
 ## Complete

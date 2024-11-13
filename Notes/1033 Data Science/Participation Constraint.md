@@ -1,0 +1,11 @@
+---
+tags:
+  - 1033-Data-Sci
+---
+- A **participation constraint** imposes some requirements on the number of times an [[Entity]] participates in a [[Relationship]]
+    - Total participation: Each [[Entity]] must participate in at least one [[Relationship]]
+	    - e.g every order to an online store **must have a customer**
+    - Partial participation: an [[Entity]] may not participate in a relationship
+        - not all library card holders will borrow a book
+        - not all books will be borrowed
+        - so we can't have total participation

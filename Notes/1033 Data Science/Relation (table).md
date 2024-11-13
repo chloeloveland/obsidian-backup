@@ -1,0 +1,11 @@
+---
+tags:
+  - 1033-Data-Sci
+---
+- Not to be confused with [[Relationship]]
+- A relation is a concept in the [[Relational Data model]]
+- it is made up of:
+	- **Instance**: simply a table with rows and columns
+		- Rows are records
+		- Columns are fields / attributes
+	- **[[Schema]]**: specifies name of relation, plus name and type of each column

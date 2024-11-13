@@ -43,7 +43,7 @@ CREATE TABLE Operator(
 	Address VARCHAR(50),
 	PRIMARY KEY(Name),
 	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber)
-	);
+);
 ```
 
 > [!Warning] Changes made
