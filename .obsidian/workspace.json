@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Scrap Paper/6.2 Direct Proof.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Scrap Paper/6.1 Theorems Practice.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -289,8 +289,10 @@
   },
   "active": "254fbf95fbbeb2f2",
   "lastOpenFiles": [
+    "Images/Pasted image 20241113224647.png",
     "Computer Science/Scrap Paper/6.1 Theorems Practice.md",
     "Computer Science/Scrap Paper/6.2 Direct Proof.md",
+    "Images/Pasted image 20241113224501.png",
     "Computer Science/1031 Fundamentals/Theorem.md",
     "Images/Pasted image 20241113224033.png",
     "TODO.md",
@@ -317,7 +319,6 @@
     "Images/coursework1ERdiagramupdated.png",
     "Computer Science/1033 Data Science/Translating E-R to RDM.md",
     "Computer Science/1033 Data Science/SQL injection.md",
-    "Images/coursework1ERdiagram.png",
     "Computer Science/1033 Data Science/Primary key.md",
     "Computer Science/1033 Data Science/Entity-Relationship diagram.md",
     "Computer Science/1033 Data Science/Data abstractions.md",
@@ -327,7 +328,6 @@
     "Submittables",
     "Computer Science/1032 Architecture and Design/Boolean logic.md",
     "Computer Science/1033 Data Science/Database design.md",
-    "Computer Science/1032 Architecture and Design/Mic-1.md",
     "Untitled.canvas",
     "Computer Science/1034 Programming",
     "Computer Science/1033 Data Science",
