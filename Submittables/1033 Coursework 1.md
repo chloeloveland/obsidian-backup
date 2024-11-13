@@ -107,9 +107,10 @@ Returns:
 
 ### Part d
 ```
-SELECT *
+SELECT UNIQUE(email)
 FROM busstop
 JOIN route ON route.start = busstop.ID OR route.destination = busstop.ID
-WHERE description LIKE '%ESTATE%'
-JOIN operator ON operator.;
+JOIN operatorroute ON operatorroute.routenumber = route.routenumber
+JOIN operator ON operatorroute.name = operator.name
+WHERE description LIKE '%ESTATE%';
 ```
