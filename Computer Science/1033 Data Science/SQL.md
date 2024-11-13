@@ -73,8 +73,8 @@ CREATE TABLE Persons (
 ## Aggregate operators
 
 - SQL supports five aggregate operations, which can be applied on any column of a relation
-	- `COUNT([DISTINCT]A)` 
-		- The number of (unique) values in A
+	- `COUNT(A)` 
+		- The number of values in A
 	- `SUM(A)`
 		- The sum of values in A
 	- `AVG(A)`
