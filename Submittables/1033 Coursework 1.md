@@ -107,10 +107,14 @@ Returns:
 
 ### Part d
 ```
-SELECT UNIQUE(email)
+SELECT DISTINCT email
 FROM busstop
 JOIN route ON route.start = busstop.ID OR route.destination = busstop.ID
 JOIN operatorroute ON operatorroute.routenumber = route.routenumber
 JOIN operator ON operatorroute.name = operator.name
 WHERE description LIKE '%ESTATE%';
 ```
+
+Returns:
+![[Pasted image 20241113003325.png|left|300]]
+All of the emails of bus operators that use the stop.
