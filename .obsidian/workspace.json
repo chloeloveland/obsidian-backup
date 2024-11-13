@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/1031 Fundamentals/Proof.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -37,7 +37,8 @@
               "title": "Proof"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,10 +258,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "254fbf95fbbeb2f2",
+  "active": "e75d49c52e386556",
   "lastOpenFiles": [
-    "Computer Science/1031 Fundamentals/Proof.md",
     "Computer Science/Scrap Paper/6.3 Proof by cases.md",
+    "Computer Science/1031 Fundamentals/Proof.md",
     "Images/Pasted image 20241113234631.png",
     "Computer Science/Scrap Paper/6.2 Direct Proof.md",
     "Images/Pasted image 20241113231612.png",
