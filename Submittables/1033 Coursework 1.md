@@ -78,11 +78,11 @@ ORDER BY email;
 Returns last email alphabetically.
 ### Part b
 ```
-SELECT * 
+SELECT OfficePhone
 FROM route 
 JOIN busstop 
 ON route.start = busstop.ID OR route.destination = busstop.ID 
 JOIN district
-ON busstop.district = 
+ON busstop.district = district.name
 WHERE routenumber = 22;
 ```
