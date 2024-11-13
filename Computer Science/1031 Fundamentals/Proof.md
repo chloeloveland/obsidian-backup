@@ -58,3 +58,4 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > 	Assume $P(k)$ holds (**[[Proof#induction hypothesis|induction hypothesis]]**)
 > 	Then show $P(k+1)$ holds.
 
+1222
