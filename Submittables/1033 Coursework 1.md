@@ -105,4 +105,10 @@ HAVING COUNT(*) > 4;
 Returns:
 ![[Pasted image 20241113002233.png|left|300]]
 
-###
+### Part d
+```
+SELECT email
+FROM busstops
+JOIN route ON busstops.
+WHERE description LIKE '%ESTATE%'
+```
