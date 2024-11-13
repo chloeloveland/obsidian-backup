@@ -76,7 +76,7 @@ FROM operator
 ORDER BY email;
 ```
 Returns:
-![[Pasted image 20241113000512.png|left|250]]
+![[Pasted image 20241113000512.png|left|300]]
 
 ### Part b
 ```
@@ -90,7 +90,19 @@ WHERE routenumber = 22;
 ```
 
 Returns:
-![[Pasted image 20241113000620.png|left|150]]
+![[Pasted image 20241113000620.png|left|175]]
 The two phone numbers which need calling.
 
 ### Part c
+```
+SELECT COUNT(*) AS "Number of Stops", Name 
+FROM district 
+JOIN busstop ON district.name = busstop.district 
+GROUP BY Name
+HAVING COUNT(*) > 4;
+```
+
+Returns:
+![[Pasted image 20241113002233.png|left|300]]
+
+###
