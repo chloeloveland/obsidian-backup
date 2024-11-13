@@ -11,10 +11,10 @@
   "oz-clear-unused-images",
   "settings-search",
   "table-editor-obsidian",
-  "obsidian-image-toolkit",
   "highlightr-plugin",
   "obsidian-kanban",
   "better-export-pdf",
   "list-style",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-image-toolkit"
 ]
