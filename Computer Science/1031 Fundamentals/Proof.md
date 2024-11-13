@@ -53,17 +53,10 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 > [!Diagram] Proof by induction template
 > 1. Identify the property $P(n)$
 > 	<mark class="hltr-orange">$P(n)$ is equation $triple(n)\over 3$ $=n$</mark>
-> 1. **Induction Base:** Let $n=0$. Show $P(0)$ holds.
+> 1. **Induction Base:** Let $n=0$. Show $P(0)$ holds. (Direct proof)
 > 2. **Induction Step:** Let $k\in \Bbb N$.
-> 	Assume $P(k)$ holds (**[[Proof#induction hypothesis|induction hypothesis]]**)
+> 	Assume $P(k)$ holds (induction hypothesis)
 > 	Then show $P(k+1)$ holds.
 > > [!Info]
 > By proving just the **base** and the **step**, we prove every step which leads from $k+1$
 
-
-
-
-
-
-
-### Induction Hypothesis
