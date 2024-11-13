@@ -92,3 +92,5 @@ WHERE routenumber = 22;
 Returns:
 ![[Pasted image 20241113000620.png|left|150]]
 The two phone numbers which need calling.
+
+### Part c
