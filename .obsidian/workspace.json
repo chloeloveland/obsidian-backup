@@ -11,21 +11,15 @@
             "id": "13ce9634f41841a1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "7.1 Proof by induction practice"
             }
           }
         ]
@@ -249,8 +243,8 @@
   },
   "active": "13ce9634f41841a1",
   "lastOpenFiles": [
-    "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
     "TODO.md",
+    "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
     "1033 Coursework.md",
     "Notes/1031 Fundamentals/Proof.md",
     "Calendar",
