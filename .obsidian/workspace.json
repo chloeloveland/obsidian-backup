@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "811a6c3bc2bc13e1",
+        "id": "7a7e530a861bcc34",
         "type": "tabs",
         "children": [
           {
-            "id": "90e4ce67dcb485f1",
+            "id": "13ce9634f41841a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "7.1 Proof by induction practice"
             }
           }
         ]
@@ -232,14 +237,15 @@
       "quick-tagger:Add tag to current note": false,
       "quick-tagger:Remove tag from current note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e4ce67dcb485f1",
+  "active": "13ce9634f41841a1",
   "lastOpenFiles": [
-    "Notes/1031 Fundamentals/Proof.md",
     "TODO.md",
     "1033 Coursework.md",
+    "Notes/1031 Fundamentals/Proof.md",
     "Calendar",
     "Submittables/1033 Coursework 1.md",
     "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
