@@ -4,7 +4,6 @@
   "better-mathjax",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-mind-map",
   "file-explorer-plus",
   "quick-tagger",
   "obsidian-style-settings",
@@ -16,6 +15,5 @@
   "better-export-pdf",
   "list-style",
   "text-extractor",
-  "obsidian-image-toolkit",
-  "obsidian-full-calendar"
+  "obsidian-image-toolkit"
 ]
