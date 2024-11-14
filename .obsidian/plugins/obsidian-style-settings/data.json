@@ -45,5 +45,10 @@
   "blue-topaz-theme@@highlight-style": "bt-default-highlight",
   "blue-topaz-theme@@colorful-unordered-list": true,
   "blue-topaz-theme@@hr-for-pagination": true,
-  "blue-topaz-theme@@all-dark-pdf": false
+  "blue-topaz-theme@@all-dark-pdf": false,
+  "blue-topaz-theme@@colorful-ordered-list": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-tab-liked",
+  "blue-topaz-theme@@folder-icons": true,
+  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@loading-shape-with-custom-high-contrast-bg": false
 }
