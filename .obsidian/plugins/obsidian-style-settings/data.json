@@ -43,5 +43,7 @@
   "blue-topaz-theme@@bt-indentation-width-hover": "2px",
   "blue-topaz-theme@@remove-arrow": false,
   "blue-topaz-theme@@highlight-style": "bt-default-highlight",
-  "blue-topaz-theme@@colorful-unordered-list": true
+  "blue-topaz-theme@@colorful-unordered-list": true,
+  "blue-topaz-theme@@hr-for-pagination": true,
+  "blue-topaz-theme@@all-dark-pdf": false
 }

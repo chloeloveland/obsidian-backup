@@ -45,9 +45,9 @@ CREATE TABLE Operator(
 	FOREIGN KEY(RouteNumber) REFERENCES Route(RouteNumber)
 );
 ```
-
+---
 > [!Warning] Changes made
-> During data entry I realised that the relationship between operator and route is *not* many-one, and is instead many-many. I will add a join table for the relationship called `OperatorRoute`. The diagram is updated to reflect this (see below), and the database will be updated.
+> During data entry I realised that the relationship between operator and route is *not* many-one, but many-many. I will add a join table for the relationship called `OperatorRoute`. The diagram is updated to reflect this (see below), and the database will be updated.
 
 ![[coursework1ERdiagramupdated.png|centre|375]]
 
