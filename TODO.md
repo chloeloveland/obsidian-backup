@@ -6,9 +6,6 @@ kanban-plugin: board
 
 ## Practicals
 
-- [ ] 1031 week 6 study materials 
-	[link](https://ncl.instructure.com/courses/54982/pages/week-6-study-material?module_item_id=3341108)
-	@{13-11-2024}
 - [ ] 1031 week 7 study materials 
 	[link](https://ncl.instructure.com/courses/54982/pages/week-7-study-material?module_item_id=3341111)
 	@{13-11-2024}
@@ -38,6 +35,9 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] 1031 week 6 study materials 
+	[link](https://ncl.instructure.com/courses/54982/pages/week-6-study-material?module_item_id=3341108)
+	@{13-11-2024}
 
 
 ***
