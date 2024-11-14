@@ -43,6 +43,12 @@ So instead we use mathematical reasoning (proof) to rigorously show that a prope
 - for a theorem to be true, when its assumptions are true its conclusion must **always** be true
 - if we can give an example where conclusion is **not** true, then the theorem is false.
 
+> [!Info] Template for counter example
+> **Values:** {values go here}
+> **Assumptions true:** {show the assumptions are true}
+> **Conclusion false:** {show the conclusion is false}
+
+
 ## Proof by induction
 - A proof technique used to prove theorems over [[Recursive Function|recursively]] defined sets of values.
 
