@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -52,8 +52,7 @@
               "title": "6.2 Direct Proof"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,10 +272,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2a89ff8b815decf5",
+  "active": "c2a38cf967fa02ad",
   "lastOpenFiles": [
-    "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
     "Notes/1031 Fundamentals/Proof.md",
+    "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
     "Images/Pasted image 20241114021448.png",
     "Images/Pasted image 20241114014052.png",
     "Notes/Practice questions/1031/Week 6/6.3 Proof by cases.md",
