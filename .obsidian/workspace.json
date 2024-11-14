@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Submittables/1033 Coursework 1.md",
-                "mode": "preview",
+                "file": "Notes/Practice questions/6.3 Proof by cases.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1033 Coursework 1"
+              "title": "6.3 Proof by cases"
             }
           }
         ]
@@ -244,13 +244,15 @@
   },
   "active": "c2a38cf967fa02ad",
   "lastOpenFiles": [
+    "Images/Pasted image 20241114001028.png",
+    "Notes/Practice questions/6.2 Direct Proof.md",
     "1033 Coursework.md",
+    "Submittables/1033 Coursework 1.md",
     "Notes/Practice questions/6.3 Proof by cases.md",
     "Images/Pasted image 20241113235621.png",
     "TODO.md",
     "Notes/1031 Fundamentals/Proof.md",
     "Images/Pasted image 20241113234631.png",
-    "Notes/Practice questions/6.2 Direct Proof.md",
     "Images/Pasted image 20241113231612.png",
     "Notes/1031 Fundamentals/Set Notation.md",
     "Images/Pasted image 20241113230958.png",
@@ -269,7 +271,6 @@
     "Excalidraw",
     "Notes/Practice questions",
     "Computer Science/Untitled.md",
-    "Submittables/1033 Coursework 1.md",
     "Untitled Kanban.md",
     "Notes/1033 Data Science/SQL.md",
     "Notes/1033 Data Science/Translating E-R to RDM.md",
