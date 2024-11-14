@@ -91,7 +91,7 @@ WHERE routenumber = 22;
 Returns:
 ![[Pasted image 20241113000620.png|left|175]]
 The two phone numbers which need calling.
-
+---
 ### Part c
 ```
 SELECT COUNT(*) AS "Number of Stops", Name 
