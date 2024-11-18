@@ -56,3 +56,9 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 > - ALU – ALU and shifter functions  
 > - J – Determines how the next microinstruction selected  
 > - Addr – Contains address of potential next microinstruction
+
+## Microinstructions notation
+
+> [!Info] Notation
+
+![[Pasted image 20241118092343.png]]

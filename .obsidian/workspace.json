@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/1032 Architecture and Design/Mic-1.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -243,6 +243,7 @@
   },
   "active": "13ce9634f41841a1",
   "lastOpenFiles": [
+    "Images/Pasted image 20241118092343.png",
     "TODO.md",
     "1033 Coursework.md",
     "Notes/1032 Architecture and Design/Mic-1.md",
@@ -284,7 +285,6 @@
     "Notes/1033 Data Science/Primary key.md",
     "Notes/1033 Data Science/Entity-Relationship diagram.md",
     "Notes/1033 Data Science/Data abstractions.md",
-    "Notes/1033 Data Science/Aggregation.md",
     "Submittables",
     "Untitled.canvas",
     "Notes/1034 Programming",
