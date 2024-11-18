@@ -11,21 +11,15 @@
             "id": "13ce9634f41841a1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/1032 Architecture and Design/Boolean logic.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "Boolean logic"
             }
           }
         ]
@@ -249,9 +243,10 @@
   },
   "active": "13ce9634f41841a1",
   "lastOpenFiles": [
+    "Notes/1033 Data Science/Databases.md",
+    "TODO.md",
     "1033 Coursework.md",
     "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
-    "TODO.md",
     "Notes/1031 Fundamentals/Proof.md",
     "Calendar",
     "Submittables/1033 Coursework 1.md",
@@ -288,7 +283,6 @@
     "Notes/1033 Data Science/Entity-Relationship diagram.md",
     "Notes/1033 Data Science/Data abstractions.md",
     "Notes/1033 Data Science/Aggregation.md",
-    "Notes/1033 Data Science/Databases.md",
     "Notes/1032 Architecture and Design/Adder.md",
     "Submittables",
     "Untitled.canvas",

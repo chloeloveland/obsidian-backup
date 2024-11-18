@@ -6,9 +6,6 @@ kanban-plugin: board
 
 ## Practicals
 
-- [ ] 1033 normalisation practice 
-	[link](https://ncl.instructure.com/courses/54984/pages/week-6-practical?module_item_id=3525477)
-	@{12-11-2024}
 
 
 ## Coursework
@@ -40,6 +37,13 @@ kanban-plugin: board
 	@{13-11-2024}
 
 
+## Cancelled/gave up
+
+- [ ] 1033 normalisation practice 
+	[link](https://ncl.instructure.com/courses/54984/pages/week-6-practical?module_item_id=3525477)
+	@{12-11-2024}
+
+
 ***
 
 ## Archive
@@ -50,6 +54,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":true}
 ```
 %%
