@@ -68,7 +68,7 @@ CREATE TABLE OperatorRoute(
 ```
 
 ## Task iii)
-### Part a
+### Part a)
 ```
 SELECT MAX(email)
 FROM operator
@@ -77,7 +77,7 @@ ORDER BY email;
 Returns:
 ![[Pasted image 20241113000512.png|left|300]]
 
-### Part b
+### Part b)
 ```
 SELECT OfficePhone
 FROM route 
@@ -92,7 +92,7 @@ Returns:
 ![[Pasted image 20241113000620.png|left|175]]
 The two phone numbers which need calling.
 ---
-### Part c
+### Part c)
 ```
 SELECT COUNT(*) AS "Number of Stops", Name 
 FROM district 
@@ -104,7 +104,7 @@ HAVING COUNT(*) > 4;
 Returns:
 ![[Pasted image 20241113002233.png|left|300]]
 
-### Part d
+### Part d)
 ```
 SELECT DISTINCT email
 FROM busstop
@@ -119,16 +119,17 @@ Returns:
 
 All of the emails of bus operators that use the stop.
 
+---
 ## Task iv)
 1. {a} This approach seems like it would work. All the data is atomic, none of the tables have partial primary key dependencies, and no non-key fields rely on other non-key fields.
 2. Does not work because non-key fields (staff name, staff phone number) depend on another non-key field (staff ID) - so does not meet third normal form.
 3. Does not work because data is not atomic (i.e. all the info is stored in just 2 attributes) which means the solution does not meet first normal form.
 
 ## Task v)
-1. {a} 
+1. {a} ...
 	1. Performance data - could contain information that the query time is excessively long etc., which points to there being an underlying issue going on with the database.
 	2. Query history - Could contain information on a user who is entering a high volume of queries, which could impact usability and speed for all other users.
-2. 
+2. ...
 	1. Permission data - contains information on which users are allowed to do what - for security, users should ideally have the least possible permissions for what they need to do with the database, to ensure they cannot make any wrongful edits or deletions.
 	2. Users data - if a user makes an unpermitted operation on the database, maliciously or otherwise, it may be important to know the user who is behind it.
 	3. Connection data - similarly, if a user makes an unpermitted operation on the database it may be useful to know the source of the connection of the user which is responsible, as well as when they were connected etc.
