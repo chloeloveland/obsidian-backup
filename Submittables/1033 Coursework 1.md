@@ -126,3 +126,5 @@ All of the emails of bus operators that use the stop.
 
 ## Task v)
 1. {a} 
+	1. Permission data - This data could contain information on users that have permissions which they are not supposed to have, which could allow them to edit da.
+	2. Query history - Could contain information on if a user is entering a high volume of queries, which could impact usability and speed for all other users.
