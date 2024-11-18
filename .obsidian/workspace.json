@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1032 Architecture and Design/Boolean logic.md",
+                "file": "Notes/1032 Architecture and Design/Mic-1.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boolean logic"
+              "title": "Mic-1"
             }
           }
         ]
@@ -243,9 +243,9 @@
   },
   "active": "13ce9634f41841a1",
   "lastOpenFiles": [
+    "Notes/1032 Architecture and Design/Boolean logic.md",
     "TODO.md",
     "1033 Coursework.md",
-    "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1033 Data Science/Databases.md",
     "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
     "Notes/1031 Fundamentals/Proof.md",
