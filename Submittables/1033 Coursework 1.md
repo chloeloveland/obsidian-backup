@@ -125,3 +125,4 @@ All of the emails of bus operators that use the stop.
 3. Does not work because data is not atomic (i.e. all the info is stored in just 2 attributes) which means the solution does not meet first normal form.
 
 ## Task v)
+1. {a} 
