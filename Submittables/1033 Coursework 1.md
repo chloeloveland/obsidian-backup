@@ -3,8 +3,8 @@
 ## Task i)
 ![[coursework1ERdiagram.png|centre|375]]
 
-<br>
 
+---
 ## Task ii)
 ```
 CREATE TABLE District(
