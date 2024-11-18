@@ -131,4 +131,4 @@ All of the emails of bus operators that use the stop.
 2. 
 	1. Permission data - contains information on which users are allowed to do what - for security, users should ideally have the least possible permissions for what they need to do with the database, to ensure they cannot make any wrongful edits or deletions.
 	2. Users data - if a user makes an unpermitted operation on the database, maliciously or otherwise, it may be important to know the user who is behind it.
-	3. Connection data - similarly, if a user makes an unpermitted operation on the database
+	3. Connection data - similarly, if a user makes an unpermitted operation on the database it may be useful to know the source of the connection of the user which is responsible, as well as when they were connected etc.
