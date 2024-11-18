@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1032 Architecture and Design/Mic-1.md",
+                "file": "Notes/1032 Architecture and Design/Cache memory.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mic-1"
+              "title": "Cache memory"
             }
           }
         ]
@@ -250,8 +250,8 @@
   },
   "active": "10d33970ed8b026b",
   "lastOpenFiles": [
-    "TODO.md",
     "Notes/1032 Architecture and Design/Mic-1.md",
+    "TODO.md",
     "Notes/1032 Architecture and Design/CPU.md",
     "Notes/1032 Architecture and Design/Von Neumann Architecture.md",
     "Images/th-2944392813.jpg",
