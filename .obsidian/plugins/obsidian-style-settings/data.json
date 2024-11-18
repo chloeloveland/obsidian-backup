@@ -50,5 +50,7 @@
   "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-tab-liked",
   "blue-topaz-theme@@folder-icons": true,
   "blue-topaz-theme@@remove-file-icons": false,
-  "blue-topaz-theme@@loading-shape-with-custom-high-contrast-bg": false
+  "blue-topaz-theme@@loading-shape-with-custom-high-contrast-bg": false,
+  "blue-topaz-theme@@colorful-link-animation": true,
+  "blue-topaz-theme@@bt-colorful-titlebar": true
 }
