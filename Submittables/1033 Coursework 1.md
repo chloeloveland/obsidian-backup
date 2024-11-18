@@ -120,6 +120,6 @@ Returns:
 All of the emails of bus operators that use the stop.
 
 ## Task 4
-1. {a} .
+1. {a} This approach seems like it would work. All the data is atomic, none of the tables have partial primary key dependencies, and no non-key fields rely on other non-key fields.
 2. Does not work because non-key fields (staff name, staff phone number) depend on another non-key field (staff ID) - so breaks 3NF.
-3. Does not work because data is not **atomic** (the data is )
+3. Does not work because data is not **atomic** (i.e. all the info is stored in just 2 attributes) which means the solution breaks 1NF.
