@@ -10,9 +10,6 @@ kanban-plugin: board
 
 ## Coursework
 
-- [ ] [[1033 coursework]] 1
-	[link](https://ncl.instructure.com/courses/54984/assignments/251185)
-	@{6-12-2024} @@{14:00}
 - [ ] 1034 coursework 3
 	@{13-12-2024} @@{14:00}
 
@@ -26,11 +23,7 @@ kanban-plugin: board
 **Complete**
 
 
-## Cancelled/gave up
 
-- [ ] 1033 normalisation practice 
-	[link](https://ncl.instructure.com/courses/54984/pages/week-6-practical?module_item_id=3525477)
-	@{12-11-2024}
 
 
 ***
@@ -56,9 +49,12 @@ kanban-plugin: board
 - [x] 1032 Quiz 8 [link](https://ncl.instructure.com/courses/54983/quizzes/61443?module_item_id=3540743) @{18-11-2024}
 - [x] make CPU page and link to relevant stuff
 - [x] understand [[Mic-1]]
+- [x] [[1033 coursework]] 1
+	[link](https://ncl.instructure.com/courses/54984/assignments/251185)
+	@{6-12-2024} @@{14:00}
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":true}
 ```
 %%
