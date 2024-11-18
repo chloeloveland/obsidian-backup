@@ -21,8 +21,31 @@
               "icon": "lucide-file",
               "title": "Cache memory"
             }
+          },
+          {
+            "id": "e18113eb28235337",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODO"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,14 +271,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10d33970ed8b026b",
+  "active": "e18113eb28235337",
   "lastOpenFiles": [
+    "Notes/1032 Architecture and Design/Cache memory.md",
     "Notes/1032 Architecture and Design/Mic-1.md",
     "TODO.md",
     "Notes/1032 Architecture and Design/CPU.md",
     "Notes/1032 Architecture and Design/Von Neumann Architecture.md",
     "Images/th-2944392813.jpg",
-    "Notes/1032 Architecture and Design/Cache memory.md",
     "Notes/1032 Architecture and Design/Memory.md",
     "Images/Pasted image 20241118094614.png",
     "Notes/1032 Architecture and Design/SR latch.md",

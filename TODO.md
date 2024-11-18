@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Practicals
 
-- [ ] 1032 Quiz 8 [link](https://ncl.instructure.com/courses/54983/quizzes/61443?module_item_id=3540743) @{18-11-2024}
-- [ ] 1032 week 8 practical [link](https://ncl.instructure.com/courses/54983/pages/practical-09?module_item_id=3540741) @{18-11-2024}
 
 
 ## Coursework
@@ -21,13 +19,11 @@ kanban-plugin: board
 
 ## Study
 
-- [ ] make CPU page and link to relevant stuff
 
 
 ## Complete
 
 **Complete**
-- [x] understand [[Mic-1]]
 
 
 ## Cancelled/gave up
@@ -56,6 +52,10 @@ kanban-plugin: board
 - [x] 1031 week 6 study materials 
 	[link](https://ncl.instructure.com/courses/54982/pages/week-6-study-material?module_item_id=3341108)
 	@{13-11-2024}
+- [x] 1032 week 8 practical [link](https://ncl.instructure.com/courses/54983/pages/practical-09?module_item_id=3540741) @{18-11-2024}
+- [x] 1032 Quiz 8 [link](https://ncl.instructure.com/courses/54983/quizzes/61443?module_item_id=3540743) @{18-11-2024}
+- [x] make CPU page and link to relevant stuff
+- [x] understand [[Mic-1]]
 
 %% kanban:settings
 ```
