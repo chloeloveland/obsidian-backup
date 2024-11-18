@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10d33970ed8b026b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/1032 Architecture and Design/Cache memory.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cache memory"
-            }
-          },
-          {
             "id": "e18113eb28235337",
             "type": "leaf",
             "state": {
@@ -36,9 +21,23 @@
               "icon": "lucide-file",
               "title": "1033 Coursework 1"
             }
+          },
+          {
+            "id": "41f82f62d89c6e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/1033 Data Science/Normal Forms.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Normal Forms"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,6 +265,8 @@
   },
   "active": "e18113eb28235337",
   "lastOpenFiles": [
+    "Notes/1033 Data Science/Normal Forms.md",
+    "Submittables/1033 Coursework 1.md",
     "1033 Coursework.md",
     "TODO.md",
     "Notes/1032 Architecture and Design/Cache memory.md",
@@ -279,7 +280,6 @@
     "Notes/1032 Architecture and Design/Sequential Circuit.md",
     "Images/Pasted image 20241118093954.png",
     "Images/Pasted image 20241118092343.png",
-    "Submittables/1033 Coursework 1.md",
     "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1033 Data Science/Databases.md",
     "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
@@ -307,7 +307,6 @@
     "Notes/Practice questions",
     "Computer Science/Untitled.md",
     "Untitled Kanban.md",
-    "Notes/1033 Data Science/SQL.md",
     "Submittables",
     "Untitled.canvas",
     "Notes/1034 Programming",

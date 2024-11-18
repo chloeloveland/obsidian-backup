@@ -120,3 +120,5 @@ Returns:
 All of the emails of bus operators that use the stop.
 
 ## Task 4
+1. {a} .
+2. 
