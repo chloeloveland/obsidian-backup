@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/1032 Architecture and Design/Mic-1.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -250,6 +250,7 @@
   },
   "active": "13ce9634f41841a1",
   "lastOpenFiles": [
+    "Images/Pasted image 20241118094614.png",
     "Notes/1032 Architecture and Design/Memory.md",
     "Notes/1032 Architecture and Design/SR latch.md",
     "Notes/1032 Architecture and Design/Sequential Circuit.md",
@@ -291,7 +292,6 @@
     "Notes/1033 Data Science/SQL.md",
     "Notes/1033 Data Science/Translating E-R to RDM.md",
     "Notes/1033 Data Science/SQL injection.md",
-    "Notes/1033 Data Science/Primary key.md",
     "Submittables",
     "Untitled.canvas",
     "Notes/1034 Programming",
