@@ -62,3 +62,10 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 > [!Info] Notation
 >![[Pasted image 20241118092343.png]]
 >ALU operations. Any of the above operations may be extended by adding "<<8" to them to shift result left by 1 byte.
+
+## Mic-2
+The mic-2 iteration adds an instruction fetch unit to the data path.
+![[Pasted image 20241118093954.png|left]]
+
+## Mic-3
+The mic-3 iteration introduces pipelining.
