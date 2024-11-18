@@ -1,9 +1,9 @@
 # Chloe Loveland 1033 Coursework 1
 
-## Task 1
+## Task i)
 ![[coursework1ERdiagram.png|centre|375]]
 
-## Task 2
+## Task ii)
 ```
 CREATE TABLE District(
 	Name VARCHAR(30) NOT NULL,
@@ -67,7 +67,7 @@ CREATE TABLE OperatorRoute(
 );
 ```
 
-## Task 3
+## Task iii)
 ### Part a
 ```
 SELECT MAX(email)
@@ -119,7 +119,9 @@ Returns:
 
 All of the emails of bus operators that use the stop.
 
-## Task 4
+## Task iv)
 1. {a} This approach seems like it would work. All the data is atomic, none of the tables have partial primary key dependencies, and no non-key fields rely on other non-key fields.
-2. Does not work because non-key fields (staff name, staff phone number) depend on another non-key field (staff ID) - so breaks 3NF.
-3. Does not work because data is not **atomic** (i.e. all the info is stored in just 2 attributes) which means the solution breaks 1NF.
+2. Does not work because non-key fields (staff name, staff phone number) depend on another non-key field (staff ID) - so does not meet third normal form.
+3. Does not work because data is not atomic (i.e. all the info is stored in just 2 attributes) which means the solution does not meet first normal form.
+
+## Task v)
