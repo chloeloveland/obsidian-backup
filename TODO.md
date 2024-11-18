@@ -28,18 +28,6 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
-- [x] 1032 week 6
-- [x] 1032 week 7
-- [x] 1034 practicals week 7
-	[link](https://ncl.instructure.com/courses/54985/pages/csc1034-practical-7-dot-1?module_item_id=3356230)
-	@{13-11-2024}
-- [x] 1031 week 7 quiz @{14-11-2024}
-- [x] 1031 week 7 study materials 
-	[link](https://ncl.instructure.com/courses/54982/pages/week-7-study-material?module_item_id=3341111)
-	@{13-11-2024}
-- [x] 1031 week 6 study materials 
-	[link](https://ncl.instructure.com/courses/54982/pages/week-6-study-material?module_item_id=3341108)
-	@{13-11-2024}
 
 
 ## Cancelled/gave up
@@ -56,6 +44,18 @@ kanban-plugin: board
 - [x] 1034 coursework 2
 	- [x] quality check the tests
 	- [x] ensure class signatures are correct @{15-11-2024} @@{14:00}
+- [x] 1032 week 6
+- [x] 1032 week 7
+- [x] 1034 practicals week 7
+	[link](https://ncl.instructure.com/courses/54985/pages/csc1034-practical-7-dot-1?module_item_id=3356230)
+	@{13-11-2024}
+- [x] 1031 week 7 quiz @{14-11-2024}
+- [x] 1031 week 7 study materials 
+	[link](https://ncl.instructure.com/courses/54982/pages/week-7-study-material?module_item_id=3341111)
+	@{13-11-2024}
+- [x] 1031 week 6 study materials 
+	[link](https://ncl.instructure.com/courses/54982/pages/week-6-study-material?module_item_id=3341108)
+	@{13-11-2024}
 
 %% kanban:settings
 ```
