@@ -126,6 +126,8 @@ All of the emails of bus operators that use the stop.
 
 ## Task v)
 1. {a} 
-	1. Performance data - could contain information that the query time is excessively long, which points to there being an underlying issue going on with the database.
-	2. Query history - Could contain information on if a user is entering a high volume of queries, which could impact usability and speed for all other users.
-2. Permission data - This could contain information on users that have permissions which they are not supposed to have (such as permission to drop tables etc.), which could allow them to edit and remove data wrongfully, causing disruption to other users
+	1. Performance data - could contain information that the query time is excessively long etc., which points to there being an underlying issue going on with the database.
+	2. Query history - Could contain information on a user who is entering a high volume of queries, which could impact usability and speed for all other users.
+2. 
+	1. Permission data - contains information on which users are allowed to do 
+	2. 
