@@ -4,4 +4,5 @@ Cache memory is a high-speed, low-capacity [[memory]] which is used within the [
 > If a particular storage location is referenced, it is likely that nearby memory location will be referenced soon
 
 ## Direct mapped cache
-- The simplest cache is <mark class="hltr-orange">direct-mapped</mark>
+- The simplest cache is <mark class="hltr-orange">**direct-mapped**</mark>
+- If a byte is present in cache, it can only be in **one place**
