@@ -29,8 +29,21 @@
               "icon": "lucide-trello",
               "title": "TODO"
             }
+          },
+          {
+            "id": "a2e07f6906aadd27",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,11 +266,10 @@
       "quick-tagger:Add tag to current note": false,
       "quick-tagger:Remove tag from current note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e18113eb28235337",
+  "active": "a2e07f6906aadd27",
   "lastOpenFiles": [
     "Submittables/1033 Coursework 1.md",
     "1033 Coursework.md",
