@@ -3,6 +3,8 @@
 ## Task i)
 ![[coursework1ERdiagram.png|centre|375]]
 
+<br>
+
 ## Task ii)
 ```
 CREATE TABLE District(
@@ -76,7 +78,7 @@ ORDER BY email;
 ```
 Returns:
 ![[Pasted image 20241113000512.png|left|300]]
-
+<br>
 ### Part b)
 ```
 SELECT OfficePhone
@@ -103,7 +105,7 @@ HAVING COUNT(*) > 4;
 
 Returns:
 ![[Pasted image 20241113002233.png|left|300]]
-
+<br>
 ### Part d)
 ```
 SELECT DISTINCT email
@@ -124,7 +126,7 @@ All of the emails of bus operators that use the stop.
 1. {a} This approach seems like it would work. All the data is atomic, none of the tables have partial primary key dependencies, and no non-key fields rely on other non-key fields.
 2. Does not work because non-key fields (staff name, staff phone number) depend on another non-key field (staff ID) - so does not meet third normal form.
 3. Does not work because data is not atomic (i.e. all the info is stored in just 2 attributes) which means the solution does not meet first normal form.
-
+<br>
 ## Task v)
 1. {a} ...
 	1. Performance data - could contain information that the query time is excessively long etc., which points to there being an underlying issue going on with the database.
