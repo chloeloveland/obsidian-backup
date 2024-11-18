@@ -21,8 +21,31 @@
               "icon": "lucide-file",
               "title": "Boolean logic"
             }
+          },
+          {
+            "id": "9a491e7a1c52d19a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODO"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,11 +264,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13ce9634f41841a1",
+  "active": "9a491e7a1c52d19a",
   "lastOpenFiles": [
+    "1033 Coursework.md",
+    "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1033 Data Science/Databases.md",
     "TODO.md",
-    "1033 Coursework.md",
     "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
     "Notes/1031 Fundamentals/Proof.md",
     "Calendar",

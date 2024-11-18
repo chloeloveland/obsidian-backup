@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Practicals
 
+- [ ] 1032 Quiz [link](https://ncl.instructure.com/courses/54983/quizzes/61443?module_item_id=3540743) @{18-11-2024}
 
 
 ## Coursework
