@@ -116,4 +116,7 @@ WHERE description LIKE '%ESTATE%';
 
 Returns:
 ![[Pasted image 20241113003325.png|left|300]]
+
 All of the emails of bus operators that use the stop.
+
+## Task 4

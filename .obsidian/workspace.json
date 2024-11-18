@@ -26,22 +26,15 @@
             "id": "e18113eb28235337",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Submittables/1033 Coursework 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "1033 Coursework 1"
             }
           }
         ],
@@ -273,9 +266,10 @@
   },
   "active": "e18113eb28235337",
   "lastOpenFiles": [
+    "1033 Coursework.md",
+    "TODO.md",
     "Notes/1032 Architecture and Design/Cache memory.md",
     "Notes/1032 Architecture and Design/Mic-1.md",
-    "TODO.md",
     "Notes/1032 Architecture and Design/CPU.md",
     "Notes/1032 Architecture and Design/Von Neumann Architecture.md",
     "Images/th-2944392813.jpg",
@@ -285,7 +279,6 @@
     "Notes/1032 Architecture and Design/Sequential Circuit.md",
     "Images/Pasted image 20241118093954.png",
     "Images/Pasted image 20241118092343.png",
-    "1033 Coursework.md",
     "Submittables/1033 Coursework 1.md",
     "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1033 Data Science/Databases.md",
