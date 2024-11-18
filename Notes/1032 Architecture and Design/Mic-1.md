@@ -2,7 +2,7 @@
 tags:
   - 1032-Archi
 ---
-Mic-1 is a simple example processor architecture.
+Mic-1 is a simple example [[CPU|processor]] architecture.
 
 ## Data path
 The data path of the mic-1 contains 32-bit [[Memory|registers]], buses, an [[Arithmetic Logic Unit|ALU]] and a [[Left-Right shifter|shifter]].

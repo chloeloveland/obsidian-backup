@@ -37,8 +37,7 @@
               "title": "Cache memory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,11 +263,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65a41e71b65022d8",
+  "active": "1268de5c4756bdd0",
   "lastOpenFiles": [
     "Notes/1032 Architecture and Design/Mic-1.md",
-    "Notes/1032 Architecture and Design/Memory.md",
+    "Notes/1032 Architecture and Design/CPU.md",
     "Notes/1032 Architecture and Design/Cache memory.md",
+    "Notes/1032 Architecture and Design/Memory.md",
     "Images/Pasted image 20241118094614.png",
     "Notes/1032 Architecture and Design/SR latch.md",
     "Notes/1032 Architecture and Design/Sequential Circuit.md",
@@ -307,7 +307,6 @@
     "Untitled Kanban.md",
     "Notes/1033 Data Science/SQL.md",
     "Notes/1033 Data Science/Translating E-R to RDM.md",
-    "Notes/1033 Data Science/SQL injection.md",
     "Submittables",
     "Untitled.canvas",
     "Notes/1034 Programming",

@@ -22,6 +22,7 @@ kanban-plugin: board
 ## Study
 
 - [ ] understand [[Mic-1]]
+- [ ] make CPU page and link to relevant stuff
 
 
 ## Complete
