@@ -11,22 +11,15 @@
             "id": "10d33970ed8b026b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/1032 Architecture and Design/Mic-1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "Mic-1"
             }
           }
         ]
@@ -257,12 +250,12 @@
   },
   "active": "10d33970ed8b026b",
   "lastOpenFiles": [
-    "Notes/1032 Architecture and Design/CPU.md",
+    "TODO.md",
     "Notes/1032 Architecture and Design/Mic-1.md",
+    "Notes/1032 Architecture and Design/CPU.md",
     "Notes/1032 Architecture and Design/Von Neumann Architecture.md",
     "Images/th-2944392813.jpg",
     "Notes/1032 Architecture and Design/Cache memory.md",
-    "TODO.md",
     "Notes/1032 Architecture and Design/Memory.md",
     "Images/Pasted image 20241118094614.png",
     "Notes/1032 Architecture and Design/SR latch.md",
