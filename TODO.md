@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Practicals
 
-- [ ] 1032 Quiz [link](https://ncl.instructure.com/courses/54983/quizzes/61443?module_item_id=3540743) @{18-11-2024}
+- [ ] 1032 Quiz 8 [link](https://ncl.instructure.com/courses/54983/quizzes/61443?module_item_id=3540743) @{18-11-2024}
 - [ ] 1032 week 8 practical [link](https://ncl.instructure.com/courses/54983/pages/practical-09?module_item_id=3540741) @{18-11-2024}
 
 

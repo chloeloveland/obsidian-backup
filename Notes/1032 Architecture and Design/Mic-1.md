@@ -60,5 +60,5 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 ## Microinstructions notation
 
 > [!Info] Notation
-
-![[Pasted image 20241118092343.png]]
+>![[Pasted image 20241118092343.png]]
+>ALU operations. Any of the above operations may be extended by adding "<<8" to them to shift result left by 1 byte.

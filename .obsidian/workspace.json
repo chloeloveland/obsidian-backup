@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/1032 Architecture and Design/Mic-1.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -81,11 +81,18 @@
               "type": "kanban",
               "state": {
                 "file": "TODO.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "TODO"
             }
           }
@@ -243,10 +250,10 @@
   },
   "active": "13ce9634f41841a1",
   "lastOpenFiles": [
-    "Images/Pasted image 20241118092343.png",
     "TODO.md",
-    "1033 Coursework.md",
     "Notes/1032 Architecture and Design/Mic-1.md",
+    "Images/Pasted image 20241118092343.png",
+    "1033 Coursework.md",
     "Submittables/1033 Coursework 1.md",
     "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1033 Data Science/Databases.md",
@@ -269,7 +276,6 @@
     "Notes/Practice questions/1031/Week 7",
     "Notes/Practice questions/1031/Week 6",
     "Notes/Practice questions/1031",
-    "Images/Pasted image 20241114003739.png",
     "Notes/1031 Fundamentals/Set Notation.md",
     "Notes/1031 Fundamentals/Theorem.md",
     "Notes/1031 Fundamentals/Properties of functions.md",
