@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1032 Architecture and Design/Mic-1.md",
+                "file": "Notes/1032 Architecture and Design/Cache memory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mic-1"
+              "title": "Cache memory"
             }
           }
         ]
@@ -250,11 +250,12 @@
   },
   "active": "13ce9634f41841a1",
   "lastOpenFiles": [
-    "Images/Pasted image 20241118094614.png",
+    "Notes/1032 Architecture and Design/Mic-1.md",
+    "Notes/1032 Architecture and Design/Cache memory.md",
     "Notes/1032 Architecture and Design/Memory.md",
+    "Images/Pasted image 20241118094614.png",
     "Notes/1032 Architecture and Design/SR latch.md",
     "Notes/1032 Architecture and Design/Sequential Circuit.md",
-    "Notes/1032 Architecture and Design/Mic-1.md",
     "Images/Pasted image 20241118093954.png",
     "TODO.md",
     "Images/Pasted image 20241118092343.png",
@@ -276,7 +277,6 @@
     "Notes/Practice questions/1031/Week 6/6.4 Counter examples.md",
     "Notes/Practice questions/1031/Week 6/6.1 Theorems Practice.md",
     "Images/Pasted image 20241114005958.png",
-    "Images/Pasted image 20241114005200.png",
     "Notes/Practice questions/1031/Week 7",
     "Notes/Practice questions/1031/Week 6",
     "Notes/Practice questions/1031",

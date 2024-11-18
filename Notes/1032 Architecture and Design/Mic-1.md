@@ -67,6 +67,10 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 The mic-2 iteration adds an instruction fetch unit to the data path, and the A, B, and C latches (one for each bus).
 ![[Pasted image 20241118093954.png|left]]
 ![[Pasted image 20241118094614.png|left]]
-The latch
+
+The latches make pipelining possible (see below).
+
 ## Mic-3
 The mic-3 iteration introduces pipelining.
+This is where the fetch-decode-execute operations in the registers, C bus and ALU are all performed simultaneously.
+

@@ -1,0 +1,1 @@
+Cache memory is a high-speed, low-capacity [[memory]] which is used within the [[CPU]].
