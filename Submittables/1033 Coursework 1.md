@@ -121,4 +121,5 @@ All of the emails of bus operators that use the stop.
 
 ## Task 4
 1. {a} .
-2. 
+2. Does not work because non-key fields (staff name, staff phone number) depend on another non-key field (staff ID) - so breaks 3NF.
+3. Does not work because data is not **atomic** (the data is )
