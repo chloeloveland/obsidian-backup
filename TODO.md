@@ -1,7 +1,5 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## Practicals
@@ -21,9 +19,6 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
-
-
-
 
 
 ***

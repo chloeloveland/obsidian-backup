@@ -11,14 +11,22 @@
             "id": "e18113eb28235337",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
                 "file": "TODO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "TODO"
             }
           }
