@@ -41,6 +41,11 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 >- The ALU and shifter operate (Δy)  
 >- The results go along the C bus back to the registers (Δz)
 
+## Microarchitecture
+
+> [!diagram] Mic-1 Microarchitecture
+> ![[th-2944392813.jpg]]
+
 ## Microinstruction Format
 
 > [!info]
@@ -51,9 +56,3 @@ The [[Left-Right shifter|shifter]] contains a 32-bit input and output. The shift
 > - ALU – ALU and shifter functions  
 > - J – Determines how the next microinstruction selected  
 > - Addr – Contains address of potential next microinstruction
-
-## Microarchitecture
-
-> [!diagram] Mic-1 Microarchitecture
-> ![[th-2944392813.jpg]]
-
