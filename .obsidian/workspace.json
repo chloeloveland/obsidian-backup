@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/1032 Architecture and Design/Mic-1.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/1032 Architecture and Design/Cache memory.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -37,7 +37,8 @@
               "title": "Cache memory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,10 +264,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13ce9634f41841a1",
+  "active": "65a41e71b65022d8",
   "lastOpenFiles": [
-    "Notes/1032 Architecture and Design/Memory.md",
     "Notes/1032 Architecture and Design/Mic-1.md",
+    "Notes/1032 Architecture and Design/Memory.md",
     "Notes/1032 Architecture and Design/Cache memory.md",
     "Images/Pasted image 20241118094614.png",
     "Notes/1032 Architecture and Design/SR latch.md",
