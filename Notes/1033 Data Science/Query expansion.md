@@ -1,0 +1,2 @@
+Query expansion is the process of reformulating a given query to improve its performance.
+Standard ***ordinary queries*** have a lot of imprecision. Multiple words can mean the same thing, one can mean two different thing

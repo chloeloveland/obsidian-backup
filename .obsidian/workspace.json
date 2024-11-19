@@ -34,23 +34,15 @@
             "id": "a2e07f6906aadd27",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/1033 Data Science/Query expansion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "Query expansion"
             }
           }
         ],
@@ -283,8 +275,9 @@
   },
   "active": "a2e07f6906aadd27",
   "lastOpenFiles": [
-    "Submittables/1033 Coursework 1.md",
     "TODO.md",
+    "Notes/1033 Data Science/Query expansion.md",
+    "Submittables/1033 Coursework 1.md",
     "1033 Coursework.md",
     "Notes/1033 Data Science/Normal Forms.md",
     "Notes/1032 Architecture and Design/Cache memory.md",
@@ -324,7 +317,6 @@
     "Excalidraw",
     "Notes/Practice questions",
     "Computer Science/Untitled.md",
-    "Untitled Kanban.md",
     "Submittables",
     "Untitled.canvas",
     "Notes/1034 Programming",
