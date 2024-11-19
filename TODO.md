@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Practicals
 
 - [ ] 1033 week 9 practical [link](https://ncl.instructure.com/courses/54984/pages/week-9-practical?module_item_id=3537462) @{19-11-2024}
+- [ ] 1034 week 8 practical [link](https://ncl.instructure.com/courses/54985/pages/practical-1-using-the-python-debugger?module_item_id=3356253)
 
 
 ## Coursework
