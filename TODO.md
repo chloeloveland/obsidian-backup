@@ -17,7 +17,6 @@ kanban-plugin: board
 
 ## Study
 
-- [ ] 1033 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=895ebd7c-19e1-4592-bc94-b22c014a5532) @{19-11-2024}
 - [ ] 1034 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3b1adf84-d9a8-4c07-918b-b22c014a7935) @{19-11-2024}
 - [ ] 1031 study material - week 8
 	[link](https://ncl.instructure.com/courses/54982/pages/week-8-study-material?module_item_id=3341114) @{20-11-2024}
@@ -26,6 +25,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] 1033 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=895ebd7c-19e1-4592-bc94-b22c014a5532) @{19-11-2024}
 
 
 ***

@@ -21,8 +21,32 @@
               "icon": "lucide-file",
               "title": "Query expansion"
             }
+          },
+          {
+            "id": "33a477b51db8eb17",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODO"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,11 +273,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e18113eb28235337",
+  "active": "33a477b51db8eb17",
   "lastOpenFiles": [
+    "Notes/1033 Data Science/Query expansion.md",
     "TODO.md",
     "Notes/1033 Data Science/Machine learning.md",
-    "Notes/1033 Data Science/Query expansion.md",
     "Submittables/1033 Coursework 1.md",
     "1033 Coursework.md",
     "Notes/1033 Data Science/Normal Forms.md",
