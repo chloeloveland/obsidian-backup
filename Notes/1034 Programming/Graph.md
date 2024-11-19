@@ -42,6 +42,6 @@ This matrix could look like:
 - In a *directed* graph, a 1 means that the node on the left points to the node at the top. 
 	- Here, A->B and B->C.
 - In an *undirected* graph, a 1 means there is an edge between the nodes.
-	- This matrix could not be an undirected graph as it is asymmetrical.
+	- This matrix could not be an undirected graph as it is **asymmetric**.
 
 If a node A has an edge to node B, A and B are **adjacent**.
