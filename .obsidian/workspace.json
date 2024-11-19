@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1033 Data Science/Query expansion.md",
-                "mode": "source",
+                "file": "Notes/1034 Programming/Graph.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Query expansion"
+              "title": "Graph"
             }
           }
         ]
@@ -251,9 +251,9 @@
   },
   "active": "e18113eb28235337",
   "lastOpenFiles": [
+    "Notes/1033 Data Science/Query expansion.md",
     "To do - Personal.md",
     "To do - Uni.md",
-    "Notes/1033 Data Science/Query expansion.md",
     "Notes/1034 Programming/Graph.md",
     "Notes/1031 Fundamentals/Tuples.md",
     "Notes/1034 Programming/$E/subset V/times V$] (see [[Cartesian Product.md",

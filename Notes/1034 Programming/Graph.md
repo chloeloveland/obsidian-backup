@@ -16,4 +16,10 @@ A graph is a mathematical structure for representing relationships. They are use
 	- Edges can have a numerical value
 - Coloured graph
 	- Similar to labelling but typically from a small set (e.g. gender)
-- 
+
+## Properties of graphs
+- A **path** is a sequence of edges from one vertex to another
+	- The **length** is the number of edges a path contains
+- A **cycle** is where a path starts and ends at the same node
+- A node is **reachable** from another node if a **path** exists between them
+- A path cycle is **simple** if it does not repeat *any* nodes or edges
