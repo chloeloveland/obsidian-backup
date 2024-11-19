@@ -21,28 +21,8 @@
               "icon": "lucide-file",
               "title": "Query expansion"
             }
-          },
-          {
-            "id": "33a477b51db8eb17",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "To do - Personal.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "To do - Personal"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,17 +249,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33a477b51db8eb17",
+  "active": "e18113eb28235337",
   "lastOpenFiles": [
-    "Notes/1034 Programming/Graph.md",
     "To do - Personal.md",
+    "To do - Uni.md",
+    "Notes/1033 Data Science/Query expansion.md",
+    "Notes/1034 Programming/Graph.md",
     "Notes/1031 Fundamentals/Tuples.md",
     "Notes/1034 Programming/$E/subset V/times V$] (see [[Cartesian Product.md",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
     "Notes/1031 Fundamentals/Cartesian Product.md",
-    "To do - Uni.md",
-    "Notes/1033 Data Science/Query expansion.md",
     "Notes/1033 Data Science/Machine learning.md",
     "Submittables/1033 Coursework 1.md",
     "1033 Coursework.md",
