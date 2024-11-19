@@ -18,6 +18,7 @@ A graph is a mathematical structure for representing relationships. They are use
 	- Similar to labelling but typically from a small set (e.g. gender)
 
 ## Properties of graphs
+### Paths
 - A **path** is a sequence of edges from one vertex to another
 	- The **length** is the number of edges a path contains
 - A **cycle** is where a path starts and ends at the same node
@@ -26,5 +27,7 @@ A graph is a mathematical structure for representing relationships. They are use
 
 ### Node degrees
 - In *undirected* graphs, the **degree** of a node is the number of edges it connects to
-- In *directed* graphs, the **outdegree** of is the number of outgoing edges
-- In *directed* graphs, the **indegree** of is the number of incoming edges
+- In *directed* graphs, the **outdegree** of is the number of outgoing edges from the given node
+- In *directed* graphs, the **indegree** of is the number of incoming edges to the given node
+
+### Adjacency

@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1032 Architecture and Design/Mic-1.md"
+                "file": "Notes/1034 Programming/Graph.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mic-1"
+              "title": "Outline of Graph"
             }
           },
           {
@@ -226,12 +226,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,10 +250,11 @@
   },
   "active": "e18113eb28235337",
   "lastOpenFiles": [
+    "Notes/1034 Programming/Named Tuple.md",
+    "Notes/1034 Programming/Graph.md",
     "Notes/1033 Data Science/Query expansion.md",
     "To do - Personal.md",
     "To do - Uni.md",
-    "Notes/1034 Programming/Graph.md",
     "Notes/1031 Fundamentals/Tuples.md",
     "Notes/1034 Programming/$E/subset V/times V$] (see [[Cartesian Product.md",
     "Notes/1034 Programming/$E/subset V",
@@ -289,7 +289,6 @@
     "Notes/Practice questions/1031/Week 6/6.2 Direct Proof.md",
     "Images/Pasted image 20241114010554.png",
     "Notes/Practice questions/1031/Week 6/6.4 Counter examples.md",
-    "Notes/Practice questions/1031/Week 6/6.1 Theorems Practice.md",
     "Notes/Practice questions/1031/Week 7",
     "Notes/Practice questions/1031/Week 6",
     "Notes/Practice questions/1031",
