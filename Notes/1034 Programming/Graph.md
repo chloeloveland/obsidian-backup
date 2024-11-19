@@ -34,7 +34,9 @@ A graph is a mathematical structure for representing relationships. They are use
 A graph can be represented as a [[matrix]] $A\in [0,1]^{n\times n}$.
 This matrix could look like:
 
-
-| A   |     |
-| --- | --- |
-|     |     |
+|       | A   | B   | C   |
+| ----- | --- | --- | --- |
+| **A** | 0   | 1   | 0   |
+| **B** | 0   | 0   | 1   |
+| **C** | 0   | 0   | 0   |
+In a *directed* graph, 
