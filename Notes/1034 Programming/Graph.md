@@ -8,3 +8,9 @@ A graph is a mathematical structure for representing relationships. They are use
 	- If **ordered**, graph is a *directed graph*
 	- If **unordered**, graph is an *undirected graph*
 - Each edge is a pair of **start** and **end** nodes (a.k.a. **source** and **sink**)
+
+## Types of graph
+- Labelled graph
+	- Nodes, edges can have labels (city names, road names etc.)
+- Weighted graph
+	- Edges can have a num
