@@ -1,9 +1,12 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Practicals
 
+- [ ] 1033 week 9 practical [link](https://ncl.instructure.com/courses/54984/pages/week-9-practical?module_item_id=3537462)
 
 
 ## Coursework
@@ -14,6 +17,9 @@ kanban-plugin: board
 
 ## Study
 
+- [ ] 1031 study material - week 8
+	[link](https://ncl.instructure.com/courses/54982/pages/week-8-study-material?module_item_id=3341114) @{20-11-2024}
+- [ ] 1033 lecture [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=895ebd7c-19e1-4592-bc94-b22c014a5532) @{19-11-2024}
 
 
 ## Complete

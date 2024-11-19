@@ -34,12 +34,23 @@
             "id": "a2e07f6906aadd27",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "kanban",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "icon": "lucide-trello",
+              "title": "TODO"
             }
           }
         ],
@@ -266,15 +277,16 @@
       "quick-tagger:Add tag to current note": false,
       "quick-tagger:Remove tag from current note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a2e07f6906aadd27",
   "lastOpenFiles": [
     "Submittables/1033 Coursework 1.md",
+    "TODO.md",
     "1033 Coursework.md",
     "Notes/1033 Data Science/Normal Forms.md",
-    "TODO.md",
     "Notes/1032 Architecture and Design/Cache memory.md",
     "Notes/1032 Architecture and Design/Mic-1.md",
     "Notes/1032 Architecture and Design/CPU.md",
