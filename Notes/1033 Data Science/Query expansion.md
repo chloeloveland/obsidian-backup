@@ -17,3 +17,5 @@ The dictionary approach can either be done manually through the inclusion of mul
 Usually instead we opt to use computerised dictionary tools to help with this.
 
 ## Machine learning
+If we have a very large dataset, machine learning is particularly useful.
+It recognises patterns and trends in data, which can help in many areas.
