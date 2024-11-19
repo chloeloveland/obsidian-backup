@@ -13,5 +13,7 @@ A graph is a mathematical structure for representing relationships. They are use
 - Labelled graph
 	- Nodes, edges can have labels (city names, road names etc.)
 - Weighted graph
-	- Edges can have a numerical values
-	-
+	- Edges can have a numerical value
+- Coloured graph
+	- Similar to labelling but typically from a small set (e.g. gender)
+- 
