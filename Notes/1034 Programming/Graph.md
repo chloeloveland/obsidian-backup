@@ -31,3 +31,10 @@ A graph is a mathematical structure for representing relationships. They are use
 - In *directed* graphs, the **indegree** of is the number of incoming edges to the given node
 
 ### Adjacency
+A graph can be represented as a [[matrix]] $A\in [0,1]^{n\times n}$.
+This matrix could look like:
+
+
+| A   |     |
+| --- | --- |
+|     |     |
