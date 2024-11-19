@@ -23,3 +23,8 @@ A graph is a mathematical structure for representing relationships. They are use
 - A **cycle** is where a path starts and ends at the same node
 - A node is **reachable** from another node if a **path** exists between them
 - A path cycle is **simple** if it does not repeat *any* nodes or edges
+
+### Node degrees
+- In *undirected* graphs, the **degree** of a node is the number of edges it connects to
+- In *directed* graphs, the **outdegree** of is the number of outgoing edges
+- In *directed* graphs, the **indegree** of is the number of incoming edges
