@@ -11,10 +11,23 @@
             "id": "bbe463364be85c12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "To do - Uni.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "To do - Uni"
             }
           }
         ]
@@ -92,8 +105,7 @@
               "title": "To do - Uni"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,9 +170,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "To do - Uni.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of To do - Uni"
             }
           },
           {
