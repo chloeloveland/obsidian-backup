@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0922482a0ceceac9",
+        "id": "660d05fc0ad16e58",
         "type": "tabs",
         "children": [
           {
-            "id": "e18113eb28235337",
+            "id": "bbe463364be85c12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/1034 Programming/Graph.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Graph"
-            }
-          },
-          {
-            "id": "34d0e6d100d921ff",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "To do - Uni.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,9 +68,32 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "34d0e6d100d921ff",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "To do - Uni.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "To do - Uni"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,11 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "To do - Uni.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of To do - Uni"
+              "title": "Outline"
             }
           },
           {
@@ -232,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,10 +243,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34d0e6d100d921ff",
+  "active": "bbe463364be85c12",
   "lastOpenFiles": [
-    "Notes/1034 Programming/Graph.md",
     "To do - Uni.md",
+    "Notes/1034 Programming/Graph.md",
     "Notes/1034 Programming/Named Tuple.md",
     "Notes/1033 Data Science/Query expansion.md",
     "To do - Personal.md",
