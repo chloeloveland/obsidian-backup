@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/1034 Programming/Graph.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -267,8 +267,12 @@
   },
   "active": "33a477b51db8eb17",
   "lastOpenFiles": [
-    "TODO.md",
+    "Notes/1034 Programming/$E/subset V/times V$] (see [[Cartesian Product.md",
     "Notes/1034 Programming/Graph.md",
+    "Notes/1034 Programming/$E/subset V",
+    "Notes/1034 Programming/$E",
+    "Notes/1031 Fundamentals/Cartesian Product.md",
+    "TODO.md",
     "Notes/1033 Data Science/Query expansion.md",
     "Notes/1033 Data Science/Machine learning.md",
     "Submittables/1033 Coursework 1.md",
@@ -305,14 +309,10 @@
     "Notes/Practice questions/1031",
     "Notes/1031 Fundamentals/Set Notation.md",
     "Notes/1031 Fundamentals/Theorem.md",
-    "Notes/1031 Fundamentals/Properties of functions.md",
-    "Images/transitivedrawing.md",
     "Excalidraw",
     "Notes/Practice questions",
     "Submittables",
     "Untitled.canvas",
-    "Notes/1034 Programming",
-    "Notes/1033 Data Science",
-    "Notes/1032 Architecture and Design"
+    "Notes/1034 Programming"
   ]
 }
