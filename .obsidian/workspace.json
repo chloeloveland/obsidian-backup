@@ -11,29 +11,6 @@
             "id": "e18113eb28235337",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "a2e07f6906aadd27",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/1033 Data Science/Query expansion.md",
@@ -45,8 +22,7 @@
               "title": "Query expansion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,9 +249,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2e07f6906aadd27",
+  "active": "e18113eb28235337",
   "lastOpenFiles": [
     "TODO.md",
+    "Notes/1033 Data Science/Machine learning.md",
     "Notes/1033 Data Science/Query expansion.md",
     "Submittables/1033 Coursework 1.md",
     "1033 Coursework.md",
@@ -316,7 +293,6 @@
     "Excalidraw/Drawing 2024-11-13 15.51.26.excalidraw.md",
     "Excalidraw",
     "Notes/Practice questions",
-    "Computer Science/Untitled.md",
     "Submittables",
     "Untitled.canvas",
     "Notes/1034 Programming",
