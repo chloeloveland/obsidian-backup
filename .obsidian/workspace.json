@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Practice questions/1031 8.1 Truth Tables.md",
-                "mode": "preview",
+                "file": "Notes/1031 Fundamentals/Propositional Logic.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1031 8.1 Truth Tables"
+              "title": "Propositional Logic"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:th-29",
+                "query": "8.1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,12 +255,10 @@
                 "id": "05c2f832322b27c6",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Images/8.1 truth tables.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "8.1 truth tables"
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               }
             ]
@@ -276,10 +274,11 @@
       }
     ]
   },
-  "active": "05c2f832322b27c6",
+  "active": "bbe463364be85c12",
   "lastOpenFiles": [
+    "Notes/Practice questions/1031/Week 8/8.1 truth tables.md",
     "Notes/Practice questions/1031 8.1 Truth Tables.md",
-    "Images/8.1 truth tables.md",
+    "Notes/Practice questions/1031/Week 8",
     "Notes/1031 Fundamentals/Propositional Logic.md",
     "Images/Drawing 2024-11-20 22.09.10.excalidraw.md",
     "To do - Uni.md",
@@ -308,8 +307,6 @@
     "Images/Pasted image 20241118093954.png",
     "Images/Pasted image 20241118092343.png",
     "Notes/1032 Architecture and Design/Boolean logic.md",
-    "Notes/1033 Data Science/Databases.md",
-    "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
     "Calendar",
     "Images/Pasted image 20241114022838.png",
     "Images/Pasted image 20241114021448.png",
@@ -323,7 +320,6 @@
     "Excalidraw",
     "Notes/Practice questions",
     "Submittables",
-    "Untitled.canvas",
-    "Notes/1034 Programming"
+    "Untitled.canvas"
   ]
 }
