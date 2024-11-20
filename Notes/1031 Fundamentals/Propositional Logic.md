@@ -33,10 +33,13 @@ We can use truth tables to check all the possible behaviours of a propositional 
 ## Satisfiability
 A formula is **satisfiable** if any combination of values will make it true.
 
-Checking for satisfiability can be difficult when there are lots of propositional variables.
+Checking for satisfiability can be difficult when there are lots of propositions.
 The size of the truth table doubles with each additional one (exponential growth).
 
-SAT solvers algorith check for satisfiability
+**SAT solver** algorithms check for satisfiability for you.
+
+## Tautology
+A **tautology** is a propositional formula that <mark class="hltr-green">always evaluates to **true**</mark>.
 
 ---
 ## See also
