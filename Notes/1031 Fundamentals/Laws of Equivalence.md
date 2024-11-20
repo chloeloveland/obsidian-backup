@@ -32,3 +32,10 @@ $$
 $$
 ¬¬x \equiv x
 $$
+- De Morgan's laws
+$$
+\begin{align}
+¬(x\lor y)\equiv ¬x \land ¬y \\
+¬(x\land y)\equiv ¬x \lor ¬y
+\end{align}
+$$
