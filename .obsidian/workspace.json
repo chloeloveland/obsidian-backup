@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "29d524ca7d6caa15",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/Drawing 2024-11-20 22.52.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-20 22.52.58.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,43 +247,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "a5c5c821b8745ffc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "03c5d6899596278b",
-        "type": "window",
-        "children": [
-          {
-            "id": "e72cb02b5d4faa1d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "05c2f832322b27c6",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -287,
-        "y": 798,
-        "width": 1024,
-        "height": 671,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bbe463364be85c12",
+  "active": "29d524ca7d6caa15",
   "lastOpenFiles": [
+    "Images/Drawing 2024-11-20 22.52.58.excalidraw.md",
     "Notes/1031 Fundamentals/Propositional Logic.md",
     "Notes/1032 Architecture and Design/Boolean logic.md",
     "Practice questions/1031/Week 8/8.1 truth tables.md",
