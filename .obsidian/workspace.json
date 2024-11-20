@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "8.1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,8 @@
               "title": "To do - Uni"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,12 +240,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c926be7aacf56164",
+  "active": "f1e4362baf5a2d0e",
   "lastOpenFiles": [
-    "Notes/1032 Architecture and Design/Truth tables.md",
-    "Notes/1031 Fundamentals/Propositional Logic.md",
     "Images/Drawing 2024-11-20 22.52.58.excalidraw.md",
+    "Notes/1031 Fundamentals/Propositional Logic.md",
     "Notes/1032 Architecture and Design/Boolean logic.md",
+    "Notes/1032 Architecture and Design/Truth tables.md",
     "Practice questions/1031/Week 8/8.1 truth tables.md",
     "Notes/Practice questions/1031 8.1 Truth Tables.md",
     "Practice questions/1031/Week 8",

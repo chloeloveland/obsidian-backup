@@ -44,7 +44,12 @@ A **contradiction** is a propositional formula that <mark class="hltr-red">alway
 
 ## Logical equivalence
 When two **propositional formulae** have the same truth table, they are **logically equivalent**.
-This is the basis of many **laws**
+This is the basis of the many **laws of equivalence.**
+
+## Laws of equivalence
+-  Commutative $$x\lor y \equiv y\lor x, x\land y \equiv y\land x$$
+- Associative $$x\lor (y\lor z) \equiv (x\lor y) \lor z
+- $$
 
 ---
 ## See also
