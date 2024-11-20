@@ -38,11 +38,12 @@ The size of the truth table doubles with each additional one (exponential growth
 
 **SAT solver** algorithms check for satisfiability for you.
 
-## Tautology
+## Tautology + Contradiction
 A **tautology** is a propositional formula that <mark class="hltr-green">always evaluates to **true**</mark>.
+A **contradiction** is a propositional formula that <mark class="hltr-red">always evaluates to **false**.</mark>
 
-## Contradiction
-A **contradiction** is a propositional formula that always evaluates to **false**.
+## Logical equivalence
+When two **propositional formulae** have the same truth table, they are **logically equivalent**.
 
 ---
 ## See also
