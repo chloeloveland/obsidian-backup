@@ -55,10 +55,12 @@
   "blue-topaz-theme@@bt-colorful-titlebar": true,
   "blue-topaz-theme@@ordered-list-style-options": "default-ol-list-marker",
   "blue-topaz-theme@@unordered-list-style-options": "bt-default-unordered-list",
-  "blue-topaz-theme@@line-height-list": 1,
+  "blue-topaz-theme@@line-height-list": 1.5,
   "blue-topaz-theme@@list-style-change-options": "list-no-border",
   "blue-topaz-theme@@rainbow-checklist": true,
   "blue-topaz-theme@@toggle-table-transition": false,
   "blue-topaz-theme@@full-width-table": false,
-  "blue-topaz-theme@@table-style-options": "table-style-two"
+  "blue-topaz-theme@@table-style-options": "table-style-two",
+  "blue-topaz-theme@@table-format-options": "default-table",
+  "blue-topaz-theme@@table-width": "table-width-auto"
 }

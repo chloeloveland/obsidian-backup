@@ -15,5 +15,6 @@
   "list-style",
   "quick-tagger",
   "settings-search",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-plugin-toc"
 ]

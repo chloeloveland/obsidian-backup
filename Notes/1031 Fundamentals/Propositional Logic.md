@@ -3,10 +3,9 @@ Propositional logic is a simple logic used for reasoning about expressions that 
 ## Syntax
 - Propositional variables are represented by letters
 	- Typically $p, q, r...$
-- Define propositional logic over **true** or **false**
 
 | Informal | Mathematical |
-| -------- | ------------ |
+| :------- | :----------- |
 | True     | T            |
 | False    | F            |
 | not p    | ¬p           |
