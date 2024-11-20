@@ -55,5 +55,6 @@
   "blue-topaz-theme@@bt-colorful-titlebar": true,
   "blue-topaz-theme@@ordered-list-style-options": "custom-ordered-list",
   "blue-topaz-theme@@unordered-list-style-options": "bt-default-unordered-list",
-  "blue-topaz-theme@@line-height-list": 1
+  "blue-topaz-theme@@line-height-list": 1,
+  "blue-topaz-theme@@list-style-change-options": "list-no-border"
 }
