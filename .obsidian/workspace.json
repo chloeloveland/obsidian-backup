@@ -244,31 +244,31 @@
     "type": "floating",
     "children": [
       {
-        "id": "80bac47e55881673",
+        "id": "03c5d6899596278b",
         "type": "window",
         "children": [
           {
-            "id": "1ddb9c977e4b6c20",
+            "id": "e72cb02b5d4faa1d",
             "type": "tabs",
             "children": [
               {
-                "id": "61ec730d7b3540b3",
+                "id": "05c2f832322b27c6",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "Images/Drawing 2024-11-20 22.09.10.excalidraw.md"
+                    "file": "Images/Drawing 2024-11-20 22.13.32.excalidraw.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Drawing 2024-11-20 22.09.10.excalidraw"
+                  "title": "Drawing 2024-11-20 22.13.32.excalidraw"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": -232,
-        "y": 509,
+        "x": -287,
+        "y": 798,
         "width": 1024,
         "height": 671,
         "maximize": true,
@@ -276,9 +276,10 @@
       }
     ]
   },
-  "active": "61ec730d7b3540b3",
+  "active": "05c2f832322b27c6",
   "lastOpenFiles": [
     "Notes/Practice questions/1031 8.1 Truth Tables.md",
+    "Images/Drawing 2024-11-20 22.13.32.excalidraw.md",
     "Images/Drawing 2024-11-20 22.09.10.excalidraw.md",
     "Notes/1031 Fundamentals/Propositional Logic.md",
     "To do - Uni.md",
@@ -309,7 +310,6 @@
     "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1033 Data Science/Databases.md",
     "Notes/Practice questions/1031/Week 7/7.1 Proof by induction practice.md",
-    "Notes/1031 Fundamentals/Proof.md",
     "Calendar",
     "Images/Pasted image 20241114022838.png",
     "Images/Pasted image 20241114021448.png",
