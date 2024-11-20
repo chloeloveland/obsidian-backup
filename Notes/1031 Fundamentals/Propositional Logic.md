@@ -23,8 +23,10 @@ We can use truth tables to check all the possible behaviours of a propositional 
 
 > [!Example] 
 > 
-|     |     |
-| --- | --- |
-|     |     |
-
+| p   | q   | $q \land ¬p$ | $p\land (q\land ¬p)$ |
+| --- | --- | ------------ | -------------------- |
+| F   | F   | F            | F                    |
+| F   | T   | T            | T                    |
+| T   | F   | F            | T                    |
+| T   | T   | F            | T                 |
 
