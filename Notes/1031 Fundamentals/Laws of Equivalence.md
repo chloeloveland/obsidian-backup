@@ -1,6 +1,5 @@
-The following is a list of the laws of equivalence for [[Propositional Logic|propositional formulae]].
+The following is a list of the laws of equivalence for [[Propositional Logic|propositional formulae]]:
 
-## Laws of equivalence
 -  Commutative 
 $$
 \begin{align}
