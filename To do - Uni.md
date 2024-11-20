@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Practicals
 
-- [ ] 1034 week 8 practical [link](https://ncl.instructure.com/courses/54985/pages/practical-1-using-the-python-debugger?module_item_id=3356253) @{19-11-2024}
 
 
 ## Coursework
@@ -25,6 +24,7 @@ kanban-plugin: board
 
 **Complete**
 - [x] 1034 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3b1adf84-d9a8-4c07-918b-b22c014a7935) @{19-11-2024}
+- [x] 1034 week 8 practical [link](https://ncl.instructure.com/courses/54985/pages/practical-1-using-the-python-debugger?module_item_id=3356253) @{19-11-2024}
 - [x] 1033 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=895ebd7c-19e1-4592-bc94-b22c014a5532) @{19-11-2024}
 - [x] 1033 week 9 practical [link](https://ncl.instructure.com/courses/54984/pages/week-9-practical?module_item_id=3537462) @{19-11-2024}
 
