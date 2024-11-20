@@ -30,3 +30,10 @@ We can use truth tables to check all the possible behaviours of a propositional 
 | T   | F   | F            | T                    |
 | T   | T   | F            | T                 |
 
+## Satisfiability
+A formula is **satisfiable** if any combination of values will make it true.
+
+
+---
+## See also
+- [[Boolean logic]]
