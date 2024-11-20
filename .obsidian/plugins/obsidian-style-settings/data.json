@@ -52,5 +52,6 @@
   "blue-topaz-theme@@remove-file-icons": false,
   "blue-topaz-theme@@loading-shape-with-custom-high-contrast-bg": false,
   "blue-topaz-theme@@colorful-link-animation": false,
-  "blue-topaz-theme@@bt-colorful-titlebar": true
+  "blue-topaz-theme@@bt-colorful-titlebar": true,
+  "blue-topaz-theme@@ordered-list-style-options": "custom-ordered-list"
 }
