@@ -1,5 +1,19 @@
 [
   "obsidian-git",
   "obsidian-kanban",
+  "obsidian-style-settings",
+  "table-editor-obsidian",
+  "better-export-pdf",
+  "better-mathjax",
+  "callout-manager",
+  "oz-clear-unused-images",
+  "obsidian-copy-block-link",
+  "obsidian-excalidraw-plugin",
+  "file-explorer-plus",
+  "highlightr-plugin",
+  "obsidian-image-toolkit",
+  "list-style",
+  "quick-tagger",
+  "settings-search",
   "text-extractor"
 ]
