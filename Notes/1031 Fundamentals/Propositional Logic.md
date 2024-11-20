@@ -41,6 +41,9 @@ The size of the truth table doubles with each additional one (exponential growth
 ## Tautology
 A **tautology** is a propositional formula that <mark class="hltr-green">always evaluates to **true**</mark>.
 
+## Contradiction
+A **contradiction** is a propositional formula that always evaluates to **false**.
+
 ---
 ## See also
 - [[Boolean logic]]
