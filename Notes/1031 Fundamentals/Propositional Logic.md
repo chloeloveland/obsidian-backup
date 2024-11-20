@@ -18,4 +18,3 @@ Propositional logic is a simple logic used for reasoning about expressions that 
 - or is a.k.a. disjunction
 - and is a.k.a. conjunction
 
-## Truth tables
