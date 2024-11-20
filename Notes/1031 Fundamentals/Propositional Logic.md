@@ -18,3 +18,13 @@ Propositional logic is a simple logic used for reasoning about expressions that 
 - or is a.k.a. disjunction
 - and is a.k.a. conjunction
 
+## Truth tables
+We can use truth tables to check all the possible behaviours of a propositional formula.
+
+> [!Example] 
+> 
+|     |     |
+| --- | --- |
+|     |     |
+
+
