@@ -11,3 +11,14 @@ Propositional logic is a simple logic used for reasoning about expressions that 
 | not p    | $¬p$         | $\bar p$      |
 | p or q   | $p\lor q$    | $p+q$         |
 | p and q  | $p \land q$  | $p \bullet q$ |
+## Semantics
+- Each **proposition** has the value T or F
+- not is a.k.a. negation
+- or is a.k.a. disjunction
+- and is a.k.a. conjunction
+
+## Truth tables
+
+| heloE |      |
+| ----- | ---- |
+|       | helo |
