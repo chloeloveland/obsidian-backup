@@ -214,19 +214,9 @@
               "icon": "lucide-info",
               "title": "File properties for 1033 Coursework 1"
             }
-          },
-          {
-            "id": "dd826cd3170bcb11",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",

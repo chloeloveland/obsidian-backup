@@ -56,5 +56,6 @@
   "blue-topaz-theme@@ordered-list-style-options": "default-ol-list-marker",
   "blue-topaz-theme@@unordered-list-style-options": "bt-default-unordered-list",
   "blue-topaz-theme@@line-height-list": 1,
-  "blue-topaz-theme@@list-style-change-options": "list-no-border"
+  "blue-topaz-theme@@list-style-change-options": "list-no-border",
+  "blue-topaz-theme@@rainbow-checklist": true
 }
