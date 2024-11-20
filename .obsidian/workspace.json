@@ -11,15 +11,21 @@
             "id": "c926be7aacf56164",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Notes/1031 Fundamentals/Propositional Logic.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "To do - Personal.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Propositional Logic"
+              "icon": "lucide-trello",
+              "title": "To do - Personal"
             }
           }
         ]
@@ -97,8 +103,7 @@
               "title": "To do - Uni"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,8 +247,8 @@
   },
   "active": "c926be7aacf56164",
   "lastOpenFiles": [
-    "Images/Drawing 2024-11-20 22.52.58.excalidraw.md",
     "Notes/1031 Fundamentals/Propositional Logic.md",
+    "Images/Drawing 2024-11-20 22.52.58.excalidraw.md",
     "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1032 Architecture and Design/Truth tables.md",
     "Practice questions/1031/Week 8/8.1 truth tables.md",

@@ -19,10 +19,15 @@ kanban-plugin: board
 **Complete**
 
 
+## Projects
+
+- [ ] Obsidian plugin for multiline alignment
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

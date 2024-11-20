@@ -64,7 +64,14 @@ $$
 - Distributive
 $$
 \begin{align}
-x \lor (y\land z) \equiv (x\lor y) \land (x\lor z)
+x \lor (y\land z) &\equiv (x\lor y) \land (x\lor z) \\
+x \land (y\lor z) &\equiv (x\land y) \lor (x\land z)
+\end{align}
+$$
+- Idempotent
+$$
+\begin{align}
+
 \end{align}
 $$
 
