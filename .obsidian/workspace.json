@@ -11,23 +11,15 @@
             "id": "bbe463364be85c12",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To do - Uni.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/1031 Fundamentals/Propositional Logic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "icon": "lucide-file",
+              "title": "Propositional Logic"
             }
           }
         ]
@@ -260,6 +252,7 @@
   "active": "bbe463364be85c12",
   "lastOpenFiles": [
     "To do - Uni.md",
+    "Notes/1031 Fundamentals/Propositional Logic.md",
     "Notes/1034 Programming/Graph.md",
     "Notes/1034 Programming/Named Tuple.md",
     "Notes/1033 Data Science/Query expansion.md",
@@ -297,7 +290,6 @@
     "Images/Pasted image 20241114012929.png",
     "Notes/Practice questions/1031/Week 6/6.2 Direct Proof.md",
     "Images/Pasted image 20241114010554.png",
-    "Notes/Practice questions/1031/Week 6/6.4 Counter examples.md",
     "Notes/Practice questions/1031/Week 7",
     "Notes/Practice questions/1031/Week 6",
     "Notes/Practice questions/1031",
