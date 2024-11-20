@@ -4,33 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "660d05fc0ad16e58",
+        "id": "db034f8e385492cd",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe463364be85c12",
+            "id": "c926be7aacf56164",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "29d524ca7d6caa15",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/Drawing 2024-11-20 22.52.58.excalidraw.md"
+                "file": "Notes/1031 Fundamentals/Propositional Logic.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-20 22.52.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "Propositional Logic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,8 +239,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29d524ca7d6caa15",
+  "active": "c926be7aacf56164",
   "lastOpenFiles": [
+    "Notes/1032 Architecture and Design/Truth tables.md",
     "Images/Drawing 2024-11-20 22.52.58.excalidraw.md",
     "Notes/1031 Fundamentals/Propositional Logic.md",
     "Notes/1032 Architecture and Design/Boolean logic.md",
