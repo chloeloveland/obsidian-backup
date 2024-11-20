@@ -47,12 +47,24 @@ When two **propositional formulae** have the same truth table, they are **logica
 This is the basis of the many **laws of equivalence.**
 
 ## Laws of equivalence
--  Commutative $$x\lor y \equiv y\lor x, x\land y \equiv y\land x$$
+-  Commutative 
+$$
+\begin{align}
+x\lor y \equiv y\lor x \\
+x\land y \equiv y\land x
+\end{align}
+$$
 - Associative 
 $$
 \begin{align}
 x\lor (y\lor z) \equiv (x\lor y) \lor z \\
-hello
+x\land (y\land z) \equiv (x\land y) \land z
+\end{align}
+$$
+- Distributive
+$$
+\begin{align}
+x \lor (y\land z) \equiv (x\lor y) \land (x\lor z)
 \end{align}
 $$
 
