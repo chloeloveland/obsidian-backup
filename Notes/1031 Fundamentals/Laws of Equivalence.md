@@ -1,4 +1,4 @@
-The following is a list of the laws of equivalence 
+The following is a list of the laws of equivalence for [[Propositional Logic|propositional formulae]].
 
 ## Laws of equivalence
 -  Commutative 
@@ -29,4 +29,7 @@ x \lor x \equiv x \\
 x \land x \equiv x
 \end{align}
 $$
-
+- Double negation
+$$
+¬¬x \equiv x
+$$
