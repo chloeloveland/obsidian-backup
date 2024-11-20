@@ -48,8 +48,13 @@ This is the basis of the many **laws of equivalence.**
 
 ## Laws of equivalence
 -  Commutative $$x\lor y \equiv y\lor x, x\land y \equiv y\land x$$
-- Associative $$x\lor (y\lor z) \equiv (x\lor y) \lor z
-- $$
+- Associative 
+$$
+\begin{align}
+x\lor (y\lor z) \equiv (x\lor y) \lor z \\
+hello
+\end{align}
+$$
 
 ---
 ## See also
