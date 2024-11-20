@@ -8,4 +8,6 @@ Propositional logic is a simple logic used for reasoning about expressions that 
 				1. .
 					1. .
 						1. .
-							1. 
+
+- .
+- 
