@@ -74,7 +74,11 @@ def out_edges(G, source):
         yield (source, sink)
 ```
 
+
 ## Using a graph class
 - The [[#Mapping from sources to dictionaries of sinks|previous implementation]] works very well to capture the structure of graphs
 - However it becomes confusing for complex graphs with lots of [[Graph#Properties|properties]]
-- So we can 
+- So we should encapsulate this complexity in a class
+	- There are many existing python libraries that do this, including:
+		- pygraphviz
+		- networkx
