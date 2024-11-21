@@ -56,4 +56,6 @@ def out_degree(G, source):
     return len(G[source])
 ```
 
-##
+## Mapping from sources to dictionaries of sinks 
+- Alternatively to [[|adjacency lists]], we can instead map a dictionary where each sink is itself a dictionary.
+- This means edges can store [[Graph#Types of graph|attributes]] such as **labels** or **weights**.
