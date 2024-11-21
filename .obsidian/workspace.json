@@ -11,21 +11,15 @@
             "id": "896659cc3dce190f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To do - Personal.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/1031 Fundamentals/Laws of Equivalence.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To do - Personal"
+              "icon": "lucide-file",
+              "title": "Laws of Equivalence"
             }
           }
         ]
@@ -247,9 +241,9 @@
   },
   "active": "896659cc3dce190f",
   "lastOpenFiles": [
+    "To do - Personal.md",
     "Notes/1031 Fundamentals/Laws of Equivalence.md",
     "Notes/1031 Fundamentals/Propositional Logic.md",
-    "To do - Personal.md",
     "Images/Drawing 2024-11-20 22.52.58.excalidraw.md",
     "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1032 Architecture and Design/Truth tables.md",
