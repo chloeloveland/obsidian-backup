@@ -29,8 +29,24 @@
               "icon": "lucide-trello",
               "title": "To do - Uni"
             }
+          },
+          {
+            "id": "3a4ae9e5208886dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/1031 Fundamentals/Propositional Logic.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Propositional Logic"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +263,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "896659cc3dce190f",
+  "active": "3a4ae9e5208886dd",
   "lastOpenFiles": [
-    "To do - Personal.md",
+    "Notes/1031 Fundamentals/Laws of Equivalence.md",
     "To do - Uni.md",
+    "To do - Personal.md",
     "Notes/1033 Data Science/Document standards.md",
     "Notes/1034 Programming/Graphs in code.md",
     "Notes/1034 Programming/Graph.md",
@@ -268,7 +285,6 @@
     "Notes/1031 Fundamentals/Sets.md",
     "Notes/1034 Programming/Properties of graphs.md",
     "Notes/1033 Data Science/Metadata.md",
-    "Notes/1031 Fundamentals/Laws of Equivalence.md",
     "Notes/1031 Fundamentals/Propositional Logic.md",
     "Images/Drawing 2024-11-20 22.52.58.excalidraw.md",
     "Notes/1032 Architecture and Design/Truth tables.md",

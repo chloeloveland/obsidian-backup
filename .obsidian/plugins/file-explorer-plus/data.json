@@ -45,6 +45,13 @@
         "type": "DIRECTORIES",
         "pattern": "Notes",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/1031 Fundamentals/Propositional Logic.md",
+        "patternType": "STRICT"
       }
     ]
   },
