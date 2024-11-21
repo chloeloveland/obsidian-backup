@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,10 +278,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9baf8fef1f85ae66",
+  "active": "3a4ae9e5208886dd",
   "lastOpenFiles": [
-    "Notes/1031 Fundamentals/Propositional Logic.md",
     "Notes/1031 Fundamentals/Laws of Equivalence.md",
+    "Notes/1031 Fundamentals/Propositional Logic.md",
     "To do - Uni.md",
     "To do - Personal.md",
     "Notes/1033 Data Science/Document standards.md",
