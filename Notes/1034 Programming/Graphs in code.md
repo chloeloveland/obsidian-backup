@@ -10,7 +10,7 @@ There are several ways of representing a [[graph]] in code.
 > [!info] 
 > In python, arrays do not have built in support. We can instead use **lists** and treat them like arrays.
 
-#### Implementation
+### Implementation
 > [!Example] Matrix implementation in python
 > ```
 ># vertices:
@@ -27,3 +27,7 @@ V = ["A", "B", "C", "D", "E", "F"]
 >     for j in range(len((V)):
 >         if E[i][j]:
 >             yield i, j
+
+## Adjacency lists
+- Can also be represented by mapping each source node to sink node
+	- Using [[dictionary]]
