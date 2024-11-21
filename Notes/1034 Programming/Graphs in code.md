@@ -57,5 +57,24 @@ def out_degree(G, source):
 ```
 
 ## Mapping from sources to dictionaries of sinks 
-- Alternatively to [[|adjacency lists]], we can instead map a dictionary where each sink is itself a dictionary.
+- Similarly to [[Graphs in code#Adjacency lists|adjacency lists]], we can instead map a dictionary where each sink is itself a dictionary.
 - This means edges can store [[Graph#Types of graph|attributes]] such as **labels** or **weights**.
+
+### Implementation
+```
+G = {"A": {"B": "edge A->B"},
+     "B": {"C": "edge B->C"},
+     "C": {"E": "edge C->E"},
+     "D": {"B": "edge D->B"},
+     "E": {"D": "edge E->D", "F": "edge E->F"},
+     "F": {}}
+
+def out_edges(G, source):
+    for sink in G[source]:
+        yield (source, sink)
+```
+
+## Using a graph class
+- The [[#Mapping from sources to dictionaries of sinks|previous implementation]] works very well to capture the structure of graphs
+- However it becomes confusing for complex graphs with lots of [[Graph#Properties|properties]]
+- So we can 
