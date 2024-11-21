@@ -60,8 +60,7 @@
               "title": "Laws of Equivalence"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,11 +277,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a4ae9e5208886dd",
+  "active": "896659cc3dce190f",
   "lastOpenFiles": [
-    "Notes/1031 Fundamentals/Laws of Equivalence.md",
     "Notes/1031 Fundamentals/Propositional Logic.md",
     "To do - Uni.md",
+    "Notes/1031 Fundamentals/Laws of Equivalence.md",
     "To do - Personal.md",
     "Notes/1033 Data Science/Document standards.md",
     "Notes/1034 Programming/Graphs in code.md",
