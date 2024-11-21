@@ -29,5 +29,5 @@ There are several ways of representing a [[graph]] in code.
 - So we should encapsulate this complexity in a class
 	- There are many existing python libraries that do this, including:
 		- pygraphviz ([doc](https://pygraphviz.github.io/documentation/stable/index.html))
-		- networkx
+		- networkx ([doc](https://networkx.org/documentation/stable/reference/introduction.html))
 - The best way to do it
