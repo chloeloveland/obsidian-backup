@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Practicals
 
+- [ ] 1033 practical week 9 [link](https://ncl.instructure.com/courses/54984/pages/week-9-practical?module_item_id=3537462)
 
 
 ## Coursework
@@ -16,17 +17,13 @@ kanban-plugin: board
 
 ## Study
 
-- [ ] 1031 study material - week 8
-	[link](https://ncl.instructure.com/courses/54982/pages/week-8-study-material?module_item_id=3341114) @{20-11-2024}
 
 
 ## Complete
 
 **Complete**
-- [x] 1034 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3b1adf84-d9a8-4c07-918b-b22c014a7935) @{19-11-2024}
-- [x] 1034 week 8 practical [link](https://ncl.instructure.com/courses/54985/pages/practical-1-using-the-python-debugger?module_item_id=3356253) @{19-11-2024}
-- [x] 1033 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=895ebd7c-19e1-4592-bc94-b22c014a5532) @{19-11-2024}
-- [x] 1033 week 9 practical [link](https://ncl.instructure.com/courses/54984/pages/week-9-practical?module_item_id=3537462) @{19-11-2024}
+- [x] 1031 study material - week 8
+	[link](https://ncl.instructure.com/courses/54982/pages/week-8-study-material?module_item_id=3341114) @{20-11-2024}
 
 
 ***
@@ -55,6 +52,10 @@ kanban-plugin: board
 - [x] [[1033 coursework]] 1
 	[link](https://ncl.instructure.com/courses/54984/assignments/251185)
 	@{6-12-2024} @@{14:00}
+- [x] 1034 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3b1adf84-d9a8-4c07-918b-b22c014a7935) @{19-11-2024}
+- [x] 1034 week 8 practical [link](https://ncl.instructure.com/courses/54985/pages/practical-1-using-the-python-debugger?module_item_id=3356253) @{19-11-2024}
+- [x] 1033 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=895ebd7c-19e1-4592-bc94-b22c014a5532) @{19-11-2024}
+- [x] 1033 week 9 practical [link](https://ncl.instructure.com/courses/54984/pages/week-9-practical?module_item_id=3537462) @{19-11-2024}
 
 %% kanban:settings
 ```
