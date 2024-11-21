@@ -1,3 +1,7 @@
+---
+tags:
+  - 1034-Programming
+---
 There are several ways of representing a [[graph]] in code.
 
 ## Adjacency Matrix
@@ -51,3 +55,5 @@ def out_edges(G, source):
 def out_degree(G, source):
     return len(G[source])
 ```
+
+##

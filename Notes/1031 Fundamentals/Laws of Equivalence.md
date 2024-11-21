@@ -1,3 +1,7 @@
+---
+tags:
+  - 1031-Fundamental
+---
 The laws of [[Propositional Logic#Logical equivalence|equivalence]] can be used to simplify [[Propositional Logic|propositional formulae]].
 The following is a list of the laws of equivalence for propositional formulae:
 

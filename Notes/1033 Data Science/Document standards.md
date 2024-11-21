@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 Good documentation should facilitate:
 - The consistent exchange of information  
 	- *So standardised templates should be used*  

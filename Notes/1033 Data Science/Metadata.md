@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 - Metadata is *data about data*
 - It has several purposes:
 	- To <mark class="hltr-pink">describe data</mark>

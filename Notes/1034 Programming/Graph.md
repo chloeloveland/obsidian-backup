@@ -1,3 +1,7 @@
+---
+tags:
+  - 1034-Programming
+---
 A graph is a mathematical structure for representing relationships. They are used to model many real-world scenarios.
 
 ## Mathematical definition

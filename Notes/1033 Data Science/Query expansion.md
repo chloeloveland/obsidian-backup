@@ -1,3 +1,7 @@
+---
+tags:
+  - 1033-Data-Sci
+---
 Standard ***ordinary queries*** have a lot of imprecision:
 
 - Multiple words can mean the same thing
