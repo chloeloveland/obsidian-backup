@@ -23,8 +23,6 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
-- [x] 1031 study material - week 8
-	[link](https://ncl.instructure.com/courses/54982/pages/week-8-study-material?module_item_id=3341114) @{20-11-2024}
 
 
 ***
@@ -57,6 +55,8 @@ kanban-plugin: board
 - [x] 1034 week 8 practical [link](https://ncl.instructure.com/courses/54985/pages/practical-1-using-the-python-debugger?module_item_id=3356253) @{19-11-2024}
 - [x] 1033 lecture notes [link](https://recap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=895ebd7c-19e1-4592-bc94-b22c014a5532) @{19-11-2024}
 - [x] 1033 week 9 practical [link](https://ncl.instructure.com/courses/54984/pages/week-9-practical?module_item_id=3537462) @{19-11-2024}
+- [x] 1031 study material - week 8
+	[link](https://ncl.instructure.com/courses/54982/pages/week-8-study-material?module_item_id=3341114) @{20-11-2024}
 
 %% kanban:settings
 ```
