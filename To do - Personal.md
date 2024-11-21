@@ -12,7 +12,7 @@ kanban-plugin: board
 ## Cleaning
 
 - [ ] Change sheets for the love of all things hol
-- [ ] Room inspection
+- [ ] Room inspection @{26-11-2024}
 
 
 ## Complete
