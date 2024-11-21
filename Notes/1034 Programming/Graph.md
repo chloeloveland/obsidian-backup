@@ -45,3 +45,6 @@ This matrix could look like:
 	- This matrix could not be an undirected graph as it is **asymmetric**.
 
 If a node A has an edge to node B, A and B are **adjacent**.
+
+## Representing graphs in code
+For representing graphs in code, see [[Graphs in code|here]]
