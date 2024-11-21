@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1033 Data Science/Document standards.md",
-                "mode": "preview",
+                "file": "Notes/1034 Programming/Graph.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Document standards"
+              "title": "Graph"
             }
           }
         ]
@@ -241,8 +241,8 @@
   },
   "active": "896659cc3dce190f",
   "lastOpenFiles": [
-    "To do - Uni.md",
     "Notes/1033 Data Science/Document standards.md",
+    "To do - Uni.md",
     "Notes/1033 Data Science/Metadata.md",
     "Notes/1031 Fundamentals/Laws of Equivalence.md",
     "To do - Personal.md",
