@@ -28,6 +28,6 @@ There are several ways of representing a [[graph]] in code.
 - However it becomes confusing for complex graphs with lots of [[Graph#Properties|properties]]
 - So we should encapsulate this complexity in a class
 	- There are many existing python libraries that do this, including:
-		- pygraphviz
+		- pygraphviz ([doc](https://pygraphviz.github.io/documentation/stable/index.html))
 		- networkx
 - The best way to do it
