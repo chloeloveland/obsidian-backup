@@ -3,8 +3,8 @@ There are several ways of representing a [[graph]] in code.
 ## Adjacency Matrix
 - A graph can be represented using a 2d array which stores an [[Graph#Adjacency|adjacency matrix]]
 - This is sometimes used in low-level languages
-- For some algorithms (such as path length) this is very fast
-- However its memory requirement grows quadratic to graph size 
+- For *some algorithms* (such as path length) this is <mark class="hltr-green">very fast</mark>
+- However its <mark class="hltr-red">memory requirement grows quadratic to graph size</mark> 
 	- not practical for large graphs
 
 > [!info] 
@@ -29,10 +29,9 @@ def out_edges(V, E, i):
             yield i, j
 ```
 
-
 ## Adjacency lists
 - Can also be represented by mapping each source node to sink node
-	- Using [[dictionary]]
+	- Using a [[dictionary]]
 - Avoids iteration through [[Graph#Mathematical definition|V]]
 
 ### Implementation
