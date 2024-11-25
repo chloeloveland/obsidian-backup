@@ -13,10 +13,12 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "To do - Personal.md",
+                "file": "To do - Uni.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
                     false,
                     false,
                     false,
@@ -25,7 +27,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "To do - Personal"
+              "title": "To do - Uni"
             }
           }
         ]
@@ -247,8 +249,8 @@
   },
   "active": "896659cc3dce190f",
   "lastOpenFiles": [
-    "To do - Uni.md",
     "To do - Personal.md",
+    "To do - Uni.md",
     "Notes/1031 Fundamentals/Laws of Equivalence.md",
     "Notes/1031 Fundamentals/Propositional Logic.md",
     "Notes/1033 Data Science/Document standards.md",
