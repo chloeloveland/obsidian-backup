@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1032 Architecture and Design/Hamming distance.md",
+                "file": "Notes/1032 Architecture and Design/Parity bit.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hamming distance"
+              "title": "Parity bit"
             }
           }
         ]
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Submittables/1033 Coursework 1.md",
+                "file": "Notes/1032 Architecture and Design/Parity bit.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1033 Coursework 1"
+              "title": "Backlinks for Parity bit"
             }
           },
           {
@@ -215,8 +215,7 @@
               "title": "File properties for 1033 Coursework 1"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,7 +240,29 @@
   },
   "active": "896659cc3dce190f",
   "lastOpenFiles": [
+    "Images/Pasted image 20241021100455.png",
+    "Images/Pasted image 20241021091644.png",
+    "Images/Pasted image 20241015110116.png",
+    "Images/fullAdder.png",
+    "Images/full-adder-truth-table.png",
+    "Images/entityRelationshipBikeShop.png",
+    "Images/coursework1ERdiagramupdated.png",
+    "Images/coursework1ERdiagram.png",
+    "Images/clockedSRlatch.png",
+    "Images/Clocked Dlatch.png",
+    "Images/aggregation.png",
+    "Notes/1032 Architecture and Design/Memory.md",
+    "Notes/1032 Architecture and Design/Propagation Delay.md",
+    "Notes/1032 Architecture and Design/Sequential Circuit.md",
+    "Notes/1032 Architecture and Design/SR latch.md",
+    "Notes/1032 Architecture and Design/SRAM memory.md",
+    "Notes/1032 Architecture and Design/Symbols for latches and flip flops.md",
+    "Notes/1032 Architecture and Design/Cache memory.md",
     "Notes/1032 Architecture and Design/error detection.md",
+    "Notes/1032 Architecture and Design/Bases.md",
+    "Notes/1032 Architecture and Design/Arithmetic Logic Unit.md",
+    "Notes/1032 Architecture and Design/Adder.md",
+    "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1032 Architecture and Design/Hamming distance.md",
     "Submittables/1033 Coursework 1.md",
     "To do - Uni.md",
@@ -254,34 +275,12 @@
     "Images/Venn Diagram diff.md",
     "Notes/1034 Programming/Named Tuple.md",
     "Notes/1033 Data Science/Databases.md",
-    "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1031 Fundamentals/Venn diagrams.md",
-    "Notes/1031 Fundamentals/Recursive Function.md",
-    "Notes/1034 Programming/Dictionary.md",
     "Untitled",
-    "Notes/1031 Fundamentals/Properties of relations.md",
-    "Notes/1031 Fundamentals/Properties of functions.md",
-    "Notes/1031 Fundamentals/Expressing Sets.md",
-    "Notes/1031 Fundamentals/Sets.md",
-    "Notes/1034 Programming/Properties of graphs.md",
-    "Notes/1033 Data Science/Metadata.md",
-    "Images/Drawing 2024-11-20 22.52.58.excalidraw.md",
-    "Notes/1032 Architecture and Design/Truth tables.md",
-    "Practice questions/1031/Week 8/8.1 truth tables.md",
     "Practice questions/1031/Week 8",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
-    "Images/th-2944392813.jpg",
-    "Images/Pasted image 20241118094614.png",
-    "Images/Pasted image 20241118093954.png",
-    "Images/Pasted image 20241118092343.png",
     "Calendar",
-    "Images/Pasted image 20241114022838.png",
-    "Images/Pasted image 20241114021448.png",
-    "Images/Pasted image 20241114014052.png",
-    "Images/Pasted image 20241114013657.png",
-    "Images/Pasted image 20241114012929.png",
-    "Images/Pasted image 20241114010554.png",
     "Practice questions/1031/Week 7",
     "Practice questions/1031/Week 6",
     "Practice questions/1031",

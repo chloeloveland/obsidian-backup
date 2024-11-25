@@ -17,13 +17,13 @@ tags:
 
 Usually even parity is used.
 
-### Error correction using parity
+### Error correction using [[Hamming distance|hamming]] codes
 ![[Pasted image 20241021095604.png|left|350]]
 
 ![[Pasted image 20241021100455.png|left|350]]
 
 ### Logical implementation
-- Parity can be implemented as a [[Logical circuit]]
+- Parity can be implemented as a [[logical circuit]]
 
 > [!Diagram] Parity circuit - 3 bit
 > ![[Pasted image 20241021100639.png|350]]
