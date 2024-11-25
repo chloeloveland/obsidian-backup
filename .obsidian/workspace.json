@@ -11,23 +11,15 @@
             "id": "896659cc3dce190f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To do - Uni.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Submittables/1033 Coursework 1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "icon": "lucide-file",
+              "title": "1033 Coursework 1"
             }
           }
         ]
@@ -249,8 +241,8 @@
   },
   "active": "896659cc3dce190f",
   "lastOpenFiles": [
-    "To do - Personal.md",
     "To do - Uni.md",
+    "To do - Personal.md",
     "Notes/1031 Fundamentals/Laws of Equivalence.md",
     "Notes/1031 Fundamentals/Propositional Logic.md",
     "Notes/1033 Data Science/Document standards.md",
