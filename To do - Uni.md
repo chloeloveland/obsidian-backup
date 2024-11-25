@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Practicals
 
+- [ ] 1033 practical [link](https://ncl.instructure.com/courses/54983/pages/practical-09?module_item_id=3545068) @{25-11-2024}
 
 
 ## Coursework
@@ -16,6 +17,7 @@ kanban-plugin: board
 
 ## Study
 
+- [ ] 1032 lecture @{25-11-2024}
 
 
 ## Complete
