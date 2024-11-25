@@ -13,12 +13,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "To do - Uni.md",
+                "file": "To do - Personal.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
                     false,
                     false,
                     false,
@@ -27,7 +25,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "title": "To do - Personal"
             }
           }
         ]
@@ -243,15 +241,16 @@
       "quick-tagger:Add tag to current note": false,
       "quick-tagger:Remove tag from current note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "896659cc3dce190f",
   "lastOpenFiles": [
-    "Notes/1031 Fundamentals/Laws of Equivalence.md",
     "To do - Uni.md",
-    "Notes/1031 Fundamentals/Propositional Logic.md",
     "To do - Personal.md",
+    "Notes/1031 Fundamentals/Laws of Equivalence.md",
+    "Notes/1031 Fundamentals/Propositional Logic.md",
     "Notes/1033 Data Science/Document standards.md",
     "Notes/1034 Programming/Graphs in code.md",
     "Notes/1034 Programming/Graph.md",
