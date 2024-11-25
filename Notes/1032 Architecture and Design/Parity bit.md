@@ -17,12 +17,6 @@ tags:
 
 Usually even parity is used.
 
-### Error correction using [[Hamming distance|hamming]] codes
-Parity can show the presence of errors, but hamming codes can correct them.
-![[Pasted image 20241021095604.png|left|350]]
-
-![[Pasted image 20241021100455.png|left|350]]
-- The amount of 1s in any give
 ### Logical implementation
 - Parity can be implemented as a [[logical circuit]]
 
@@ -32,3 +26,6 @@ Parity can show the presence of errors, but hamming codes can correct them.
 > [!Diagram] Parity circuit - 4 bit
 > ![[Pasted image 20241021100740.png|350]]
 
+---
+## See also
+- [[Hamming code]]
