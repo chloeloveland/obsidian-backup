@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do - Uni.md",
-                "mode": "source",
+                "file": "Notes/1032 Architecture and Design/Hamming distance.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To do - Uni"
+              "title": "Hamming distance"
             }
           }
         ]
@@ -241,6 +241,8 @@
   },
   "active": "896659cc3dce190f",
   "lastOpenFiles": [
+    "Notes/1032 Architecture and Design/error detection.md",
+    "Notes/1032 Architecture and Design/Hamming distance.md",
     "Submittables/1033 Coursework 1.md",
     "To do - Uni.md",
     "To do - Personal.md",
@@ -266,9 +268,7 @@
     "Images/Drawing 2024-11-20 22.52.58.excalidraw.md",
     "Notes/1032 Architecture and Design/Truth tables.md",
     "Practice questions/1031/Week 8/8.1 truth tables.md",
-    "Notes/Practice questions/1031 8.1 Truth Tables.md",
     "Practice questions/1031/Week 8",
-    "Images/Drawing 2024-11-20 22.09.10.excalidraw.md",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
     "Images/th-2944392813.jpg",
