@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Submittables/1033 Coursework 1.md",
-                "mode": "preview",
+                "file": "To do - Uni.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1033 Coursework 1"
+              "title": "To do - Uni"
             }
           }
         ]
@@ -241,6 +241,7 @@
   },
   "active": "896659cc3dce190f",
   "lastOpenFiles": [
+    "Submittables/1033 Coursework 1.md",
     "To do - Uni.md",
     "To do - Personal.md",
     "Notes/1031 Fundamentals/Laws of Equivalence.md",
@@ -268,7 +269,6 @@
     "Notes/Practice questions/1031 8.1 Truth Tables.md",
     "Practice questions/1031/Week 8",
     "Images/Drawing 2024-11-20 22.09.10.excalidraw.md",
-    "Notes/1033 Data Science/Query expansion.md",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
     "Images/th-2944392813.jpg",
