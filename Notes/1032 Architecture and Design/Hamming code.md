@@ -6,7 +6,7 @@
 - The data bits are the intersecting parts.
 - The check bits are the bits exclusive to one set.
 - Since it is using [[Parity bit#Even parity|even parity]], the total number of ones in each given set should be even.
-- Since this is not true (A and C have odd numbers), we know the data bit at $A\$
+- Since this is not true (A and C have odd numbers), we know the data bit at $A\cap C$ is an error.
 
 ## Limitations
 ![[Pasted image 20241021095604.png|left|350]]

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1032 Architecture and Design/Hamming code.md",
+                "file": "Notes/1032 Architecture and Design/Parity bit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hamming code"
+              "title": "Parity bit"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "intersection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/1032 Architecture and Design/Hamming code.md",
+                "file": "Notes/1032 Architecture and Design/Parity bit.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hamming code"
+              "title": "Backlinks for Parity bit"
             }
           },
           {
@@ -256,8 +256,9 @@
   },
   "active": "c669fd4d748c823d",
   "lastOpenFiles": [
-    "Notes/1032 Architecture and Design/Parity bit.md",
     "Notes/1032 Architecture and Design/Hamming code.md",
+    "Notes/1031 Fundamentals/Set Notation.md",
+    "Notes/1032 Architecture and Design/Parity bit.md",
     "Images/Pasted image 20241021100455.png",
     "Images/Pasted image 20241021091644.png",
     "Images/Pasted image 20241015110116.png",
@@ -291,7 +292,6 @@
     "Notes/1034 Programming/Graph.md",
     "Images/Venn Diagram diff.md",
     "Notes/1034 Programming/Named Tuple.md",
-    "Notes/1033 Data Science/Databases.md",
     "Untitled",
     "Practice questions/1031/Week 8",
     "Notes/1034 Programming/$E/subset V",
