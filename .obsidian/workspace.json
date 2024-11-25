@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "Parity bit"
             }
-          },
-          {
-            "id": "c669fd4d748c823d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/1032 Architecture and Design/Parity bit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parity bit"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,21 +238,67 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c669fd4d748c823d",
+  "floating": {
+    "id": "384f92a36570fb80",
+    "type": "floating",
+    "children": [
+      {
+        "id": "84247e54ccc18cb0",
+        "type": "window",
+        "children": [
+          {
+            "id": "0b9b998de60641c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c669fd4d748c823d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Attachments/Drawings/Venn Diagram diff.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Venn Diagram diff"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -47,
+        "y": 931,
+        "width": 1064,
+        "height": 672,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "1268de5c4756bdd0",
   "lastOpenFiles": [
+    "Attachments",
+    "Attachments/Drawings/Venn Diagram diff.md",
+    "Notes/1032 Architecture and Design/Parity bit.md",
+    "Attachments/Drawings/Venn Diagram intersect.md",
+    "Attachments/Drawings/recursive binary relation.md",
+    "Attachments/Drawings/transitivedrawing.md",
+    "Attachments/Drawings",
+    "New folder",
+    "Images/Venn Diagram diff.md",
+    "Notes/1031 Fundamentals/Venn diagrams.md",
     "Notes/1032 Architecture and Design/Hamming code.md",
     "Notes/1031 Fundamentals/Set Notation.md",
-    "Notes/1032 Architecture and Design/Parity bit.md",
-    "Images/Pasted image 20241021100455.png",
-    "Images/Pasted image 20241021091644.png",
-    "Images/Pasted image 20241015110116.png",
-    "Images/fullAdder.png",
-    "Images/full-adder-truth-table.png",
-    "Images/entityRelationshipBikeShop.png",
-    "Images/coursework1ERdiagramupdated.png",
-    "Images/coursework1ERdiagram.png",
-    "Images/clockedSRlatch.png",
-    "Images/Clocked Dlatch.png",
+    "Attachments/Images/Pasted image 20241021100455.png",
+    "Attachments/Images/Pasted image 20241021091644.png",
+    "Attachments/Images/Pasted image 20241015110116.png",
+    "Attachments/Images/fullAdder.png",
+    "Attachments/Images/full-adder-truth-table.png",
+    "Attachments/Images/entityRelationshipBikeShop.png",
+    "Attachments/Images/coursework1ERdiagramupdated.png",
+    "Attachments/Images/coursework1ERdiagram.png",
+    "Attachments/Images/clockedSRlatch.png",
+    "Attachments/Images/Clocked Dlatch.png",
     "Notes/1032 Architecture and Design/Memory.md",
     "Notes/1032 Architecture and Design/Propagation Delay.md",
     "Notes/1032 Architecture and Design/Sequential Circuit.md",
@@ -285,14 +315,6 @@
     "Submittables/1033 Coursework 1.md",
     "To do - Uni.md",
     "To do - Personal.md",
-    "Notes/1031 Fundamentals/Laws of Equivalence.md",
-    "Notes/1031 Fundamentals/Propositional Logic.md",
-    "Notes/1033 Data Science/Document standards.md",
-    "Notes/1034 Programming/Graphs in code.md",
-    "Notes/1034 Programming/Graph.md",
-    "Images/Venn Diagram diff.md",
-    "Notes/1034 Programming/Named Tuple.md",
-    "Untitled",
     "Practice questions/1031/Week 8",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
@@ -300,8 +322,6 @@
     "Practice questions/1031/Week 7",
     "Practice questions/1031/Week 6",
     "Practice questions/1031",
-    "Excalidraw",
-    "Practice questions",
     "Untitled.canvas"
   ]
 }
