@@ -11,15 +11,27 @@
             "id": "896659cc3dce190f",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Attachments/Drawings/Venn Diagram diff.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Venn Diagram diff"
+            }
+          },
+          {
+            "id": "48687e3d812149ef",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1032 Architecture and Design/Parity bit.md",
+                "file": "Notes/1031 Fundamentals/Set Difference.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parity bit"
+              "title": "Set Difference"
             }
           }
         ]
@@ -53,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intersection",
+                "query": "venn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +109,8 @@
               "title": "To do - Uni"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/1032 Architecture and Design/Parity bit.md",
+                "file": "Attachments/Drawings/Venn Diagram diff.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parity bit"
+              "title": "Backlinks for Venn Diagram diff"
             }
           },
           {
@@ -275,11 +288,13 @@
       }
     ]
   },
-  "active": "1268de5c4756bdd0",
+  "active": "896659cc3dce190f",
   "lastOpenFiles": [
-    "Attachments",
+    "Notes/1031 Fundamentals/Set Difference.md",
     "Attachments/Drawings/Venn Diagram diff.md",
     "Notes/1032 Architecture and Design/Parity bit.md",
+    "Attachments/Drawings/Drawing 2024-11-25 20.01.05.excalidraw.md",
+    "Attachments",
     "Attachments/Drawings/Venn Diagram intersect.md",
     "Attachments/Drawings/recursive binary relation.md",
     "Attachments/Drawings/transitivedrawing.md",
@@ -314,7 +329,6 @@
     "Notes/1032 Architecture and Design/Hamming distance.md",
     "Submittables/1033 Coursework 1.md",
     "To do - Uni.md",
-    "To do - Personal.md",
     "Practice questions/1031/Week 8",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
