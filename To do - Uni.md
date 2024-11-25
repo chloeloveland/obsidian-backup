@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Practicals
 
-- [ ] 1033 practical [link](https://ncl.instructure.com/courses/54983/pages/practical-09?module_item_id=3545068) @{25-11-2024}
-- [ ] 1033 quiz week 9 [link](https://ncl.instructure.com/courses/54983/quizzes/61482?module_item_id=3545070) @{25-11-2024}
 
 
 ## Coursework
@@ -18,12 +16,14 @@ kanban-plugin: board
 
 ## Study
 
-- [ ] 1032 lecture @{25-11-2024}
 
 
 ## Complete
 
 **Complete**
+- [x] 1032 practical [link](https://ncl.instructure.com/courses/54983/pages/practical-09?module_item_id=3545068) @{25-11-2024}
+- [x] 1032 quiz week 9 [link](https://ncl.instructure.com/courses/54983/quizzes/61482?module_item_id=3545070) @{25-11-2024}
+- [x] 1032 lecture @{25-11-2024}
 
 
 ***
