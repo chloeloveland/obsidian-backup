@@ -11,23 +11,15 @@
             "id": "bd10b2e7e0b2d0e4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To do - Uni.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/1031 Fundamentals/Propositional Logic.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "icon": "lucide-file",
+              "title": "Propositional Logic"
             }
           }
         ]
@@ -242,11 +234,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false
+      "quick-tagger:Remove tag from current note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "bd10b2e7e0b2d0e4",
   "lastOpenFiles": [
+    "To do - Uni.md",
     "Attachments/Drawings/Venn Diagram diff.md",
     "Notes/1031 Fundamentals/Set Difference.md",
     "Notes/1032 Architecture and Design/Parity bit.md",
@@ -285,7 +279,6 @@
     "Notes/1032 Architecture and Design/Boolean logic.md",
     "Notes/1032 Architecture and Design/Hamming distance.md",
     "Submittables/1033 Coursework 1.md",
-    "To do - Uni.md",
     "Practice questions/1031/Week 8",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
