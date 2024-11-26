@@ -13,5 +13,5 @@
 	2. Use the setting "Fake polaroid".
 4. Finishing
 	1. Cut off 0.7cm from sides.
-	2. Cut off 46mm (4.6cm) from the bottom.
+	2. Cut off 153-107 from the bottom.
 5. It should look the same as a polaroid!
