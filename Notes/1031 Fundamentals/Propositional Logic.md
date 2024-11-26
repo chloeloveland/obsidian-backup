@@ -48,7 +48,17 @@ A **contradiction** is a propositional formula that <mark class="hltr-red">alway
 
 ## Logical equivalence
 When two **propositional formulae** have the same truth table, they are **logically equivalent**.
-This is the basis of the many **[[Laws of Equivalence]].**
+This is the basis of the **[[Laws of Equivalence]].**
+
+## Implication
+- Looks like: $p\implies r$
+- Means "If $p$ is true then $r$ is true"
+- Truth table
+	- 
+
+| p   | r   |
+| --- | --- |
+|     |     |
 
 
 ---
