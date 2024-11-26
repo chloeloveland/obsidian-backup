@@ -11,7 +11,7 @@ kanban-plugin: board
 
 ## Coursework
 
-- [ ] 1034 coursework 3
+- [ ] [1034 coursework 3](https://ncl.instructure.com/courses/54985/assignments/266756)
 	@{13-12-2024} @@{14:00}
 
 
@@ -24,9 +24,6 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
-- [x] 1032 practical [link](https://ncl.instructure.com/courses/54983/pages/practical-09?module_item_id=3545068) @{25-11-2024}
-- [x] 1032 quiz week 9 [link](https://ncl.instructure.com/courses/54983/quizzes/61482?module_item_id=3545070) @{25-11-2024}
-- [x] 1032 lecture @{25-11-2024}
 
 
 ***
@@ -62,6 +59,9 @@ kanban-plugin: board
 - [x] 1031 study material - week 8
 	[link](https://ncl.instructure.com/courses/54982/pages/week-8-study-material?module_item_id=3341114) @{20-11-2024}
 - [x] 1031 quiz week 8 [link](https://ncl.instructure.com/courses/54982/quizzes/58634?module_item_id=3341115) @{21-11-2024}
+- [x] 1032 practical [link](https://ncl.instructure.com/courses/54983/pages/practical-09?module_item_id=3545068) @{25-11-2024}
+- [x] 1032 quiz week 9 [link](https://ncl.instructure.com/courses/54983/quizzes/61482?module_item_id=3545070) @{25-11-2024}
+- [x] 1032 lecture @{25-11-2024}
 
 %% kanban:settings
 ```
