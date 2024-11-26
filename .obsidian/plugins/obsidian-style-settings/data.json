@@ -69,5 +69,5 @@
   "blue-topaz-theme@@remove-selectionbackground": false,
   "blue-topaz-theme@@text-selection@@dark": "#FFBAF0",
   "blue-topaz-theme@@font-size-code": "1em",
-  "blue-topaz-theme@@ordered-list-style-options": "custom-ordered-list"
+  "blue-topaz-theme@@ordered-list-style-options": "default-ol-list-marker"
 }
