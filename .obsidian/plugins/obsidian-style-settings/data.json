@@ -19,7 +19,7 @@
   "maple-workspace@@menu-normal": true,
   "maple-workspace@@menu-suggestion": true,
   "maple-workspace@@menu-graph": true,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-flamingo",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false,
   "blue-topaz-theme@@background-image-settings-switch": false,
   "blue-topaz-theme@@clutter-free-headings": false,
