@@ -5,8 +5,8 @@
 1. Dimensions
 	1. Page size should be 10.2x15.3cm.
 	2. Top margin should be 0.45cm.
-	3. Side should be 11.5cm.
-	4. Bottom margin should be 14.85cm.
+	3. Side should be 1.15cm.
+	4. Bottom margin should be 6.95cm.
 	5. Image should be 7.9x7.9cm.
 3. Print
 	1. Printer is set to take paper of 102x153mm (glossy).
