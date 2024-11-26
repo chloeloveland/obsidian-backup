@@ -18,6 +18,7 @@ kanban-plugin: board
 ## Study
 
 - [ ] [1031 Week 9 study material ](https://ncl.instructure.com/courses/54982/pages/week-9-study-material?module_item_id=3341117) @{27-11-2024}
+- [ ] 1033 lecture on thurs **CANCELLED** @{28-11-2024}
 
 
 ## Complete
