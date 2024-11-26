@@ -6,4 +6,5 @@
 1. Dimensions
 	1. {a} Top margin should be 0.45cm (4.5mm).
 	2. Side should be 1.15cm (115mm).
-	3. Bottom margin should be 
+	3. Bottom margin should be 148.5mm
+	4. Image should be 79x79mm

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1034 Programming/Dictionary.md",
-                "mode": "preview",
+                "file": "Random shit to rember/Fake polaroid thing.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionary"
+              "title": "Fake polaroid thing"
             }
           }
         ]
@@ -240,6 +240,7 @@
   },
   "active": "bd10b2e7e0b2d0e4",
   "lastOpenFiles": [
+    "Compsci Notes/1034 Programming/Dictionary.md",
     "To do - Uni.md",
     "To do - Personal.md",
     "Random shit to rember/Fake polaroid thing.md",
