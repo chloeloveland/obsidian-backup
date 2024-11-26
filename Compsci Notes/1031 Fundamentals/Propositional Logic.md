@@ -54,7 +54,8 @@ This is the basis of the **[[Laws of Equivalence]].**
 - Implication is another logical connective, like $\land$ and $\lor$
 - Looks like: $p\implies r$
 - Means "If $p$ is true then $r$ is true"
-- FTFT
+
+
 
 ---
 ## See also
