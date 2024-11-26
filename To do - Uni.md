@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Practicals
 
+- [ ] [1031 week 9 quiz](https://ncl.instructure.com/courses/54982/modules) @{28-11-2024}
 
 
 ## Coursework
@@ -16,6 +17,7 @@ kanban-plugin: board
 
 ## Study
 
+- [ ] [1031 Week 9 study material ](https://ncl.instructure.com/courses/54982/pages/week-9-study-material?module_item_id=3341117) @{27-11-2024}
 
 
 ## Complete
