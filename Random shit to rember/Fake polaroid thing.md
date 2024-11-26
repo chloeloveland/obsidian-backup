@@ -1,0 +1,2 @@
+- Printer is set to take paper of 102x153mm (glossy).
+- Use the setting "Fake polaroid".

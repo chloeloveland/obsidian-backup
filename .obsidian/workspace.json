@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1034 Programming/Graphs in code.md",
-                "mode": "preview",
+                "file": "Random shit to rember/Fake polaroid thing.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphs in code"
+              "title": "Fake polaroid thing"
             }
           }
         ]
@@ -234,13 +234,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false
+      "quick-tagger:Remove tag from current note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "bd10b2e7e0b2d0e4",
   "lastOpenFiles": [
-    "Compsci Notes/1034 Programming/Graph.md",
+    "Images/600_Film_Dimensions-2393935350.jpg",
+    "Images",
     "Compsci Notes/1034 Programming/Graphs in code.md",
+    "Random shit to rember/Fake polaroid thing.md",
+    "Random shit to rember",
+    "Compsci Notes/1034 Programming/Graph.md",
     "To do - Personal.md",
     "To do - Uni.md",
     "Compsci Notes/1033 Data Science/Databases.md",
@@ -276,15 +281,11 @@
     "Compsci Notes/1032 Architecture and Design/Sequential Circuit.md",
     "Compsci Notes/1032 Architecture and Design/SR latch.md",
     "Compsci Notes/1032 Architecture and Design/SRAM memory.md",
-    "Compsci Notes/1032 Architecture and Design/Symbols for latches and flip flops.md",
-    "Compsci Notes/1032 Architecture and Design/Cache memory.md",
     "Practice questions/1031/Week 8",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
     "Calendar",
     "Practice questions/1031/Week 7",
-    "Practice questions/1031/Week 6",
-    "Practice questions/1031",
     "Untitled.canvas"
   ]
 }
