@@ -55,6 +55,12 @@ This is the basis of the **[[Laws of Equivalence]].**
 - Looks like: $p\implies r$
 - Means "If $p$ is true then $r$ is true"
 
+| p   | r   | $p\implies r$ |
+| --- | --- | ------------- |
+| F   | F   | T             |
+| F   | T   | T             |
+| T   | F   | F             |
+| T   | T   | T             |
 
 
 ---
