@@ -25,7 +25,7 @@
   "blue-topaz-theme@@clutter-free-headings": false,
   "blue-topaz-theme@@muted-activeline-bg": false,
   "blue-topaz-theme@@background-notebook-liked-switch": false,
-  "blue-topaz-theme@@left-ribbon-style": "hide-left-ribbon-retention-drawer",
+  "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon-hide-left",
   "blue-topaz-theme@@list-indent": 1.5,
   "blue-topaz-theme@@bt-connected-indent-hover": false,
   "blue-topaz-theme@@bt-colorful-indentation-lines-editing": true,
@@ -62,5 +62,12 @@
   "blue-topaz-theme@@full-width-table": false,
   "blue-topaz-theme@@table-style-options": "table-style-two",
   "blue-topaz-theme@@table-format-options": "default-table",
-  "blue-topaz-theme@@table-width": "table-width-auto"
+  "blue-topaz-theme@@table-width": "table-width-auto",
+  "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@view-button-front": false,
+  "blue-topaz-theme@@tab-title-bar-position": false,
+  "blue-topaz-theme@@remove-selectionbackground": false,
+  "blue-topaz-theme@@text-selection@@dark": "#FFBAF0",
+  "blue-topaz-theme@@font-size-code": "1em"
 }
