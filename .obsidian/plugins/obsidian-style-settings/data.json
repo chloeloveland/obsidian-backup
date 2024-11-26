@@ -53,7 +53,6 @@
   "blue-topaz-theme@@loading-shape-with-custom-high-contrast-bg": false,
   "blue-topaz-theme@@colorful-link-animation": false,
   "blue-topaz-theme@@bt-colorful-titlebar": true,
-  "blue-topaz-theme@@ordered-list-style-options": "default-ol-list-marker",
   "blue-topaz-theme@@unordered-list-style-options": "bt-default-unordered-list",
   "blue-topaz-theme@@line-height-list": 2,
   "blue-topaz-theme@@list-style-change-options": "list-no-border",
@@ -69,5 +68,6 @@
   "blue-topaz-theme@@tab-title-bar-position": false,
   "blue-topaz-theme@@remove-selectionbackground": false,
   "blue-topaz-theme@@text-selection@@dark": "#FFBAF0",
-  "blue-topaz-theme@@font-size-code": "1em"
+  "blue-topaz-theme@@font-size-code": "1em",
+  "blue-topaz-theme@@ordered-list-style-options": "custom-ordered-list"
 }
