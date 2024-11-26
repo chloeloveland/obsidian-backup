@@ -5,7 +5,7 @@ tags:
 A graph is a mathematical structure for representing relationships. They are used to model many real-world scenarios.
 
 ## Mathematical definition
-- A graph is an [[tuples#Ordered pair|ordered pair]] $G=(V,E)$ where:
+- A graph is an [[Tuples#Ordered pair|ordered pair]] $G=(V,E)$ where:
 	- $V$ is a set of vertices
 	- $E$ is a set of edges $E\subset V\times V$ (see [[Cartesian Product]])
 - $E$ is a set of either **ordered** or **unordered** pairs:

@@ -2,7 +2,7 @@
 tags:
   - 1034-Programming
 ---
-There are several ways of representing a [[graph]] in code.
+There are several ways of representing a [[Graph]] in code.
 
 ## Adjacency Matrix
 - A graph can be represented using a 2d array which stores an [[Graph#Adjacency|adjacency matrix]]
@@ -16,7 +16,7 @@ There are several ways of representing a [[graph]] in code.
 
 ## Adjacency lists
 - Can also be represented by mapping each source node to sink node
-	- Using a [[dictionary]]
+	- Using a [[Dictionary]]
 - Avoids iteration through [[Graph#Mathematical definition|V]]
 
 ## Mapping from sources to dictionaries of sinks 

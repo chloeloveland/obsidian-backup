@@ -51,15 +51,9 @@ When two **propositional formulae** have the same truth table, they are **logica
 This is the basis of the **[[Laws of Equivalence]].**
 
 ## Implication
+- Implication is another logical connective, like $\land$ and $\lor$
 - Looks like: $p\implies r$
 - Means "If $p$ is true then $r$ is true"
-- Truth table
-	- 
-
-| p   | r   |
-| --- | --- |
-|     |     |
-
 
 ---
 ## See also

@@ -18,7 +18,7 @@ tags:
 Usually even parity is used.
 
 ### Logical implementation
-- Parity can be implemented as a [[logical circuit]]
+- Parity can be implemented as a [[Logical circuit]]
 
 > [!Diagram] Parity circuit - 3 bit
 > ![[Pasted image 20241021100639.png|350]]

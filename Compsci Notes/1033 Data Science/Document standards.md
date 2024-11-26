@@ -14,4 +14,4 @@ Good documentation should facilitate:
 
 
 > [!Tip] Metadata
-> Appropriate use of [[metadata]] helps with all of the above.
+> Appropriate use of [[Metadata]] helps with all of the above.
