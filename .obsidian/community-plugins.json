@@ -15,5 +15,6 @@
   "quick-tagger",
   "settings-search",
   "text-extractor",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "list-style"
 ]
