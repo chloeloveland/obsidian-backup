@@ -18,9 +18,9 @@ Propositional logic is a simple logic used for reasoning about expressions that 
 
 ## Semantics
 - Each **proposition** has the value T or F
-- not is a.k.a. negation
-- or is a.k.a. disjunction
-- and is a.k.a. conjunction
+- not is a.k.a. **negation**
+- or is a.k.a. **disjunction**
+- and is a.k.a. **conjunction**
 
 ## Truth tables
 We can use truth tables to check all the possible behaviours of a propositional formula.
@@ -54,6 +54,7 @@ This is the basis of the **[[Laws of Equivalence]].**
 - Implication is another logical connective, like $\land$ and $\lor$
 - Looks like: $p\implies r$
 - Means "If $p$ is true then $r$ is true"
+- FTFT
 
 ---
 ## See also
