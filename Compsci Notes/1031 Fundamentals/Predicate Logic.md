@@ -7,4 +7,4 @@ A predicate is essentially a proposition with a piece of information missing. Th
 - Need to capture that variable x **holds a property over all of the values** of a set.
 - This is done using the **universal quantifier** ($\forall$).
 	- Usage: $\forall x \in A =$ "for all values in set A"
-- The $\&$ symbol is simply a spacer
+- The $\&$ symbol is simply a spacer, it has no logical meaning.
