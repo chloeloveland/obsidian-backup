@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58262878bff449e4",
+            "id": "fbcc93a106cafbac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
-                "mode": "preview",
-                "backlinks": true,
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
@@ -238,10 +238,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58262878bff449e4",
+  "active": "fbcc93a106cafbac",
   "lastOpenFiles": [
-    "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
+    "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "To do - Uni.md",
     "Random shit to rember/Fake polaroid thing.md",
     "Compsci Notes/1034 Programming/Dictionary.md",
