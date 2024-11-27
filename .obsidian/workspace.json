@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Random shit to rember/Fake polaroid thing.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -93,15 +93,16 @@
                   ]
                 }
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-trello",
+              "title": "To do - Uni"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 305.5
   },
   "right": {
     "id": "ee1026931c8e18ec",
@@ -238,12 +239,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd10b2e7e0b2d0e4",
+  "active": "34d0e6d100d921ff",
   "lastOpenFiles": [
+    "Random shit to rember/Fake polaroid thing.md",
     "Compsci Notes/1034 Programming/Dictionary.md",
     "To do - Uni.md",
     "To do - Personal.md",
-    "Random shit to rember/Fake polaroid thing.md",
     "Attachments/Images/Polaroid-Photo-Sizes-768x319-4252116116.png",
     "Images/Polaroid-Photo-Sizes-768x319-4252116116.png.~tmp",
     "Images/600_Film_Dimensions-2393935350.jpg",

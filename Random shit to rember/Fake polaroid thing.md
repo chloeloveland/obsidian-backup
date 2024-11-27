@@ -1,5 +1,4 @@
 
-- 
 ![[Polaroid-Photo-Sizes-768x319-4252116116.png|left]]
 
 1. Dimensions
