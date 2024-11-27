@@ -11,10 +11,15 @@
             "id": "58262878bff449e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Propositional Logic"
             }
           }
         ]
@@ -233,11 +238,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1268de5c4756bdd0",
+  "active": "58262878bff449e4",
   "lastOpenFiles": [
+    "To do - Uni.md",
     "Random shit to rember/Fake polaroid thing.md",
     "Compsci Notes/1034 Programming/Dictionary.md",
-    "To do - Uni.md",
     "To do - Personal.md",
     "Attachments/Images/Polaroid-Photo-Sizes-768x319-4252116116.png",
     "Images/Polaroid-Photo-Sizes-768x319-4252116116.png.~tmp",
