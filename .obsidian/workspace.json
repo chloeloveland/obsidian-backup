@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
+                "file": "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propositional Logic"
+              "title": "Predicate Logic"
             }
           }
         ]
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Drawings/Venn Diagram diff.md",
+                "file": "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Venn Diagram diff"
+              "title": "Backlinks for Predicate Logic"
             }
           },
           {
@@ -240,6 +240,7 @@
   },
   "active": "58262878bff449e4",
   "lastOpenFiles": [
+    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "To do - Uni.md",
     "Random shit to rember/Fake polaroid thing.md",
     "Compsci Notes/1034 Programming/Dictionary.md",
@@ -252,7 +253,6 @@
     "Random shit to rember",
     "Compsci Notes/1034 Programming/Graph.md",
     "Compsci Notes/1033 Data Science/Databases.md",
-    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1032 Architecture and Design/Mic-1.md",
     "Attachments/Drawings/Venn Diagram diff.md",
