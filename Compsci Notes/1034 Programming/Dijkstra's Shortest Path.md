@@ -1,4 +1,4 @@
-Dijkstra's shortest path is an algorithm designed to find the shortest path from one node to another in a weighted [[graph]].
+Dijkstra's shortest path is an algorithm designed to find the shortest path from one node to another in a weighted [[graph]] (where the [[Graph#Properties|weight]] represents ***distance***.
 
 ## The algorithm
 1. Mark the source node with a current distance of 0 and the rest with infinity.
