@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1032 Architecture and Design/Logical circuit.md",
+                "file": "Compsci Notes/1032 Architecture and Design/Logic gates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logical circuit"
+              "title": "Logic gates"
             }
           }
         ]
@@ -240,8 +240,10 @@
   },
   "active": "fbcc93a106cafbac",
   "lastOpenFiles": [
-    "Compsci Notes/1032 Architecture and Design/Demultiplexer.md",
     "Compsci Notes/1032 Architecture and Design/Logical circuit.md",
+    "Compsci Notes/1032 Architecture and Design/Multiplexer.md",
+    "Compsci Notes/1032 Architecture and Design/Von Neumann Architecture.md",
+    "Compsci Notes/1032 Architecture and Design/Demultiplexer.md",
     "Compsci Notes/1032 Architecture and Design/Adder.md",
     "Compsci Notes/1032 Architecture and Design/Cache memory.md",
     "Compsci Notes/1032 Architecture and Design/Boolean logic.md",
@@ -270,8 +272,6 @@
     "Compsci Notes/1032 Architecture and Design/Parity bit.md",
     "Attachments/Drawings/Drawing 2024-11-25 20.01.05.excalidraw.md",
     "Attachments",
-    "Attachments/Drawings/Venn Diagram intersect.md",
-    "Attachments/Drawings/recursive binary relation.md",
     "Attachments/Drawings",
     "New folder",
     "Attachments/Images/Pasted image 20241021100455.png",
