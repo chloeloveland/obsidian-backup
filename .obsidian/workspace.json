@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1032 Architecture and Design/Adder.md",
-                "mode": "preview",
-                "backlinks": false,
+                "file": "Compsci Notes/1032 Architecture and Design/Logical circuit.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adder"
+              "title": "Logical circuit"
             }
           }
         ]
@@ -240,7 +240,12 @@
   },
   "active": "fbcc93a106cafbac",
   "lastOpenFiles": [
+    "Compsci Notes/1032 Architecture and Design/Cache memory.md",
     "Compsci Notes/1032 Architecture and Design/Logical circuit.md",
+    "Compsci Notes/1032 Architecture and Design/Boolean logic.md",
+    "Compsci Notes/1032 Architecture and Design/Bases.md",
+    "Compsci Notes/1032 Architecture and Design/Arithmetic Logic Unit.md",
+    "Compsci Notes/1032 Architecture and Design/Adder.md",
     "Compsci Notes/1032 Architecture and Design/Logic gates.md",
     "Compsci Notes/1034 Programming/Dijkstra's Shortest Path.md",
     "Compsci Notes/1034 Programming/Dictionary.md",
@@ -269,10 +274,6 @@
     "Attachments/Drawings/transitivedrawing.md",
     "Attachments/Drawings",
     "New folder",
-    "Images/Venn Diagram diff.md",
-    "Compsci Notes/1031 Fundamentals/Venn diagrams.md",
-    "Compsci Notes/1032 Architecture and Design/Hamming code.md",
-    "Compsci Notes/1031 Fundamentals/Set Notation.md",
     "Attachments/Images/Pasted image 20241021100455.png",
     "Attachments/Images/Pasted image 20241021091644.png",
     "Attachments/Images/Pasted image 20241015110116.png",
@@ -281,7 +282,6 @@
     "Attachments/Images/entityRelationshipBikeShop.png",
     "Attachments/Images/coursework1ERdiagramupdated.png",
     "Attachments/Images/coursework1ERdiagram.png",
-    "Compsci Notes/1032 Architecture and Design/Memory.md",
     "Practice questions/1031/Week 8",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
