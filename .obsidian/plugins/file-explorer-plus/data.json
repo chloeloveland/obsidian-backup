@@ -73,6 +73,13 @@
         "type": "FILES",
         "pattern": "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Compsci Notes/1032 Architecture and Design/Logical circuit.md",
+        "patternType": "STRICT"
       }
     ]
   },

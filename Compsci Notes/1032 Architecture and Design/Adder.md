@@ -9,7 +9,7 @@ tags:
 > [!Diagram] A half adder.
 > ![[half-adder-circuit.png|300]]
 
-> [!diagram] A full adder comprised of halves.
+> [!diagram] A full adder comprised of two halves.
 > ![[fullAdder.png|350]]
 
 > [!info] Truth table of full adder
