@@ -70,6 +70,6 @@
   "blue-topaz-theme@@text-selection@@dark": "#FFBAF0",
   "blue-topaz-theme@@font-size-code": "1em",
   "blue-topaz-theme@@ordered-list-style-options": "default-ol-list-marker",
-  "blue-topaz-theme@@accent-em@@dark": "#FFF48F",
-  "blue-topaz-theme@@accent-strong@@dark": "#3CE0FF"
+  "blue-topaz-theme@@accent-em@@dark": "#FFD800",
+  "blue-topaz-theme@@accent-strong@@dark": "#21B1FF"
 }
