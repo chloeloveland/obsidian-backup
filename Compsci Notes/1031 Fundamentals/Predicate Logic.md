@@ -16,4 +16,7 @@ A predicate is essentially a proposition with a piece of information missing. Th
 2. To show formula is **false**, you must only show one **witness value** where P(x) is false.
 
 ## Existential Quantifier
-- Where universal quantifier is AND over a whole set, existential quantifier applies OR over awhole 
+- Where universal quantifier is AND over a whole set, existential quantifier applies OR over a whole set
+- Usage:
+	- $\exists x \in A$ means value x is true *somewhere* in $A$.
+	- $\exists x \in A & $ means value x is true *somewhere* in $A$.
