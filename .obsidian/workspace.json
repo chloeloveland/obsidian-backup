@@ -13,10 +13,13 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "1034 coursework 3.md",
+                "file": "To do - Uni.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
+                    false,
                     false,
                     false,
                     false
@@ -24,7 +27,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "1034 coursework 3"
+              "title": "To do - Uni"
             }
           }
         ]
@@ -245,8 +248,8 @@
   },
   "active": "fbcc93a106cafbac",
   "lastOpenFiles": [
-    "To do - Uni.md",
     "1034 coursework 3.md",
+    "To do - Uni.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1032 Architecture and Design/Logic gates.md",
