@@ -18,5 +18,4 @@ A predicate is essentially a proposition with a piece of information missing. Th
 ## Existential Quantifier
 - Where universal quantifier is AND over a whole set, existential quantifier applies OR over a whole set
 - Usage:
-	- $\exists x \in A$ means is true *somewhere* in $A$.
-	- $\exists x \in A\ \&\  (even(x) \land prime(x))$ means *some value* in $A$ is even and prime.
+	- $\exists x \in A\ \&\  (even(x) \land prime(x))$ means *some value* in set $A$ is even and prime.
