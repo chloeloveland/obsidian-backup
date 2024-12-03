@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
+                "file": "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propositional Logic"
+              "title": "Predicate Logic"
             }
           }
         ]
@@ -240,8 +240,8 @@
   },
   "active": "fbcc93a106cafbac",
   "lastOpenFiles": [
-    "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
+    "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1032 Architecture and Design/Logic gates.md",
     "Compsci Notes/1032 Architecture and Design/Logical circuit.md",
     "Compsci Notes/1032 Architecture and Design/Multiplexer.md",
