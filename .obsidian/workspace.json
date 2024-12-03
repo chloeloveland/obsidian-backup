@@ -11,23 +11,15 @@
             "id": "fbcc93a106cafbac",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To do - Uni.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Compsci Notes/1034 Programming/Dijkstra's Shortest Path.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "icon": "lucide-file",
+              "title": "Dijkstra's Shortest Path"
             }
           }
         ]
@@ -248,8 +240,8 @@
   },
   "active": "fbcc93a106cafbac",
   "lastOpenFiles": [
-    "1034 coursework 3.md",
     "To do - Uni.md",
+    "1034 coursework 3.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1032 Architecture and Design/Logic gates.md",
