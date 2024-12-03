@@ -16,11 +16,11 @@ A predicate is essentially a proposition with a piece of information missing. Th
 	- Usage:
 	- $\forall x \in A$ means "for all values in set A"
 	-  $\forall x \in A \  \&\  P(x)$ means "for all values in set A, P(x) holds"
-		- The $\&$ symbol is simply a spacer, it has <mark class="hltr-pink">no logical meaning</mark>.
+		- The $\&$ symbol is **simply a spacer**, it has <mark class="hltr-blue">no logical meaning</mark>.
 
 > [!Info] Proving an universally quantified formula true or false
->1. To show formula is <mark class="hltr-green">**true**</mark>, you must show that for each element that P(x) is true.
->2. To show formula is <mark class="hltr-red">**false**</mark>, you must only show one **witness value** where P(x) is false.
+>1. To show formula is <mark class="hltr-green">true/mark>, you must show that for each element that P(x) is true.
+>2. To show formula is <mark class="hltr-red">false/mark>, you must only show one **witness value** where P(x) is false.
 
 <br>
 
