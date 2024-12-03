@@ -12,10 +12,14 @@ A predicate is essentially a proposition with a piece of information missing. Th
 		- The $\&$ symbol is simply a spacer, it has no logical meaning.
 
 ### Proving a universally quantified formula true or false
-1. To show formula is **true**, you must show that for each element that P(x) is true.
-2. To show formula is **false**, you must only show one **witness value** where P(x) is false.
+1. To show formula is <mark class="hltr-green">**true**</mark>, you must show that for each element that P(x) is true.
+2. To show formula is <mark class="hltr-red">**false**</mark>, you must only show one **witness value** where P(x) is false.
 
 ## Existential Quantifier
-- Where universal quantifier is AND over a whole set, existential quantifier applies OR over a whole set
+- Where universal quantifier is AND applied over a whole set, existential quantifier applies OR over a whole set.
 - Usage:
 	- $\exists x \in A\ \&\  (even(x) \land prime(x))$ means *some value* in set $A$ is even and prime.
+
+### Proving an existentially quantified formula true or false
+1. To show formula is <mark class="hltr-green">**true**</mark>, you must only show one **witness value** where P(x) is true.
+2. To show formula is <mark class="hltr-red">**false**</mark>, you must show that for each element that P(x) is false.
