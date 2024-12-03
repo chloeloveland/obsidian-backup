@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Practicals
 
-- [ ] [1032 mock exam](https://ncl.instructure.com/courses/54983/assignments/284696?module_item_id=3549649) @{3-12-2024}
+- [ ] [1032 mock exam](https://ncl.instructure.com/courses/54983/assignments/284696?module_item_id=3549649) @{7-1-2025}
 
 
 ## Coursework
@@ -17,14 +17,13 @@ kanban-plugin: board
 
 ## Study
 
-- [ ] 1033 lecture on thurs **CANCELLED** @{28-11-2024}
+- [ ] Exam 1031 revision @{9-1-2025} @@{14:00}
+- [ ] Exam 1032 revision @{16-1-2025} @@{14:00}
 
 
 ## Complete
 
 **Complete**
-- [x] [1031 Week 9 study material ](https://ncl.instructure.com/courses/54982/pages/week-9-study-material?module_item_id=3341117) @{27-11-2024}
-- [x] [1031 week 9 quiz](https://ncl.instructure.com/courses/54982/modules) @{28-11-2024}
 
 
 ***
@@ -63,6 +62,9 @@ kanban-plugin: board
 - [x] 1032 practical [link](https://ncl.instructure.com/courses/54983/pages/practical-09?module_item_id=3545068) @{25-11-2024}
 - [x] 1032 quiz week 9 [link](https://ncl.instructure.com/courses/54983/quizzes/61482?module_item_id=3545070) @{25-11-2024}
 - [x] 1032 lecture @{25-11-2024}
+- [x] [1031 Week 9 study material ](https://ncl.instructure.com/courses/54982/pages/week-9-study-material?module_item_id=3341117) @{27-11-2024}
+- [x] [1031 week 9 quiz](https://ncl.instructure.com/courses/54982/modules) @{28-11-2024}
+- [x] 1033 lecture on thurs **CANCELLED** @{28-11-2024}
 
 %% kanban:settings
 ```
