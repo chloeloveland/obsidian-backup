@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1032 Architecture and Design/Logic gates.md",
+                "file": "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logic gates"
+              "title": "Predicate Logic"
             }
           }
         ]
@@ -234,11 +234,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false
+      "quick-tagger:Remove tag from current note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "fbcc93a106cafbac",
   "lastOpenFiles": [
+    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
+    "Compsci Notes/1032 Architecture and Design/Logic gates.md",
     "Compsci Notes/1032 Architecture and Design/Logical circuit.md",
     "Compsci Notes/1032 Architecture and Design/Multiplexer.md",
     "Compsci Notes/1032 Architecture and Design/Von Neumann Architecture.md",
@@ -248,7 +251,6 @@
     "Compsci Notes/1032 Architecture and Design/Boolean logic.md",
     "Compsci Notes/1032 Architecture and Design/Bases.md",
     "Compsci Notes/1032 Architecture and Design/Arithmetic Logic Unit.md",
-    "Compsci Notes/1032 Architecture and Design/Logic gates.md",
     "Compsci Notes/1034 Programming/Dijkstra's Shortest Path.md",
     "Compsci Notes/1034 Programming/Dictionary.md",
     "Compsci Notes/1034 Programming/Named Tuple.md",
@@ -258,7 +260,6 @@
     "To do - Uni.md",
     "To do - Personal.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
-    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Attachments/Images/Polaroid-Photo-Sizes-768x319-4252116116.png",
     "Images/Polaroid-Photo-Sizes-768x319-4252116116.png.~tmp",
     "Images/600_Film_Dimensions-2393935350.jpg",
