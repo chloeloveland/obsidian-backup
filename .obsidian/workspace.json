@@ -26,24 +26,8 @@
               "icon": "lucide-trello",
               "title": "1034 coursework 3"
             }
-          },
-          {
-            "id": "6a711bc1d4a8466e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compsci Notes/1034 Programming/Graphs in code.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Graphs in code"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,12 +243,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a711bc1d4a8466e",
+  "active": "fbcc93a106cafbac",
   "lastOpenFiles": [
-    "1034 coursework 3.md",
-    "Compsci Notes/1034 Programming/Graphs in code.md",
-    "Compsci Notes/1034 Programming/Dijkstra's Shortest Path.md",
+    "To do - Personal.md",
     "To do - Uni.md",
+    "Compsci Notes/1034 Programming/Graphs in code.md",
+    "1034 coursework 3.md",
+    "Compsci Notes/1034 Programming/Dijkstra's Shortest Path.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1032 Architecture and Design/Logic gates.md",
@@ -281,7 +266,6 @@
     "Compsci Notes/1034 Programming/Named Tuple.md",
     "Compsci Notes/1034 Programming/Graph.md",
     "Random shit to rember/Fake polaroid thing.md",
-    "To do - Personal.md",
     "Attachments/Images/Polaroid-Photo-Sizes-768x319-4252116116.png",
     "Images/Polaroid-Photo-Sizes-768x319-4252116116.png.~tmp",
     "Images/600_Film_Dimensions-2393935350.jpg",
