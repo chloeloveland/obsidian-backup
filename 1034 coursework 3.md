@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] use graph-walker package to make stochastic faster
 - [ ] optimise distributive somehow
 - [ ] update to template files >:(
 	
@@ -15,6 +14,7 @@ kanban-plugin: board
 
 ## Doing
 
+- [ ] optimise stochastic
 
 
 ## Done
