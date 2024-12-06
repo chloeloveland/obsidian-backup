@@ -14,13 +14,13 @@ kanban-plugin: board
 
 ## Doing
 
-- [ ] optimise stochastic
 
 
 ## Done
 
 **Complete**
 - [x] implement 3 more methods of storing graph in load graph function, see [[Graphs in code]]
+- [x] optimise stochastic
 
 
 
