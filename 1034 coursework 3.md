@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] optimise distributive somehow
 - [ ] update to template files >:(
 	
 	cant find them???
@@ -14,6 +13,7 @@ kanban-plugin: board
 
 ## Doing
 
+- [ ] optimise distributive somehow
 
 
 ## Done
