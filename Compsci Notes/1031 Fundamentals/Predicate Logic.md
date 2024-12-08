@@ -46,3 +46,7 @@ The existential and universal quantifiers can be combined in the same predicate 
 $$
 \forall x \in \{2,...,4\} \ \& \ \exists y \in \{1,...,5\}\ \& \ (x>y)
 $$
+This statement should be read as:
+"**For every value** in {2,...,4} there **exists** a value in {1,...,5} which is less than it"
+
+Note that the order of operation (left to right) only matters when combining *different* quantifiers. But for ease of use just do it always.
