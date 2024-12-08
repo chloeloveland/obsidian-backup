@@ -1,4 +1,4 @@
-Predicate logic is an extension of [[propositional logic]] which allows for reasoning over infinite sets of values. It can be used to *formalise English sentences* into a more objective, mathematical way.
+Predicate logic is an extension of [[propositional logic]] which allows for reasoning over large and infinite sets of values.
 
 ## Predicates
 A predicate is essentially a proposition with a piece of information missing. The predicate P(x) becomes a proposition - and thus is true or false - when we instantiate its variables with values.
