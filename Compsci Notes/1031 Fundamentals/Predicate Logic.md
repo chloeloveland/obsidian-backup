@@ -50,3 +50,8 @@ This statement should be read as:
 "**For every value** in {2,...,4} there **exists** a value in {1,...,5} which is less than it"
 
 Note that the order of operation (left to right) only matters when combining *different* quantifiers. But for ease of use just do it always.
+
+
+> [!Info] Proving true or false when combining $\forall$ and $\exists$
+> - Take the above example $\forall x \in \{2,...,4\} \ \& \ \exists y \in \{1,...,5\}\ \& \ (x>y)$
+> - Since we are trying to prove *for all*
