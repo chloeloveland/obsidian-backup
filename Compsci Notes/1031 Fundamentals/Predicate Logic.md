@@ -39,3 +39,6 @@ A predicate is essentially a proposition with a piece of information missing. Th
 - $\forall x \in S \ \& \ P(x) \equiv ¬(\exists x \in S \ \& \ ¬P(x))$
 - $\exists x \in S \ \& \ P(x) \equiv ¬(\forall x \in S \ \& \ ¬P(x))$
 - it's a bit like [[laws of equivalence|De Morgan's law]] but it's not called that
+
+
+## Combining $\forall$ and $\exists$
