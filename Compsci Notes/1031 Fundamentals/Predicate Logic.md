@@ -39,6 +39,10 @@ A predicate is essentially a proposition with a piece of information missing. Th
 - $\forall x \in S \ \& \ P(x) \equiv ¬(\exists x \in S \ \& \ ¬P(x))$
 - $\exists x \in S \ \& \ P(x) \equiv ¬(\forall x \in S \ \& \ ¬P(x))$
 - it's a bit like [[laws of equivalence|De Morgan's law]] but it's not called that
-
+<br>
 
 ## Combining $\forall$ and $\exists$
+The existential and universal quantifiers can be combined in the same predicate formula. When combined, the statements should simply be read left to right. See below:
+$$
+\forall x \in \{2,...,4\} \ \& \ \exists y \in \{1,...,5\}\ \& \ (x>y)
+$$
