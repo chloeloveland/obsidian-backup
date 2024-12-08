@@ -37,7 +37,7 @@ $$
 $$
 ¬¬x \equiv x
 $$
-- De Morgan's laws
+- De Morgan's law
 $$
 \begin{align}
 ¬(x\lor y)\equiv ¬x \land ¬y \\

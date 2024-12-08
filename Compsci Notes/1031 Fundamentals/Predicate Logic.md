@@ -33,6 +33,9 @@ A predicate is essentially a proposition with a piece of information missing. Th
 > 1. To show formula is <mark class="hltr-green">true</mark>, you must only show one **witness value** where P(x) is true.
 > 2. To show formula is <mark class="hltr-red">false</mark>, you must show that for each element that P(x) is false.
 
+<br>
+
 ## Relationship between $\forall$ and $\exists$
 - $\forall x \in S \ \& \ P(x) \equiv ¬(\exists x \in S \ \& \ ¬P(x))$
 - $\exists x \in S \ \& \ P(x) \equiv ¬(\forall x \in S \ \& \ ¬P(x))$
+- it's a bit like [[laws of equivalence|De Morgan's law]] but it's not called that
