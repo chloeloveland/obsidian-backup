@@ -54,4 +54,6 @@ Note that the order of operation (left to right) only matters when combining *di
 
 > [!Info] Proving true or false when combining $\forall$ and $\exists$
 > - Take the above example $\forall x \in \{2,...,4\} \ \& \ \exists y \in \{1,...,5\}\ \& \ (x>y)$
-> - Since we are trying to prove *for all*
+> - Simply apply the existing rules for these operators when in isolation
+> - So to show it is <mark class="hltr-green">true</mark>, we need to show that for **every value** in {2,...,4} there is at least one **witness value** in {1,...,5} where x>y
+> - Or to show <mark class="hltr-red">false</mark>, we need to show that there is at least one **witness value** in {2,...,4} where there 
