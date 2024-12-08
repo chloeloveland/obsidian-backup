@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Exam 1031 revision @{9-1-2025} @@{14:00}
 - [ ] Exam 1032 revision @{16-1-2025} @@{14:00}
 - [ ] [1031 study materials week 10](https://ncl.instructure.com/courses/54982/pages/week-10-study-material?module_item_id=3341139) @{4-12-2024}
+- [ ] catchup on content from 05/12 @{8-12-2024}
 
 
 ## Complete

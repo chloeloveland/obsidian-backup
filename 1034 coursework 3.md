@@ -6,19 +6,19 @@ kanban-plugin: board
 
 ## To do
 
+
+
+## Doing
+
 - [ ] update to template files >:(
 	
 	cant find them???
 
 
-## Doing
-
-- [ ] optimise distributive somehow
-
-
 ## Done
 
 **Complete**
+- [x] optimise distributive somehow
 - [x] implement 3 more methods of storing graph in load graph function, see [[Graphs in code]]
 - [x] optimise stochastic
 
