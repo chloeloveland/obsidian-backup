@@ -11,8 +11,6 @@ kanban-plugin: board
 
 ## Coursework
 
-- [ ] [1034 coursework 3](https://ncl.instructure.com/courses/54985/assignments/266756)
-	@{13-12-2024} @@{14:00}
 
 
 ## Study
@@ -27,6 +25,8 @@ kanban-plugin: board
 **Complete**
 - [x] catchup on content from 05/12 @{8-12-2024}
 - [x] [1031 study materials week 10](https://ncl.instructure.com/courses/54982/pages/week-10-study-material?module_item_id=3341139) @{4-12-2024}
+- [x] [1034 coursework 3](https://ncl.instructure.com/courses/54985/assignments/266756)
+	@{13-12-2024} @@{14:00}
 
 
 ***
