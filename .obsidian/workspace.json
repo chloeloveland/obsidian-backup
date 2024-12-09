@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1032 Architecture and Design/ARM.md",
-                "mode": "source",
+                "file": "Compsci Notes/1032 Architecture and Design/Cache memory.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARM"
+              "title": "Cache memory"
             }
           }
         ],
@@ -254,10 +254,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1268de5c4756bdd0",
+  "active": "ba136211936015b5",
   "lastOpenFiles": [
-    "Compsci Notes/1032 Architecture and Design/CPU.md",
     "Compsci Notes/1032 Architecture and Design/ARM.md",
+    "Compsci Notes/1032 Architecture and Design/CPU.md",
     "Compsci Notes/1032 Architecture and Design/CISC and RISC.md",
     "Compsci Notes/1032 Architecture and Design/Parity bit.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",

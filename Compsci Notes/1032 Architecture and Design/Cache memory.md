@@ -16,3 +16,7 @@ Cache memory is a high-speed, low-capacity [[Memory]] which is used within the [
 - The <mark class="hltr-green">validation bit</mark> is 1 if there is <mark class="hltr-green">real data</mark> in that line
 - The <mark class="hltr-yellow">TAG</mark> contains the 16 most significant bits of the actual address of the data contained in that line
 
+## Set-associative cache
+- A **set-associative cache** replicates every line a fixed number of times
+- Data fetched from main memory could be in more than one place in cache so a fixed number of places must be searched
+- **This improves performance**
