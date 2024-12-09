@@ -2,13 +2,13 @@
 tags:
   - 1032-Archi
 ---
-Cache memory is a high-speed, low-capacity [[Memory]] which is used within the [[CPU]]. It allows faster operation by placing commonly accessed data close to the rest of the CPU.
+Cache memory is a high-speed, low-capacity [[memory]] which is used within the [[CPU]]. It allows faster operation by placing commonly accessed data close to the rest of the CPU.
 
 > [!Info] Principle of locality
 > If a particular storage location is referenced, it is likely that nearby memory location will be referenced soon
 
 ## Direct mapped cache
-- The simplest cache is <mark class="hltr-orange">**direct-mapped**</mark>
+- The simplest cache is <mark class="hltr-orange">direct-mapped</mark>
 - If a byte is present in cache, it can only be in **one place**
 - Cache contains 2k lines/entries
 - Each line contains 32 bytes of data
@@ -17,6 +17,6 @@ Cache memory is a high-speed, low-capacity [[Memory]] which is used within the [
 - The <mark class="hltr-yellow">TAG</mark> contains the 16 most significant bits of the actual address of the data contained in that line
 
 ## Set-associative cache
-- A **set-associative cache** replicates every line a fixed number of times
+- A <mark class="hltr-orange">set-associative</mark> cache **replicates** every line a *fixed number of times*
 - Data fetched from main memory could be in more than one place in cache so a fixed number of places must be searched
 - **This improves performance**
