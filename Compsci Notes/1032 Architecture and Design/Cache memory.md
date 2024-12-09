@@ -20,3 +20,5 @@ Cache memory is a high-speed, low-capacity [[memory]] which is used within the [
 - A <mark class="hltr-orange">set-associative</mark> cache **replicates** every line a *fixed number of times*
 - Data fetched from main memory could be in more than one place in cache so a fixed number of places must be searched
 - **This improves performance**
+
+## Cache protection
