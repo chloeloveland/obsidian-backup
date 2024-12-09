@@ -27,5 +27,5 @@ Usually even parity is used.
 > ![[Pasted image 20241021100740.png|350]]
 
 ---
-## See also
+## See also:
 - [[Hamming code]]

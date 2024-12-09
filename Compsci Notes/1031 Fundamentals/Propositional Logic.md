@@ -67,5 +67,5 @@ Propositional logic cannot reason about properties over infinite sets.
 To do this, we use [[Predicate Logic]], an extension of propositional logic.
 
 ---
-## See also
+## See also:
 - [[Boolean logic]]
