@@ -80,6 +80,13 @@
         "type": "FILES",
         "pattern": "Compsci Notes/1032 Architecture and Design/Logical circuit.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Compsci Notes/1032 Architecture and Design/Boolean logic.md",
+        "patternType": "STRICT"
       }
     ]
   },
