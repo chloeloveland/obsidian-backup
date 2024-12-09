@@ -1,7 +1,7 @@
 Predicate logic is an extension of [[propositional logic]] which allows for reasoning over large and infinite sets of values.
 
 ## Predicates
-A predicate is essentially a proposition with a piece of information missing. The predicate P(x) becomes a proposition - and thus is true or false - when we instantiate its variables with values.
+A predicate is essentially a [[Propositional Logic|proposition]] with a piece of information missing. The predicate P(x) becomes a proposition - and thus is true or false - when we instantiate its variables with values.
 
 > [!Example]
 > - For example, a predicate may look like "even(x) = number x is even"
