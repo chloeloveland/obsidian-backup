@@ -6,17 +6,17 @@ kanban-plugin: board
 
 ## Appointments
 
-- [ ] uni therapy @{9-12-2024} @@{01:00}
+- [ ] uni therapy @{9-12-2024} @@{13:00}
 
 
 ## Cleaning
 
-- [ ] kitchen inspection @{7-12-2024}
 
 
 ## Complete
 
 **Complete**
+- [x] kitchen inspection @{7-12-2024}
 
 
 ## Projects
