@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
-                "mode": "preview",
+                "file": "Compsci Notes/1032 Architecture and Design/CISC and RISC.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Predicate Logic"
+              "title": "CISC and RISC"
             }
           }
         ]
@@ -240,8 +240,9 @@
   },
   "active": "fbcc93a106cafbac",
   "lastOpenFiles": [
-    "Compsci Notes/1031 Fundamentals/Laws of Equivalence.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
+    "Compsci Notes/1032 Architecture and Design/CISC and RISC.md",
+    "Compsci Notes/1031 Fundamentals/Laws of Equivalence.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "To do - Uni.md",
     "To do - Personal.md",
@@ -270,7 +271,6 @@
     "Compsci Notes/1033 Data Science/Databases.md",
     "Compsci Notes/1032 Architecture and Design/Mic-1.md",
     "Attachments/Drawings/Venn Diagram diff.md",
-    "Compsci Notes/1031 Fundamentals/Set Difference.md",
     "Attachments",
     "Attachments/Drawings",
     "New folder",
