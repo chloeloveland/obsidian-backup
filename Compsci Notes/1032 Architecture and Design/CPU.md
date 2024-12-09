@@ -9,3 +9,4 @@ The **central processing unit** (CPU), aka the **processor** is the main process
 
 - [[Von Neumann Architecture]]
 - [[Mic-1]]
+- [[ARM]]
