@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] maybe retry optimising distributive
 - [ ] check optimisation report up to a good standard
-- [ ] **RESUBMIT WITH .git DIRECTORY!!!**
+- [ ] **RESUBMIT WITH .git DIRECTORY**
 
 
 ## Done
