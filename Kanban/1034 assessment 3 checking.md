@@ -7,8 +7,6 @@ kanban-plugin: board
 ## To do
 
 - [ ] maybe retry optimising distributive
-- [ ] check optimisation report up to a good standard
-- [ ] **RESUBMIT WITH .git DIRECTORY**
 
 
 ## Done
@@ -16,6 +14,8 @@ kanban-plugin: board
 **Complete**
 - [x] requirements.txt
 - [x] check stochastic follows pseudocode
+- [x] check optimisation report up to a good standard
+- [x] **RESUBMIT WITH .git DIRECTORY**
 - [x] check distrib follows pseudocode
 - [x] check git log to see if its clear
 	theres a shit commit i cant fix
