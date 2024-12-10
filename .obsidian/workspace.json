@@ -11,10 +11,23 @@
             "id": "353d1c64de753f31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/To do - Uni.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "To do - Uni"
             }
           }
         ]
@@ -254,7 +267,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1268de5c4756bdd0",
+  "active": "353d1c64de753f31",
   "lastOpenFiles": [
     "Kanban/To do - Uni.md",
     "Kanban/To do - Personal.md",
