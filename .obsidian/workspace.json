@@ -13,21 +13,17 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/To do - Uni.md",
+                "file": "Kanban/1034 assessment 3 checking.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
                     false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "title": "1034 assessment 3 checking"
             }
           }
         ]
@@ -267,9 +263,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "353d1c64de753f31",
+  "active": "1268de5c4756bdd0",
   "lastOpenFiles": [
     "Kanban/To do - Uni.md",
+    "Kanban/1034 assessment 3 checking.md",
     "Kanban/To do - Personal.md",
     "Kanban",
     "Compsci Notes/1032 Architecture and Design/Cache memory.md",
