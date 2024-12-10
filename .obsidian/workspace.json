@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2115e51d52ab5e6",
+        "id": "59397632714fa2e7",
         "type": "tabs",
         "children": [
           {
-            "id": "5efefe1eb35bf845",
+            "id": "353d1c64de753f31",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "To do - Uni.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +75,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "To do - Uni.md",
+                "file": "Kanban/To do - Uni.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -111,7 +98,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "To do - Personal.md",
+                "file": "Kanban/To do - Personal.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -269,9 +256,9 @@
   },
   "active": "1268de5c4756bdd0",
   "lastOpenFiles": [
+    "Kanban/To do - Uni.md",
+    "Kanban/To do - Personal.md",
     "Kanban",
-    "To do - Uni.md",
-    "To do - Personal.md",
     "Compsci Notes/1032 Architecture and Design/Cache memory.md",
     "Compsci Notes/1032 Architecture and Design/CPU.md",
     "Compsci Notes/1032 Architecture and Design/Adder.md",
@@ -314,7 +301,6 @@
     "Practice questions/1031/Week 8",
     "Notes/1034 Programming/$E/subset V",
     "Notes/1034 Programming/$E",
-    "Calendar",
     "Untitled.canvas"
   ]
 }

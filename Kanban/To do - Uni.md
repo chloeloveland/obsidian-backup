@@ -17,6 +17,7 @@ kanban-plugin: board
 
 - [ ] Exam 1031 @{9-1-2025} @@{14:00}
 	- revise
+		- We can bring printed notes, so just bang that out
 	- Bring pen + paper
 	- do not be fucking late
 - [ ] Exam 1032 revision @{16-1-2025} @@{14:00}
