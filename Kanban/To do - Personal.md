@@ -8,10 +8,6 @@ kanban-plugin: board
 
 
 
-## Cleaning
-
-
-
 ## Complete
 
 **Complete**
@@ -20,6 +16,10 @@ kanban-plugin: board
 ## Projects
 
 - [ ] Obsidian plugin for multiline alignment
+
+
+## Music and films
+
 
 
 ***

@@ -11,6 +11,9 @@ kanban-plugin: board
 - [ ] check distrib follows pseudocode
 - [ ] maybe retry optimising distributive
 - [ ] check all cmd line options implemented
+- [ ] is code well structured and commented
+- [ ] check git log to see if its clear
+- [ ] check optimisation report up to a good standard
 
 
 ## Done
