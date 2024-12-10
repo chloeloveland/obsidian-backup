@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] check stochastic follows pseudocode
-- [ ] check distrib follows pseudocode
 - [ ] maybe retry optimising distributive
 - [ ] check git log to see if its clear
 - [ ] check optimisation report up to a good standard
@@ -17,6 +15,8 @@ kanban-plugin: board
 
 **Complete**
 - [x] requirements.txt
+- [x] check stochastic follows pseudocode
+- [x] check distrib follows pseudocode
 - [x] 4 ways of storing graph that work
 - [x] check all cmd line options implemented
 - [x] liscence.md
