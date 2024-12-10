@@ -16,7 +16,7 @@ kanban-plugin: board
 
 - [ ] Exam 1031 @{9-1-2025} @@{14:00}
 	- revise
-		- We can bring printed notes, so just bang out a load
+		- We can bring printed notes, MAKE THEM TARGETED (dont overdo it)
 		- do the weekly quizzes again
 		- [online mock exam](https://ncl.instructure.com/courses/54982/assignments)
 	- Bring pen + paper
