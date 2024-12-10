@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Appointments
 
-- [ ] uni therapy @{9-12-2024} @@{13:00}
 
 
 ## Cleaning
@@ -16,7 +15,6 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
-- [x] kitchen inspection @{7-12-2024}
 
 
 ## Projects
@@ -33,6 +31,8 @@ kanban-plugin: board
 - [x] Room inspection @{26-11-2024}
 - [x] Change sheets for the love of all things hol
 - [x] GP appointment - molineux street @{25-11-2024} @@{10:15}
+- [x] uni therapy @{9-12-2024} @@{13:00}
+- [x] kitchen inspection @{7-12-2024}
 
 %% kanban:settings
 ```

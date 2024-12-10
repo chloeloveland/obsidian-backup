@@ -15,7 +15,10 @@ kanban-plugin: board
 
 ## Study
 
-- [ ] Exam 1031 revision @{9-1-2025} @@{14:00}
+- [ ] Exam 1031 @{9-1-2025} @@{14:00}
+	- revise
+	- Bring pen + paper
+	- do not be fucking late
 - [ ] Exam 1032 revision @{16-1-2025} @@{14:00}
 - [ ] wtf was 1032 lecture 09/12
 
