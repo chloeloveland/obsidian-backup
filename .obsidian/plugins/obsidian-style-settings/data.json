@@ -19,7 +19,7 @@
   "maple-workspace@@menu-normal": true,
   "maple-workspace@@menu-suggestion": true,
   "maple-workspace@@menu-graph": true,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-flamingo",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
   "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false,
   "blue-topaz-theme@@background-image-settings-switch": false,
   "blue-topaz-theme@@clutter-free-headings": false,
@@ -69,7 +69,5 @@
   "blue-topaz-theme@@remove-selectionbackground": false,
   "blue-topaz-theme@@text-selection@@dark": "#FFBAF0",
   "blue-topaz-theme@@font-size-code": "1em",
-  "blue-topaz-theme@@ordered-list-style-options": "default-ol-list-marker",
-  "blue-topaz-theme@@accent-em@@dark": "#FFD800",
-  "blue-topaz-theme@@accent-strong@@dark": "#21B1FF"
+  "blue-topaz-theme@@ordered-list-style-options": "default-ol-list-marker"
 }

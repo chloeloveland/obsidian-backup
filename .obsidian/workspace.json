@@ -11,19 +11,15 @@
             "id": "8dd5871beeeb6083",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/1034 assessment 3 checking.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Compsci Notes/1034 Programming/Graph.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "1034 assessment 3 checking"
+              "icon": "lucide-file",
+              "title": "Graph"
             }
           }
         ]
@@ -265,8 +261,8 @@
   },
   "active": "8dd5871beeeb6083",
   "lastOpenFiles": [
-    "Kanban/To do - Uni.md",
     "Kanban/1034 assessment 3 checking.md",
+    "Kanban/To do - Uni.md",
     "Kanban/To do - Personal.md",
     "Kanban",
     "Compsci Notes/1032 Architecture and Design/Cache memory.md",
@@ -309,4 +305,8 @@
     "Attachments/Images/coursework1ERdiagramupdated.png",
     "Attachments/Images/coursework1ERdiagram.png",
     "Practice questions/1031/Week 8",
-    "Notes/1034 Programming/$E/subset V"
+    "Notes/1034 Programming/$E/subset V",
+    "Notes/1034 Programming/$E",
+    "Untitled.canvas"
+  ]
+}
