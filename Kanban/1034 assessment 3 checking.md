@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] 4 ways of storing graph that work
 - [ ] check stochastic follows pseudocode
 - [ ] check distrib follows pseudocode
 - [ ] maybe retry optimising distributive
@@ -14,12 +13,14 @@ kanban-plugin: board
 - [ ] is code well structured and commented
 - [ ] check git log to see if its clear
 - [ ] check optimisation report up to a good standard
-- [ ] liscence.md
-- [ ] requirements.txt
 
 
 ## Done
 
+**Complete**
+- [x] requirements.txt
+- [x] 4 ways of storing graph that work
+- [x] liscence.md
 
 
 
