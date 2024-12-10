@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Practicals
 
-- [ ] [1032 mock exam](https://ncl.instructure.com/courses/54983/assignments/284696?module_item_id=3549649) @{7-1-2025}
 
 
 ## Coursework
@@ -18,20 +17,19 @@ kanban-plugin: board
 - [ ] Exam 1031 @{9-1-2025} @@{14:00}
 	- revise
 		- We can bring printed notes, so just bang out a load
+		- do the weekly quizzes again
 		- [online mock exam](https://ncl.instructure.com/courses/54982/assignments)
 	- Bring pen + paper
 	- do not be fucking late
-- [ ] Exam 1032 revision @{16-1-2025} @@{14:00}
+- [ ] Exam 1032 revision @{16-1-2025}  @@{14:00}
+	- revise
+	- [mock exam](https://ncl.instructure.com/courses/54983/assignments/284696?module_item_id=3549649)
 - [ ] wtf was 1032 lecture 09/12
 
 
 ## Complete
 
 **Complete**
-- [x] catchup on content from 05/12 @{8-12-2024}
-- [x] [1031 study materials week 10](https://ncl.instructure.com/courses/54982/pages/week-10-study-material?module_item_id=3341139) @{4-12-2024}
-- [x] [1034 coursework 3](https://ncl.instructure.com/courses/54985/assignments/266756)
-	@{13-12-2024} @@{14:00}
 
 
 ***
@@ -73,6 +71,10 @@ kanban-plugin: board
 - [x] [1031 Week 9 study material ](https://ncl.instructure.com/courses/54982/pages/week-9-study-material?module_item_id=3341117) @{27-11-2024}
 - [x] [1031 week 9 quiz](https://ncl.instructure.com/courses/54982/modules) @{28-11-2024}
 - [x] 1033 lecture on thurs **CANCELLED** @{28-11-2024}
+- [x] catchup on content from 05/12 @{8-12-2024}
+- [x] [1031 study materials week 10](https://ncl.instructure.com/courses/54982/pages/week-10-study-material?module_item_id=3341139) @{4-12-2024}
+- [x] [1034 coursework 3](https://ncl.instructure.com/courses/54985/assignments/266756)
+	@{13-12-2024} @@{14:00}
 
 %% kanban:settings
 ```
