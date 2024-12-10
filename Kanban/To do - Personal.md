@@ -20,6 +20,9 @@ kanban-plugin: board
 
 ## Music and films
 
+- [ ] CSH - monomania
+- [ ] CSH - nervous young man
+- [ ] new kendrick
 
 
 ***

@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "59397632714fa2e7",
+        "id": "6f908e62515c07f4",
         "type": "tabs",
         "children": [
           {
-            "id": "353d1c64de753f31",
+            "id": "8dd5871beeeb6083",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/To do - Personal.md",
+                "file": "Kanban/1034 assessment 3 checking.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
                     false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "To do - Personal"
+              "title": "1034 assessment 3 checking"
             }
           }
         ]
@@ -265,10 +263,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "353d1c64de753f31",
+  "active": "8dd5871beeeb6083",
   "lastOpenFiles": [
-    "Kanban/1034 assessment 3 checking.md",
     "Kanban/To do - Uni.md",
+    "Kanban/1034 assessment 3 checking.md",
     "Kanban/To do - Personal.md",
     "Kanban",
     "Compsci Notes/1032 Architecture and Design/Cache memory.md",

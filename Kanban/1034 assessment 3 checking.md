@@ -14,6 +14,8 @@ kanban-plugin: board
 - [ ] is code well structured and commented
 - [ ] check git log to see if its clear
 - [ ] check optimisation report up to a good standard
+- [ ] liscence.md
+- [ ] requirements.txt
 
 
 ## Done
