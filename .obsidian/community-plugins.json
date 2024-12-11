@@ -1,8 +1,7 @@
 [
-  "obsidian-git",
-  "obsidian-kanban",
   "obsidian-style-settings",
   "table-editor-obsidian",
+  "automatic-table-of-contents",
   "better-export-pdf",
   "better-mathjax",
   "callout-manager",
@@ -10,11 +9,12 @@
   "obsidian-copy-block-link",
   "obsidian-excalidraw-plugin",
   "file-explorer-plus",
-  "highlightr-plugin",
+  "obsidian-git",
   "obsidian-image-toolkit",
+  "highlightr-plugin",
+  "obsidian-kanban",
+  "list-style",
   "quick-tagger",
   "settings-search",
-  "text-extractor",
-  "automatic-table-of-contents",
-  "list-style"
+  "text-extractor"
 ]
