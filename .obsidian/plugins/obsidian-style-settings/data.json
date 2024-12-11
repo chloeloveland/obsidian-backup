@@ -29,7 +29,6 @@
   "blue-topaz-theme@@list-indent": 1.5,
   "blue-topaz-theme@@bt-connected-indent-hover": false,
   "blue-topaz-theme@@bt-colorful-indentation-lines-editing": true,
-  "blue-topaz-theme@@bt-colorful-indentation-lines": true,
   "blue-topaz-theme@@bt-colorful-indentation-width": "2px",
   "blue-topaz-theme@@bt-colorful-connected-indent-hover": true,
   "blue-topaz-theme@@callout-style-settings": "border-callout-style",
@@ -69,5 +68,7 @@
   "blue-topaz-theme@@remove-selectionbackground": false,
   "blue-topaz-theme@@text-selection@@dark": "#FFBAF0",
   "blue-topaz-theme@@font-size-code": "1em",
-  "blue-topaz-theme@@ordered-list-style-options": "default-ol-list-marker"
+  "blue-topaz-theme@@ordered-list-style-options": "default-ol-list-marker",
+  "blue-topaz-theme@@bt-colorful-indentation-line-options": "default-indentation-line",
+  "blue-topaz-theme@@bt-colorful-indentation-lines": true
 }
