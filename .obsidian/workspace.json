@@ -13,17 +13,19 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/1034 assessment 3 checking.md",
+                "file": "Kanban/To do - Personal.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
                     false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "1034 assessment 3 checking"
+              "title": "To do - Personal"
             }
           }
         ]

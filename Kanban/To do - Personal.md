@@ -18,11 +18,12 @@ kanban-plugin: board
 - [ ] Obsidian plugin for multiline alignment
 
 
-## Music and films
+## Music, films, books
 
 - [ ] CSH - monomania
 - [ ] CSH - nervous young man
 - [ ] new kendrick
+- [ ] House of Leaves book
 
 
 ***
