@@ -11,10 +11,15 @@
             "id": "ace55a1eda4e0545",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Predicate Logic"
             }
           }
         ]
@@ -186,11 +191,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false
+      "quick-tagger:Remove tag from current note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ace55a1eda4e0545",
   "lastOpenFiles": [
+    "Compsci Notes/1032 Architecture and Design/Comparator.md",
+    "Compsci Notes/1033 Data Science/Dependencies (functional and transitive).md",
     "Compsci Notes/1031 Fundamentals/Sets.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1031 Fundamentals/vape.md",
@@ -216,8 +224,6 @@
     "Compsci Notes/1031 Fundamentals/Common Sets.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1031 Fundamentals/Power Set.md",
-    "Compsci Notes/1032 Architecture and Design/Memory.md",
-    "Compsci Notes/1032 Architecture and Design/ARM.md",
     "Attachments/Images/Polaroid-Photo-Sizes-768x319-4252116116.png",
     "Images/Polaroid-Photo-Sizes-768x319-4252116116.png.~tmp",
     "Images/600_Film_Dimensions-2393935350.jpg",
