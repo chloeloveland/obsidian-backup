@@ -62,6 +62,7 @@ This is the basis of the **[[Laws of Equivalence]].**
 | T   | F   | F             |
 | T   | T   | T             |
 
+
 ## Limitations
 Propositional logic cannot reason about properties over infinite sets.
 To do this, we use [[Predicate Logic]], an extension of propositional logic.

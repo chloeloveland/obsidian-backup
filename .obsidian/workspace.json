@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f908e62515c07f4",
+        "id": "e510d5abed749227",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd5871beeeb6083",
+            "id": "ace55a1eda4e0545",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
-              "state": {
-                "file": "Attachments/Drawings/Venn Diagram intersect.md"
-              },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Venn Diagram intersect"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -191,12 +189,15 @@
       "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "8dd5871beeeb6083",
+  "active": "ace55a1eda4e0545",
   "lastOpenFiles": [
+    "Compsci Notes/1031 Fundamentals/Sets.md",
+    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
+    "Compsci Notes/1031 Fundamentals/vape.md",
+    "Attachments/Drawings/Venn Diagram intersect.md",
     "Attachments/Drawings/Venn Diagram diff.md",
     "Attachments/Drawings/transitivedrawing.md",
     "Attachments/Drawings/recursive binary relation.md",
-    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Kanban/To do - Uni.md",
     "Kanban/To do - Personal.md",
     "Compsci Notes/1034 Programming/Named Tuple.md",
@@ -212,14 +213,11 @@
     "Compsci Notes/1032 Architecture and Design/Logical circuit.md",
     "Compsci Notes/1032 Architecture and Design/CISC and RISC.md",
     "Compsci Notes/1032 Architecture and Design/Boolean logic.md",
-    "Compsci Notes/1031 Fundamentals/Sets.md",
     "Compsci Notes/1031 Fundamentals/Common Sets.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1031 Fundamentals/Power Set.md",
     "Compsci Notes/1032 Architecture and Design/Memory.md",
     "Compsci Notes/1032 Architecture and Design/ARM.md",
-    "Compsci Notes/1032 Architecture and Design/Parity bit.md",
-    "Compsci Notes/1031 Fundamentals/Laws of Equivalence.md",
     "Attachments/Images/Polaroid-Photo-Sizes-768x319-4252116116.png",
     "Images/Polaroid-Photo-Sizes-768x319-4252116116.png.~tmp",
     "Images/600_Film_Dimensions-2393935350.jpg",
