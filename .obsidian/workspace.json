@@ -11,23 +11,12 @@
             "id": "8dd5871beeeb6083",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw-loading",
               "state": {
-                "file": "Kanban/To do - Uni.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Attachments/Drawings/Venn Diagram intersect.md"
               },
-              "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... Venn Diagram intersect"
             }
           }
         ]
@@ -204,8 +193,12 @@
   },
   "active": "8dd5871beeeb6083",
   "lastOpenFiles": [
-    "Kanban/To do - Personal.md",
+    "Attachments/Drawings/Venn Diagram diff.md",
+    "Attachments/Drawings/transitivedrawing.md",
+    "Attachments/Drawings/recursive binary relation.md",
+    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Kanban/To do - Uni.md",
+    "Kanban/To do - Personal.md",
     "Compsci Notes/1034 Programming/Named Tuple.md",
     "Compsci Notes/1034 Programming/Graph.md",
     "Compsci Notes/1034 Programming/Graphs in code.md",
@@ -222,15 +215,11 @@
     "Compsci Notes/1031 Fundamentals/Sets.md",
     "Compsci Notes/1031 Fundamentals/Common Sets.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
-    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1031 Fundamentals/Power Set.md",
     "Compsci Notes/1032 Architecture and Design/Memory.md",
     "Compsci Notes/1032 Architecture and Design/ARM.md",
     "Compsci Notes/1032 Architecture and Design/Parity bit.md",
     "Compsci Notes/1031 Fundamentals/Laws of Equivalence.md",
-    "1034 coursework 3.md",
-    "Compsci Notes/1032 Architecture and Design/Logic gates.md",
-    "Compsci Notes/1032 Architecture and Design/Multiplexer.md",
     "Attachments/Images/Polaroid-Photo-Sizes-768x319-4252116116.png",
     "Images/Polaroid-Photo-Sizes-768x319-4252116116.png.~tmp",
     "Images/600_Film_Dimensions-2393935350.jpg",
