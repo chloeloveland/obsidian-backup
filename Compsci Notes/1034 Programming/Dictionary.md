@@ -12,4 +12,3 @@ country_capitals = {
   "England": "London"
 }
 ```
-
