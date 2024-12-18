@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1031 Fundamentals/Expressing Sets.md",
+                "file": "Compsci Notes/1031 Fundamentals/Relations.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expressing Sets"
+              "title": "Relations"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "ace55a1eda4e0545",
   "lastOpenFiles": [
+    "Compsci Notes/1031 Fundamentals/Expressing Sets.md",
     "Compsci Notes/1031 Fundamentals/Cartesian Product.md",
     "Compsci Notes/1031 Fundamentals/Tuples.md",
-    "Compsci Notes/1031 Fundamentals/Expressing Sets.md",
     "Compsci Notes/1031 Fundamentals/Power Set.md",
     "Compsci Notes/1031 Fundamentals/Sets.md",
     "Kanban/To do - Uni.md",
