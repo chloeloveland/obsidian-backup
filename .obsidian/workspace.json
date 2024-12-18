@@ -37,7 +37,8 @@
               "title": "Properties of functions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ace55a1eda4e0545",
+  "active": "aa9f938487979494",
   "lastOpenFiles": [
-    "Compsci Notes/1031 Fundamentals/Properties of functions.md",
     "Compsci Notes/1031 Fundamentals/Function.md",
+    "Compsci Notes/1031 Fundamentals/Properties of functions.md",
     "Compsci Notes/1031 Fundamentals/Properties of relations.md",
     "Compsci Notes/1031 Fundamentals/Relations.md",
     "Practice questions/1031/Week 6/6.4 Counter examples.md",
