@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1031 Fundamentals/Properties of relations.md",
+                "file": "Compsci Notes/1031 Fundamentals/Function.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Properties of relations"
+              "title": "Function"
+            }
+          },
+          {
+            "id": "aa9f938487979494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compsci Notes/1031 Fundamentals/Properties of functions.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Properties of functions"
             }
           }
         ]
@@ -197,6 +212,9 @@
   },
   "active": "ace55a1eda4e0545",
   "lastOpenFiles": [
+    "Compsci Notes/1031 Fundamentals/Properties of functions.md",
+    "Compsci Notes/1031 Fundamentals/Function.md",
+    "Compsci Notes/1031 Fundamentals/Properties of relations.md",
     "Compsci Notes/1031 Fundamentals/Relations.md",
     "Practice questions/1031/Week 6/6.4 Counter examples.md",
     "Compsci Notes/1031 Fundamentals/Expressing Sets.md",
@@ -220,10 +238,7 @@
     "Compsci Notes/1034 Programming/Graphs in code.md",
     "Compsci Notes/1034 Programming/Dijkstra's Shortest Path.md",
     "Compsci Notes/1034 Programming/Dictionary.md",
-    "Kanban/1034 assessment 3 checking.md",
     "Kanban",
-    "Compsci Notes/1032 Architecture and Design/Cache memory.md",
-    "Compsci Notes/1032 Architecture and Design/CPU.md",
     "Attachments/Images/Polaroid-Photo-Sizes-768x319-4252116116.png",
     "Images/Polaroid-Photo-Sizes-768x319-4252116116.png.~tmp",
     "Images/600_Film_Dimensions-2393935350.jpg",
