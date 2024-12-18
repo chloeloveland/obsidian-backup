@@ -37,7 +37,7 @@ tags:
 > Recursive case: $if (x,y)\in le$$ss$ then $(x,y+1)\in less$ and $(x+1,y+1)\in less$ 
 > ![[recursive binary relation]]
 ## Binary relations as Graphs
-- Binary relations can be visualised as **directed [[graph|graphs]]** where the arrow points from the first in the [[Tuples|tuple]] to the second.
+- Binary relations can be visualised as **directed [[graph|graphs]]** where the arrow points from the first in the [[Tuples#Ordered pair|ordered pair]] to the second.
 	- These are generated through a simple process
 		1. Every element of set A is a node
 		2. For each pair $(x,y)\in \Bbb R$ add an edge (arrow) x->y
