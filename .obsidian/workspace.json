@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1031 Fundamentals/Properties of functions.md",
+                "file": "Compsci Notes/1031 Fundamentals/Proof.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Properties of functions"
+              "title": "Proof"
             }
           }
         ],
@@ -213,8 +213,8 @@
   },
   "active": "aa9f938487979494",
   "lastOpenFiles": [
-    "Compsci Notes/1031 Fundamentals/Function.md",
     "Compsci Notes/1031 Fundamentals/Properties of functions.md",
+    "Compsci Notes/1031 Fundamentals/Function.md",
     "Compsci Notes/1031 Fundamentals/Properties of relations.md",
     "Compsci Notes/1031 Fundamentals/Relations.md",
     "Practice questions/1031/Week 6/6.4 Counter examples.md",
