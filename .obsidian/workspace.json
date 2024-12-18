@@ -11,10 +11,15 @@
             "id": "ace55a1eda4e0545",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Compsci Notes/1031 Fundamentals/Properties of relations.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Properties of relations"
             }
           }
         ]
@@ -192,8 +197,8 @@
   },
   "active": "ace55a1eda4e0545",
   "lastOpenFiles": [
-    "Practice questions/1031/Week 6/6.4 Counter examples.md",
     "Compsci Notes/1031 Fundamentals/Relations.md",
+    "Practice questions/1031/Week 6/6.4 Counter examples.md",
     "Compsci Notes/1031 Fundamentals/Expressing Sets.md",
     "Compsci Notes/1031 Fundamentals/Cartesian Product.md",
     "Compsci Notes/1031 Fundamentals/Tuples.md",
