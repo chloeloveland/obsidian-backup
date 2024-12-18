@@ -6,3 +6,8 @@
 	2. **Induction Step:** Let $k\in \Bbb N$.
 		- Assume $P(k)$ holds (induction hypothesis)
 		- Then show $P(k+1)$ holds.
+
+## Properties of relations
+- Reflexive = each member has a relation where it points to itself i.e. $R(x,x)$
+- Symmetric = if R(2,1) then R(1,2). Each relation has another which is flipped.
+- Transitive = if $R(x,y)$ and $R(y,z)$, then R(x,z). If a path exists, it can be done in one edge.

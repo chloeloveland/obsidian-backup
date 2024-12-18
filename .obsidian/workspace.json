@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "1031 notes for exam.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -37,7 +37,8 @@
               "title": "1031 notes for exam"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa9f938487979494",
+  "active": "726f3aebe50b2ee9",
   "lastOpenFiles": [
-    "1031 notes for exam.md",
     "Compsci Notes/1031 Fundamentals/Proof.md",
+    "1031 notes for exam.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1031 Fundamentals/Properties of functions.md",
     "Compsci Notes/1031 Fundamentals/Function.md",
