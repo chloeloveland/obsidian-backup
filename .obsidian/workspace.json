@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
+                "file": "Compsci Notes/1031 Fundamentals/Proof.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propositional Logic"
+              "title": "Proof"
+            }
+          },
+          {
+            "id": "726f3aebe50b2ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,12 +207,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false
+      "quick-tagger:Remove tag from current note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa9f938487979494",
+  "active": "1268de5c4756bdd0",
   "lastOpenFiles": [
+    "Untitled.md",
     "Compsci Notes/1031 Fundamentals/Proof.md",
+    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1031 Fundamentals/Properties of functions.md",
     "Compsci Notes/1031 Fundamentals/Function.md",
     "Compsci Notes/1031 Fundamentals/Properties of relations.md",
@@ -212,7 +231,6 @@
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1032 Architecture and Design/Comparator.md",
     "Compsci Notes/1033 Data Science/Dependencies (functional and transitive).md",
-    "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1031 Fundamentals/vape.md",
     "Attachments/Drawings/Venn Diagram intersect.md",
     "Attachments/Drawings/Venn Diagram diff.md",
@@ -221,7 +239,6 @@
     "Compsci Notes/1034 Programming/Named Tuple.md",
     "Compsci Notes/1034 Programming/Graph.md",
     "Compsci Notes/1034 Programming/Graphs in code.md",
-    "Compsci Notes/1034 Programming/Dijkstra's Shortest Path.md",
     "Kanban",
     "Attachments/Images/Polaroid-Photo-Sizes-768x319-4252116116.png",
     "Images/Polaroid-Photo-Sizes-768x319-4252116116.png.~tmp",
