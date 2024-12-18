@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "1031 notes for exam.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1031 notes for exam"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,9 +210,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1268de5c4756bdd0",
+  "active": "aa9f938487979494",
   "lastOpenFiles": [
-    "Untitled.md",
+    "1031 notes for exam.md",
     "Compsci Notes/1031 Fundamentals/Proof.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1031 Fundamentals/Properties of functions.md",
