@@ -11,23 +11,15 @@
             "id": "ace55a1eda4e0545",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/To do - Uni.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Compsci Notes/1031 Fundamentals/Expressing Sets.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To do - Uni"
+              "icon": "lucide-file",
+              "title": "Expressing Sets"
             }
           }
         ]
@@ -61,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "set comprehension",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,12 +198,12 @@
   },
   "active": "ace55a1eda4e0545",
   "lastOpenFiles": [
-    "Kanban/To do - Personal.md",
+    "Compsci Notes/1031 Fundamentals/Sets.md",
     "Kanban/To do - Uni.md",
+    "Kanban/To do - Personal.md",
     "Compsci Notes/1031 Fundamentals/Predicate Logic.md",
     "Compsci Notes/1032 Architecture and Design/Comparator.md",
     "Compsci Notes/1033 Data Science/Dependencies (functional and transitive).md",
-    "Compsci Notes/1031 Fundamentals/Sets.md",
     "Compsci Notes/1031 Fundamentals/Propositional Logic.md",
     "Compsci Notes/1031 Fundamentals/vape.md",
     "Attachments/Drawings/Venn Diagram intersect.md",
